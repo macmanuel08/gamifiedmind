@@ -1,0 +1,145 @@
+/* LAYOUT */
+
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+
+.container {
+  width: clamp(30px, 90%, 1440px);
+  margin: 0 auto;
+}
+
+.header-logo {
+  width: 150px;
+  height: 145px;
+  margin-bottom: -60px;
+  position: relative;
+  z-index: 10;
+}
+
+header .content.flex {
+  justify-content: space-between;
+}
+
+.hero {min-height: 85vh;}
+
+.btn-wrapper {
+  margin-top: 30px;
+}
+
+/* Default */
+nav li {list-style: none;}
+
+.hero {
+  background-image: url(/assets/gm-hero.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  backdrop-filter: blur(2px) saturate(200%);
+  -webkit-backdrop-filter: blur(2px) saturate(200%);
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  position: relative;
+}
+
+.hero-title {
+  width: clamp(310px, 85%, 1440px);
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 0);
+  bottom: 25vh;
+  bottom: 25svh;
+}
+
+.btn {
+  font-family: monospace, sans-serif;
+  font-size: clamp(18px, 1vw + 1rem, 1.5rem);
+  padding: 15px 30px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border-radius: 5px;
+  border: 2px solid #1B335F;
+  display: block;
+  width: fit-content;
+}
+
+.btn.primary-btn {
+  color: #fff;
+  background-color: #1B335F;
+}
+
+.btn.primary-btn:hover {
+  background: #96ADCF;
+  color: #1B335F;
+  border-color: #96ADCF;
+}
+
+.btn.secondary-btn {
+  color: #1B335F;
+  background: transparent;
+}
+
+.btn.secondary-btn:hover {
+  background-color: #96ADCF;
+  border-color: #96ADCF;
+  color: #1B335F;
+}
+
+.center-btn {margin: 0 auto;}
+
+.welcome {padding: 80px 0;}
+
+/* Fonts / Texts */
+
+@font-face{font-family:RocaOne-It;src:url('/assets/fonts/RocaOne-It.woff2') format('woff2'),url('/assets/fonts/RocaOne-It.woff') format('woff');font-weight:400;font-style:italic;font-display:swap}@font-face{font-family:RocaOne-Hv;src:url('/assets/fonts/RocaOne-Hv.woff2') format('woff2'),url('/assets/fonts/RocaOne-Hv.woff') format('woff');font-weight:900;font-style:normal;font-display:swap}@font-face{font-family:RocaOne-Rg;src:url('/assets/fonts/RocaOne-Rg.woff2') format('woff2'),url('/assets/fonts/RocaOne-Rg.woff') format('woff');font-weight:400;font-style:normal;font-display:swap}@font-face{font-family:RocaOne-HvIt;src:url('/assets/fonts/RocaOne-HvIt.woff2') format('woff2'),url('/assets/fonts/RocaOne-HvIt.woff') format('woff');font-weight:900;font-style:italic;font-display:swap}@font-face{font-family:RocaOne;src:url('/assets/fonts/RocaOne-Bold.woff2') format('woff2'),url('/assets/fonts/RocaOne-Bold.woff') format('woff');font-weight:700;font-style:normal;font-display:swap}@font-face{font-family:RocaOne-BdIt;src:url('/assets/fonts/RocaOne-BdIt.woff2') format('woff2'),url('/assets/fonts/RocaOne-BdIt.woff') format('woff');font-weight:700;font-style:italic;font-display:swap}@font-face{font-family:RocaOne-Bl;src:url('/assets/fonts/RocaOne-Bl.woff2') format('woff2'),url('/assets/fonts/RocaOne-Bl.woff') format('woff');font-weight:900;font-style:normal;font-display:swap}@font-face{font-family:RocaOne-BlIt;src:url('/assets/fonts/RocaOne-BlIt.woff2') format('woff2'),url('/assets/fonts/RocaOne-BlIt.woff') format('woff');font-weight:900;font-style:italic;font-display:swap}@font-face{font-family:RocaOne-ThIt;src:url('/assets/fonts/RocaOne-ThIt.woff2') format('woff2'),url('/assets/fonts/RocaOne-ThIt.woff') format('woff');font-weight:100;font-style:italic;font-display:swap}@font-face{font-family:RocaOne-Th;src:url('RocaOne-Th.woff2') format('woff2'),url('RocaOne-Th.woff') format('woff');font-weight:100;font-style:normal;font-display:swap}@font-face{font-family:RocaOne-LtIt;src:url('RocaOne-LtIt.woff2') format('woff2'),url('RocaOne-LtIt.woff') format('woff');font-weight:300;font-style:italic;font-display:swap}@font-face{font-family:RocaOne-Lt;src:url('RocaOne-Lt.woff2') format('woff2'),url('RocaOne-Lt.woff') format('woff');font-weight:300;font-style:normal;font-display:swap}
+
+.hero-title h1 {
+  font-size: clamp(2.5rem, 5vw + 1rem, 8rem);
+  font-family: 'RocaOne-Rg', serif;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.hero-title h2 {
+  font-family: monospace, sans-serif;
+  font-size: clamp(18px, 1vw + 1rem, 1.5rem);
+  text-align: center;
+  line-height: 30px;
+  text-transform: uppercase;
+}
+
+h1 strong, p strong {font-weight: 600;}
+
+a {text-decoration: none;}
+
+div a, div p {
+  font-size: 1rem;
+  font-family: Helvetica, sans-serif;
+}
+div p {line-height: 20px;}
+
+h1 {font-family: 'RocaOne-Rg';}
+
+@media (min-width: 40em) {
+  div a, div p {font-size: 1.2rem;}
+  div p {line-height: 28px;}
+}
+
+/* Color */
+header {
+  background-color: #96ADCF;
+}
+
+nav a {color: #fff;}
+
+.hero-title h1, .hero-title p {color: #1B335F;}
+
+.welcome {
+  background: rgb(27,51,95);
+  background: linear-gradient(205deg, rgba(150,173,207,1) 0%, rgba(87,111,150,1) 15%, rgba(69,93,133,1) 30%, rgba(48,72,114,1) 45%, rgba(27,51,95,1) 100%);
+}
+
+.welcome h2, .welcome h3, .welcome p {color: #fff;}
