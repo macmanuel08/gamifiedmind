@@ -1,0 +1,1928 @@
+{
+    "sentence-completion":[
+       {
+          "id":1,
+          "question":"The company's ___________ growth in the past year exceeded all expectations.",
+          "choices":{
+             "a":"exponential",
+             "b":"meteoric",
+             "c":"rapid",
+             "d":"significant",
+             "e":"substantial"
+          },
+          "answer":"a",
+          "explanation":"The word 'exponential' means rapidly increasing, especially in size or extent, which perfectly fits the context of the sentence."
+       },
+       {
+          "id":2,
+          "question":"Despite the setback, the team displayed remarkable ___________ in bouncing back.",
+          "choices":{
+             "a":"resilience",
+             "b":"fortitude",
+             "c":"tenacity",
+             "d":"strength",
+             "e":"perseverance"
+          },
+          "answer":"a",
+          "explanation":"Resilience refers to the ability to recover quickly from setbacks or difficulties, making it the most appropriate choice for the context."
+       },
+       {
+          "id":3,
+          "question":"The artist's ___________ use of color evoked strong emotions in the viewers.",
+          "choices":{
+             "a":"vivid",
+             "b":"dynamic",
+             "c":"expressive",
+             "d":"vibrant",
+             "e":"bold"
+          },
+          "answer":"d",
+          "explanation":"The word 'vibrant' means full of energy and life, especially in color, which best describes the artist's use of color in evoking strong emotions."
+       },
+       {
+          "id":4,
+          "question":"The new law had a ___________ impact on small businesses.",
+          "choices":{
+             "a":"detrimental",
+             "b":"negative",
+             "c":"adverse",
+             "d":"harmful",
+             "e":"damaging"
+          },
+          "answer":"c",
+          "explanation":"The word 'adverse' means unfavorable or harmful, making it the most suitable choice for describing the impact of the new law on small businesses."
+       },
+       {
+          "id":5,
+          "question":"The explorer's ___________ journey through the wilderness captured the imagination of the public.",
+          "choices":{
+             "a":"epic",
+             "b":"adventurous",
+             "c":"daring",
+             "d":"bold",
+             "e":"heroic"
+          },
+          "answer":"b",
+          "explanation":"The word 'adventurous' describes a journey full of excitement and new experiences, which fits the context of the explorer's journey through the wilderness."
+       },
+       {
+          "id":6,
+          "question":"The conference provided a ___________ platform for experts to exchange ideas.",
+          "choices":{
+             "a":"vibrant",
+             "b":"dynamic",
+             "c":"stimulating",
+             "d":"engaging",
+             "e":"interactive"
+          },
+          "answer":"e",
+          "explanation":"The term 'interactive' implies active participation and communication, making it the most suitable choice for describing the platform provided by the conference."
+       },
+       {
+          "id":7,
+          "question":"The musician's ___________ performance left the audience in awe.",
+          "choices":{
+             "a":"stellar",
+             "b":"captivating",
+             "c":"mesmerizing",
+             "d":"spellbinding",
+             "e":"riveting"
+          },
+          "answer":"c",
+          "explanation":"The word 'mesmerizing' means captivating or spellbinding, perfectly describing the effect of the musician's performance on the audience."
+       },
+       {
+          "id":8,
+          "question":"The politician's ___________ rhetoric stirred up controversy among the electorate.",
+          "choices":{
+             "a":"incendiary",
+             "b":"provocative",
+             "c":"inflammatory",
+             "d":"contentious",
+             "e":"controversial"
+          },
+          "answer":"a",
+          "explanation":"The term 'incendiary' refers to provocative or inflammatory speech that tends to arouse strong emotions or provoke conflict, making it the most appropriate choice for describing the politician's rhetoric."
+       },
+       {
+          "id":9,
+          "question":"The architect's ___________ design seamlessly integrated functionality and aesthetics.",
+          "choices":{
+             "a":"innovative",
+             "b":"creative",
+             "c":"ingenious",
+             "d":"visionary",
+             "e":"groundbreaking"
+          },
+          "answer":"c",
+          "explanation":"The word 'ingenious' means cleverly inventive or resourceful, which accurately describes the architect's design in seamlessly integrating functionality and aesthetics."
+       },
+       {
+          "id":10,
+          "question":"The novel's ___________ plot twists kept readers guessing until the very end.",
+          "choices":{
+             "a":"intricate",
+             "b":"complex",
+             "c":"convoluted",
+             "d":"twisted",
+             "e":"perplexing"
+          },
+          "answer":"a",
+          "explanation":"The term 'intricate' means complex or detailed, suggesting that the plot of the novel is carefully woven and full of twists and turns that keep readers engaged."
+       },
+       {
+          "id":11,
+          "question":"The old house was said to be haunted, so visitors were advised to be ___________ to encountering supernatural phenomena.",
+          "choices":{
+             "a":"alert",
+             "b":"resistant",
+             "c":"oblivious",
+             "d":"susceptible",
+             "e":"indifferent"
+          },
+          "answer":"d",
+          "explanation":"The correct answer is 'd', susceptible. Susceptible means likely or prone to be affected by something. In this context, visitors are likely to encounter supernatural phenomena."
+       },
+       {
+          "id":12,
+          "question":"The new hiking trail passes through dense forests where hikers should be ___________ to encountering wild animals.",
+          "choices":{
+             "a":"attentive",
+             "b":"hostile",
+             "c":"indifferent",
+             "d":"prone",
+             "e":"receptive"
+          },
+          "answer":"a",
+          "explanation":"The correct answer is 'a', attentive. Hikers should be attentive to encountering wild animals, meaning they need to be alert and observant."
+       },
+       {
+          "id":13,
+          "question":"Before swimming in the ocean, it's important to be ___________ to the possibility of strong currents.",
+          "choices":{
+             "a":"naive",
+             "b":"immune",
+             "c":"resilient",
+             "d":"vigilant",
+             "e":"prone"
+          },
+          "answer":"d",
+          "explanation":"The correct answer is 'd', vigilant. Vigilant means watchful and attentive. In this context, being aware of the possibility of strong currents is crucial for safety."
+       },
+       {
+          "id":14,
+          "question":"The abandoned warehouse was rumored to be a hideout for criminals, so locals were advised to be ___________ to encountering dangerous individuals.",
+          "choices":{
+             "a":"receptive",
+             "b":"apathetic",
+             "c":"susceptible",
+             "d":"cautious",
+             "e":"resistant"
+          },
+          "answer":"d",
+          "explanation":"The correct answer is 'd', cautious. Cautious means careful and aware of potential risks. In this situation, being cautious is necessary to avoid encountering dangerous individuals."
+       },
+       {
+          "id":15,
+          "question":"The mountain road is narrow and winding, so drivers should be ___________ to the possibility of rockslides.",
+          "choices":{
+             "a":"prone",
+             "b":"reckless",
+             "c":"complacent",
+             "d":"vigilant",
+             "e":"oblivious"
+          },
+          "answer":"d",
+          "explanation":"The correct answer is 'd', vigilant. Vigilant means watchful and alert. Given the conditions of the mountain road, being vigilant is necessary to anticipate and avoid rockslides."
+       },
+       {
+          "id":16,
+          "question":"Mia's knack for __________ often annoys her classmates, but impresses her teachers.",
+          "choices":{
+             "a":"wit",
+             "b":"sarcasm",
+             "c":"teasing",
+             "d":"self-deprecation",
+             "e":"irony"
+          },
+          "answer":"b",
+          "explanation":"Mia's knack for sarcasm, her use of cutting or ironic remarks, often annoys her classmates who might not appreciate her sharp tongue, but impresses her teachers who recognize her ability to use language creatively."
+       },
+       {
+          "id":17,
+          "question":"Jake's habit of __________ is endearing to his friends, but exasperating to his boss.",
+          "choices":{
+             "a":"procrastination",
+             "b":"daydreaming",
+             "c":"overthinking",
+             "d":"meticulousness",
+             "e":"dawdling"
+          },
+          "answer":"d",
+          "explanation":"Jake's habit of meticulousness, his attention to detail and careful planning, might be endearing to his friends who admire his thoroughness, but it's exasperating to his boss who expects him to work more efficiently."
+       },
+       {
+          "id":18,
+          "question":"Emily's boldness is admired by her family, but criticized by her peers.",
+          "choices":{
+             "a":"assertiveness",
+             "b":"timidity",
+             "c":"meekness",
+             "d":"introversion",
+             "e":"confidence"
+          },
+          "answer":"a",
+          "explanation":"Emily's assertiveness, her confident and forceful personality, is admired by her family who sees it as a sign of strength, but criticized by her peers who might find it intimidating or overbearing."
+       },
+       {
+          "id":18,
+          "question":"Despite her efforts to quit smoking, she often finds herself __________ when stressed.",
+          "choices":{
+             "a":"reaching for cigarettes",
+             "b":"meditating",
+             "c":"exercising",
+             "d":"reading",
+             "e":"cooking"
+          },
+          "answer":"a",
+          "explanation":"The correct answer is 'a) reaching for cigarettes'. This reflects the behavior of reverting to smoking despite efforts to quit, especially in stressful situations."
+       },
+       {
+          "id":19,
+          "question":"Despite knowing the importance of a healthy diet, she often finds herself __________ on junk food.",
+          "choices":{
+             "a":"indulging",
+             "b":"preparing",
+             "c":"snacking",
+             "d":"cooking",
+             "e":"exercising"
+          },
+          "answer":"a",
+          "explanation":"The correct answer is 'a) indulging'. Despite understanding the significance of a healthy diet, she gives in to the temptation of junk food."
+       },
+       {
+          "id":20,
+          "question":"She aspires to improve her productivity, yet she keeps __________ her time on social media.",
+          "choices":{
+             "a":"wasting",
+             "b":"utilizing",
+             "c":"enhancing",
+             "d":"measuring",
+             "e":"reflecting"
+          },
+          "answer":"a",
+          "explanation":"The correct answer is 'a) wasting'. This reflects the behavior of spending time on social media instead of focusing on productivity improvement."
+       },
+       {
+          "id":21,
+          "question":"Despite being on a tight budget, she keeps __________ on unnecessary items.",
+          "choices":{
+             "a":"splurging",
+             "b":"budgeting",
+             "c":"saving",
+             "d":"investing",
+             "e":"donating"
+          },
+          "answer":"a",
+          "explanation":"The correct answer is 'a) splurging'. This indicates spending money extravagantly on unnecessary items despite financial constraints."
+       },
+       {
+          "id":22,
+          "question":"He wants to improve his time management skills, yet he keeps __________ his deadlines.",
+          "choices":{
+             "a":"missing",
+             "b":"meeting",
+             "c":"anticipating",
+             "d":"extending",
+             "e":"calculating"
+          },
+          "answer":"a",
+          "explanation":"The correct answer is 'a) missing'. This reflects the behavior of failing to meet deadlines despite the desire to enhance time management skills."
+       },
+       {
+          "id":23,
+          "question":"The chef's ___________ culinary skills left patrons craving for more.",
+          "choices":{
+             "a":"exquisite",
+             "b":"mediocre",
+             "c":"impeccable",
+             "d":"satisfactory",
+             "e":"average"
+          },
+          "answer":"c",
+          "explanation":"The term 'impeccable' means flawless or perfect, which accurately describes the chef's culinary skills in leaving patrons craving for more."
+       },
+       {
+          "id":24,
+          "question":"Despite facing numerous challenges, the team demonstrated unwavering ___________ in achieving their goals.",
+          "choices":{
+             "a":"determination",
+             "b":"ambiguity",
+             "c":"hesitation",
+             "d":"indecision",
+             "e":"resignation"
+          },
+          "answer":"a",
+          "explanation":"The correct answer is 'a', determination. Determination refers to the firmness of purpose or resoluteness, which the team exhibited in pursuing their goals despite challenges."
+       },
+       {
+          "id":25,
+          "question":"The professor's ___________ lectures captivated students and sparked their intellectual curiosity.",
+          "choices":{
+             "a":"monotonous",
+             "b":"captivating",
+             "c":"dreary",
+             "d":"uninspiring",
+             "e":"engaging"
+          },
+          "answer":"e",
+          "explanation":"The word 'engaging' means attracting and holding the attention or interest, which perfectly describes the professor's lectures in captivating students and sparking their intellectual curiosity."
+       }
+    ],
+    "vocabulary": [
+        {
+        "id": 26,
+        "question": "She 'covets' her neighbor's new car.",
+        "options": {
+            "a": "likes",
+            "b": "envies",
+            "c": "admires",
+            "d": "cherishes",
+            "e": "adores"
+        },
+        "answer": "b",
+        "explanation": "The correct answer is 'envies'. Covet means to desire strongly, especially something that belongs to someone else, which aligns with 'envies' in the options."
+        },
+        {
+        "id": 27,
+        "question": "He 'revels' in the beauty of nature.",
+        "options": {
+            "a": "detests",
+            "b": "abhors",
+            "c": "enjoys",
+            "d": "despises",
+            "e": "scorns"
+        },
+        "answer": "c",
+        "explanation": "The correct answer is 'enjoys'. Revel means to take great pleasure or delight in something, which corresponds to 'enjoys' in the options."
+        },
+        {
+        "id": 28,
+        "question": "They 'eschew' modern technology in favor of traditional methods.",
+        "options": {
+            "a": "adopt",
+            "b": "embrace",
+            "c": "reject",
+            "d": "welcome",
+            "e": "foster"
+        },
+        "answer": "c",
+        "explanation": "The correct answer is 'reject'. Eschew means to deliberately avoid or abstain from something, which is best represented by 'reject' among the options."
+        },
+        {
+        "id": 29,
+        "question": "She 'disdains' people who lack ambition.",
+        "options": {
+            "a": "praises",
+            "b": "admires",
+            "c": "respects",
+            "d": "scorns",
+            "e": "appreciates"
+        },
+        "answer": "d",
+        "explanation": "The correct answer is 'scorns'. Disdain means to regard with scorn or contempt, which aligns with 'scorns' in the options."
+        },
+        {
+        "id": 30,
+        "question": "He 'loathes' having to wait in long lines.",
+        "options": {
+            "a": "enjoys",
+            "b": "adores",
+            "c": "abhors",
+            "d": "cherishes",
+            "e": "revels"
+        },
+        "answer": "c",
+        "explanation": "The correct answer is 'abhors'. Loathe means to feel intense dislike or disgust for something, which is accurately represented by 'abhors' among the options."
+        },
+        {
+        "id": 31,
+        "question": "She 'abhors' the thought of public speaking.",
+        "options": {
+            "a": "likes",
+            "b": "enjoys",
+            "c": "adores",
+            "d": "detests",
+            "e": "revels"
+        },
+        "answer": "d",
+        "explanation": "The correct answer is 'detests'. Abhor and detest both mean to intensely dislike, but 'detests' is more suitable in this context as it emphasizes a strong aversion."
+        },
+        {
+        "id": 32,
+        "question": "He 'adulates' his favorite movie star.",
+        "options": {
+            "a": "criticizes",
+            "b": "idolizes",
+            "c": "reveres",
+            "d": "disdains",
+            "e": "scorns"
+        },
+        "answer": "b",
+        "explanation": "The correct answer is 'idolizes'. Adulate means to admire or worship someone excessively, which aligns with 'idolizes' in the options."
+        },
+        {
+        "id": 33,
+        "question": "They 'savor' the taste of fine wine.",
+        "options": {
+            "a": "abhor",
+            "b": "loathe",
+            "c": "detest",
+            "d": "relish",
+            "e": "eschew"
+        },
+        "answer": "d",
+        "explanation": "The correct answer is 'relish'. Savor means to enjoy or appreciate something thoroughly, especially when it comes to taste, which is best captured by 'relish' among the options."
+        },
+        {
+        "id": 34,
+        "question": "She 'abides' by the principles of honesty and integrity.",
+        "options": {
+            "a": "ignores",
+            "b": "violates",
+            "c": "respects",
+            "d": "adheres",
+            "e": "defies"
+        },
+        "answer": "d",
+        "explanation": "The correct answer is 'adheres'. Abide means to accept or act in accordance with a rule, decision, or recommendation, which aligns with 'adheres' in the options."
+        },
+        {
+        "id": 35,
+        "question": "He 'yearns' for adventure and excitement.",
+        "options": {
+            "a": "abhors",
+            "b": "loathes",
+            "c": "despises",
+            "d": "craves",
+            "e": "eschews"
+        },
+        "answer": "d",
+        "explanation": "The correct answer is 'craves'. Yearn means to have an intense longing or desire for something, which is best represented by 'craves' among the options."
+        },
+        {
+            "id": 36,
+            "question": "She possesses an 'innate' talent for music.",
+            "options": {
+              "a": "acquired",
+              "b": "inherent",
+              "c": "learned",
+              "d": "artificial",
+              "e": "simulated"
+            },
+            "answer": "b",
+            "explanation": "The correct answer is 'inherent'. 'Innate' refers to a quality or ability that one is born with, making 'inherent' the most suitable option among the choices."
+          },
+          {
+            "id": 37,
+            "question": "His 'acerbic' remarks often offended others.",
+            "options": {
+              "a": "soothing",
+              "b": "harsh",
+              "c": "bland",
+              "d": "amiable",
+              "e": "jovial"
+            },
+            "answer": "b",
+            "explanation": "'Acerbic' describes sharp, biting, or harsh speech, making 'harsh' the appropriate choice here."
+          },
+          {
+            "id": 38,
+            "question": "The 'apex' of his career was marked by international recognition.",
+            "options": {
+              "a": "beginning",
+              "b": "end",
+              "c": "height",
+              "d": "depth",
+              "e": "middle"
+            },
+            "answer": "c",
+            "explanation": "The correct answer is 'height'. 'Apex' refers to the highest point, culmination, or peak of something, making 'height' the most fitting choice among the options."
+          },
+          {
+            "id": 39,
+            "question": "She found his 'obfuscating' explanations frustrating.",
+            "options": {
+              "a": "clarifying",
+              "b": "confusing",
+              "c": "elucidating",
+              "d": "illuminating",
+              "e": "transparent"
+            },
+            "answer": "b",
+            "explanation": "'Obfuscating' means to make something unclear or confusing, hence 'confusing' is the correct choice in this context."
+          },
+          {
+            "id": 40,
+            "question": "The comedian's 'facetious' remarks were misunderstood by the audience.",
+            "options": {
+              "a": "serious",
+              "b": "sincere",
+              "c": "earnest",
+              "d": "humorous",
+              "e": "jovial"
+            },
+            "answer": "d",
+            "explanation": "'Facetious' remarks are meant to be humorous or flippant, so 'humorous' is the appropriate choice."
+          },
+          {
+            "id": 41,
+            "question": "The company's 'solvent' position allowed it to expand rapidly.",
+            "options": {
+              "a": "bankrupt",
+              "b": "liquid",
+              "c": "insolvent",
+              "d": "debt-ridden",
+              "e": "poor"
+            },
+            "answer": "b",
+            "explanation": "'Solvent' means having enough money to pay debts and other financial obligations, so 'liquid' is the correct choice here."
+          },
+          {
+            "id": 42,
+            "question": "His 'quixotic' ideas about changing the world often led to disappointment.",
+            "options": {
+              "a": "realistic",
+              "b": "practical",
+              "c": "idealistic",
+              "d": "sensible",
+              "e": "logical"
+            },
+            "answer": "c",
+            "explanation": "'Quixotic' refers to exceedingly idealistic or impractical pursuits, making 'idealistic' the appropriate choice among the options."
+          },
+          {
+            "id": 43,
+            "question": "The 'ubiquitous' presence of smartphones has transformed social interaction.",
+            "options": {
+              "a": "scarce",
+              "b": "rare",
+              "c": "limited",
+              "d": "pervasive",
+              "e": "infrequent"
+            },
+            "answer": "d",
+            "explanation": "'Ubiquitous' means present or found everywhere, making 'pervasive' the most suitable choice."
+          },
+          {
+            "id": 44,
+            "question": "His 'pungent' cologne filled the room.",
+            "options": {
+              "a": "fragrant",
+              "b": "sweet",
+              "c": "mild",
+              "d": "strong-smelling",
+              "e": "delicate"
+            },
+            "answer": "d",
+            "explanation": "'Pungent' refers to a strong, sharp, or penetrating odor, making 'strong-smelling' the correct choice."
+          },
+          {
+            "id": 45,
+            "question": "She was known for her 'garrulous' nature, always talking incessantly.",
+            "options": {
+              "a": "reserved",
+              "b": "quiet",
+              "c": "taciturn",
+              "d": "verbose",
+              "e": "loquacious"
+            },
+            "answer": "e",
+            "explanation": "'Garrulous' means excessively talkative, so 'loquacious' is the most appropriate choice."
+          },
+          {
+            "id": 46,
+            "question": "The 'arduous' journey through the mountains tested their endurance.",
+            "options": {
+              "a": "easy",
+              "b": "simple",
+              "c": "effortless",
+              "d": "challenging",
+              "e": "troublesome"
+            },
+            "answer": "d",
+            "explanation": "'Arduous' means requiring strenuous effort, making 'challenging' the correct choice."
+          },
+          {
+            "id": 47,
+            "question": "Her 'auspicious' start in the new job led to rapid promotions.",
+            "options": {
+              "a": "inauspicious",
+              "b": "unlucky",
+              "c": "ominous",
+              "d": "fortunate",
+              "e": "propitious"
+            },
+            "answer": "e",
+            "explanation": "'Auspicious' means favorable or conducive to success, making 'propitious' the appropriate choice."
+          },
+          {
+            "id": 48,
+            "question": "His 'reclusive' lifestyle meant he rarely interacted with others.",
+            "options": {
+              "a": "sociable",
+              "b": "outgoing",
+              "c": "gregarious",
+              "d": "withdrawn",
+              "e": "isolated"
+            },
+            "answer": "d",
+            "explanation": "'Reclusive' describes someone who avoids the company of others, so 'withdrawn' is the correct choice."
+          },
+          {
+            "id": 49,
+            "question": "The 'eccentric' artist's work often puzzled critics.",
+            "options": {
+              "a": "normal",
+              "b": "conventional",
+              "c": "unusual",
+              "d": "strange",
+              "e": "common"
+            },
+            "answer": "d",
+            "explanation": "'Eccentric' refers to unconventional or odd behavior, making 'strange' the most suitable choice among the options."
+          },
+          {
+            "id": 50,
+            "question": "The 'diligent' student always completed assignments ahead of time.",
+            "options": {
+              "a": "lazy",
+              "b": "careless",
+              "c": "indifferent",
+              "d": "hardworking",
+              "e": "unconcerned"
+            },
+            "answer": "d",
+            "explanation": "'Diligent' describes someone who is hardworking and attentive to tasks, making 'hardworking' the correct choice."
+          }
+    ],
+    "error-identification": [
+        {
+            "id": 51,
+            "question": "The <u class='a'>company</u> <u class='b'>have</u> recently <u class='c'>launched its new product line to great success.<u class='d'>NO ERROR</u>",
+            "choices": {
+                "a": "company",
+                "b": "have",
+                "c": "launched",
+                "d": "NO ERROR"
+            },
+            "answer": "b",
+            "explanation": "The correct answer is 'b'. 'Have' should be 'has' to agree with the singular subject 'company': 'The company has recently launched its new product line to great success.'"
+        },
+        {
+            "id": 52,
+            "question": "<u class='a'>John</u> <u class='b'>have</u> been studying French <u class='c'>since</u> he was a child. <u class='d'>NO ERROR</u>",
+            "choices": {
+                "a": "John",
+                "b": "have",
+                "c": "since",
+                "d": "NO ERROR"
+            },
+            "answer": "b",
+            "explanation": "The correct answer is 'b'. 'Have' should be 'has' to agree with the singular subject 'John': 'John has been studying French since he was a child.'"
+        },
+        {
+            "id": 53,
+            "question": "The <u class='a'>government</u> <u class='b'>are</u> <u class='c'>planning</u> to implement new policies next year. <u class='d'>NO ERROR</u>",
+            "choices": {
+                "a": "government",
+                "b": "are",
+                "c": "planning",
+                "d": "NO ERROR"
+            },
+            "answer": "b",
+            "explanation": "The correct answer is 'b'. 'Are' should be 'is' to agree with the singular subject 'government': 'The government is planning to implement new policies next year.'"
+        },
+        {
+            "id": 54,
+            "question": "She<u class='a'>was</u> very <u class='b'>hungry</u> and ate <u class='c'>a</u> large meal quickly. <u class='d'>NO ERROR</u>",
+            "choices": {
+                "a": "was",
+                "b": "hungry",
+                "c": "a",
+                "d": "NO ERROR"
+            },
+            "answer": "d",
+            "explanation": "The correct answer is 'c'. 'A' should be 'the' to specify a particular meal: 'She was very hungry and ate the large meal quickly.'"
+        },
+        {
+            "id": 55,
+            "question": "My <u class='a'>sister</u> <u class='b'>is</u> studying <u class='c'>in</u> the university to become a doctor. <u class='d'>NO ERROR</u>",
+            "choices": {
+                "a": "sister",
+                "b": "is",
+                "c": "in",
+                "d": "NO ERROR"
+            },
+            "answer": "c",
+            "explanation": "The correct answer is 'c'. 'In' should be 'at' to specify the location correctly: 'My sister is studying at the university to become a doctor.'"
+        },
+        {
+            "id": 56,
+            "question": "The <u class='a'>book</u> <u class='b'>was</u> written by Mark Twain, <u class='c'>a</u> famous American author. <u class='d'>NO ERROR</u>",
+            "choices": {
+                "a": "book",
+                "b": "was",
+                "c": "a",
+                "d": "NO ERROR"
+            },
+            "answer": "d",
+            "explanation": "The correct answer is 'c'. 'A' should be 'the' to specify a particular famous American author: 'The book was written by Mark Twain, the famous American author.'"
+        },
+        {
+            "id": 57,
+            "question": "The <u class='a'>students</a> <u class='b'>were</u> asked to write an essay about <u class='c'>there</u> favorite book. <u class='d'>NO ERROR</u>",
+            "choices": {
+                "a": "students",
+                "b": "were",
+                "c": "there",
+                "d": "NO ERROR"
+            },
+            "answer": "c",
+            "explanation": "The correct answer is 'c'. 'There' should be 'their' to indicate possession: 'The students were asked to write an essay about their favorite book.'"
+        },
+        {
+            "id": 58,
+            "question": "He <u class='a'>didn't</a> know <u class='b'>weather</u> he <u class='c'>should attend the meeting or not. <u class='d'>NO ERROR</u>",
+            "choices": {
+                "a": "didn't",
+                "b": "weather",
+                "c": "should",
+                "d": "NO ERROR"
+            },
+            "answer": "b",
+            "explanation": "The correct answer is 'b'. 'Weather' should be 'whether' to introduce a choice between two possibilities: 'He didn't know whether he should attend the meeting or not.'"
+        },
+        {
+            "id": 59,
+            "question": "The <u class='a'>dog</u> <u class='b'>ate</u> <u class='c'>its</u> food quickly then lay down to sleep. <u class='d'>NO ERROR</u>",
+            "choices": {
+                "a": "dog",
+                "b": "ate",
+                "c": "its",
+                "d": "NO ERROR"
+            },
+            "answer": "d",
+            "explanation": "The correct answer is 'd' (NO ERROR), 'The dog ate its food quickly then lay down to sleep.'"
+        },
+        {
+            "id": 60,
+            "question": "She <u class='a'>want</u> to buy a new car, but she <u class='b'>don't</u> <u class='c'>have</u> enough money. <u class='d'>NO ERROR</u>",
+            "choices": {
+                "a": "want",
+                "b": "don't",
+                "c": "have",
+                "d": "NO ERROR"
+            },
+            "answer": "b",
+            "explanation": "The correct answer is 'b'. 'Don't' should be 'doesn't' to agree with the singular subject 'she': 'She wants to buy a new car, but she doesn't have enough money.'"
+        },
+        {
+            "id": 61,
+            "question": "My <u class='a'>parents</u> <u class='b'>has</u> been married for <u class='c'>thirty years now. <u class='d'>NO ERROR</u>",
+            "choices": {
+                "a": "parents",
+                "b": "has",
+                "c": "thirty",
+                "d": "NO ERROR"
+            },
+            "answer": "b",
+            "explanation": "The correct answer is 'b'. 'Has' should be 'have' to agree with the plural subject 'parents': 'My parents have been married for thirty years now.'"
+        },
+        {
+            "id": 62,
+            "question": "We<u class='a'>will</u> <u class='b'>go</u> to the beach if the weather <u class='c'>are</u> nice. <u class='d'>NO ERROR</u>",
+            "choices": {
+                "a": "will",
+                "b": "go",
+                "c": "are",
+                "d": "NO ERROR"
+            },
+            "answer": "c",
+            "explanation": "The correct answer is 'c'. 'Are' should be 'is' to agree with the singular subject 'weather': 'We will go to the beach if the weather is nice.'"
+        },
+        {
+            "id": 63,
+            "question": "The <u class='a'>children</u> <u class='b'>have</u> <u class='c'>eaten</u> all of their lunch. <u class='d'>NO ERROR</u>",
+            "choices": {
+                "a": "children",
+                "b": "have",
+                "c": "eaten",
+                "d": "NO ERROR"
+            },
+            "answer": "d",
+            "explanation": "The correct answer is 'd' (NO ERROR),: 'The children have eaten all of their lunch.'"
+        },
+        {
+            "id": 64,
+            "question": "<u class='a'>She</u> <u class='b'>have</u> been to Paris <u class='c'>last</u> summer. <u class='d'>NO ERROR</u>",
+            "choices": {
+                "a": "She",
+                "b": "have",
+                "c": "last",
+                "d": "NO ERROR"
+            },
+            "answer": "b",
+            "explanation": "The correct answer is 'b'. 'Have' should be 'had' to maintain proper past tense usage: 'She had been to Paris last summer.'"
+        },
+        {
+            "id": 65,
+            "question": "The <u class='a'>student</u> <u class='b'>is</u> expected to <u class='c'>hand-in</u> his assignment by next Friday. <u class='d'>NO ERROR</u>",
+            "choices": {
+                "a": "student",
+                "b": "is",
+                "c": "hand-in",
+                "d": "NO ERROR"
+            },
+            "answer": "c",
+            "explanation": "The correct answer is 'c'. 'Hand-in' should be 'hand in' to correctly use the phrasal verb: 'The student is expected to hand in his assignment by next Friday.'"
+        }
+    ],
+    "analogy-single": [
+      {
+        "Id": 66,
+        "question": "Tree : Forest :: Fish : _____________",
+        "answer": 3,
+        "choices": {
+          "a": "Ocean",
+          "b": "River",
+          "c": "Aquarium",
+          "d": "Lake",
+          "e": "Beach"
+        },
+        "explanation": "In this analogy, the relationship between the words 'Tree' and 'Forest' is that a tree is part of a forest. Applying the same relationship to the second pair of words, a 'Fish' is commonly found in an 'Aquarium.' Therefore, the correct answer is (c) Aquarium."
+      },
+      {
+        "Id": 67,
+        "question": "Pen : Write :: Knife : _____________",
+        "answer": 4,
+        "choices": {
+          "a": "Chop",
+          "b": "Carve",
+          "c": "Slice",
+          "d": "Cut",
+          "e": "Ripe"
+        },
+        "explanation": "In this analogy, the relationship between the words 'Pen' and 'Write' is that a pen is used to write. Applying the same relationship to the second pair of words, a 'Knife' is used to 'Cut.' Therefore, the correct answer is (d) Cut."
+      },
+      {
+        "Id": 68,
+        "question": "Sun : Day :: Moon : _____________",
+        "answer": 1,
+        "choices": {
+          "a": "Night",
+          "b": "Sky",
+          "c": "Stars",
+          "d": "Space",
+          "e": "Midnight"
+        },
+        "explanation": "In this analogy, the relationship between the words 'Sun' and 'Day' is that the sun is associated with the day. Applying the same relationship to the second pair of words, the 'Moon' is associated with 'Night.' Therefore, the correct answer is (a) Night."
+      },
+      {
+        "Id": 69,
+        "question": "Teacher : Classroom :: Chef : _____________",
+        "answer": 2,
+        "choices": {
+          "a": "Restaurant",
+          "b": "Kitchen",
+          "c": "Menu",
+          "d": "Dining",
+          "e": "Store"
+        },
+        "explanation": "In this analogy, the relationship between the words 'Teacher' and 'Classroom' is that a teacher works in a classroom. Applying the same relationship to the second pair of words, a 'Chef' works in a 'Kitchen.' Therefore, the correct answer is (b) Kitchen."
+      },
+      {
+        "Id": 70,
+        "question": "Cat : Meow :: Dog : _____________",
+        "answer": 3,
+        "choices": {
+          "a": "Bark",
+          "b": "Purr",
+          "c": "Woof",
+          "d": "Hiss",
+          "e": "Tweet"
+        },
+        "explanation": "In this analogy, the relationship between the words 'Cat' and 'Meow' is that a cat makes the sound 'Meow.' Applying the same relationship to the second pair of words, a 'Dog' makes the sound 'Woof.' Therefore, the correct answer is (c) Woof."
+      },
+      {
+        "Id": 71,
+        "question": "Seed : Plant :: Egg : _____________",
+        "answer": 1,
+        "choices": {
+          "a": "Chicken",
+          "b": "Nest",
+          "c": "Feather",
+          "d": "Rooster",
+          "e": "Wings"
+        },
+        "explanation": "In this analogy, the relationship between the words 'Seed' and 'Plant' is that a seed grows into a plant. Applying the same relationship to the second pair of words, an 'Egg' hatches into a 'Chicken.' Therefore, the correct answer is (a) Chicken."
+      },
+      {
+        "Id": 72,
+        "question": "Ocean : Saltwater :: Lake : _____________",
+        "answer": 4,
+        "choices": {
+          "a": "Springwater",
+          "b": "Rivers",
+          "c": "Fish",
+          "d": "Freshwater",
+          "e": "Fauset"
+        },
+        "explanation": "In this analogy, the relationship between the words 'Ocean' and 'Saltwater' is that the ocean is composed of saltwater. Applying the same relationship to the second pair of words, a 'Lake' is composed of 'Freshwater.' Therefore, the correct answer is (d) Freshwater."
+      },
+      {
+        "Id": 73,
+        "question": "Car : Road :: Plane : _____________",
+        "answer": 2,
+        "choices": {
+          "a": "Rail",
+          "b": "Sky",
+          "c": "Airport",
+          "d": "Cloud",
+          "e": "Runway"
+        },
+        "explanation": "In this analogy, the relationship between the words 'Car' and 'Road' is that a car travels on a road. Applying the same relationship to the second pair of words, a 'Plane' travels in the 'Sky.' Therefore, the correct answer is (b) Sky."
+      },
+      {
+        "Id": 74,
+        "question": "Fire : Heat :: Ice : _____________",
+        "answer": 1,
+        "choices": {
+          "a": "Cold",
+          "b": "Melt",
+          "c": "Water",
+          "d": "Freeze",
+          "e": "Hot"
+        },
+        "explanation": "In this analogy, the relationship between the words 'Fire' and 'Heat' is that fire produces heat. Applying the same relationship to the second pair of words, 'Ice' is associated with 'Cold.' Therefore, the correct answer is (a) Cold."
+      },
+      {
+        "Id": 75,
+        "question": "Painter : Canvas :: Sculptor : _____________",
+        "answer": 3,
+        "choices": {
+          "a": "Photoshop",
+          "b": "Paper",
+          "c": "Marble",
+          "d": "Blueprint",
+          "e": "Ground"
+        },
+        "explanation": "In this analogy, the relationship between the words 'Painter' and 'Canvas' is that a painter uses a canvas to create art. Applying the same relationship to the second pair of words, a 'Sculptor' uses 'Marble' to create sculptures. Therefore, the correct answer is (c) Marble."
+      },
+      {
+        "Id": 76,
+        "question": "Phone : Call :: Computer : _____________",
+        "answer": 4,
+        "choices": {
+          "a": "Type",
+          "b": "Read",
+          "c": "Print",
+          "d": "Browse",
+          "e": "Record"
+        },
+        "explanation": "In this analogy, the relationship between the words 'Phone' and 'Call' is that a phone is used to make calls. Applying the same relationship to the second pair of words, a 'Computer' is used to 'Browse.' Therefore, the correct answer is (d) Browse."
+      },
+      {
+        "Id": 77,
+        "question": "Doctor : Patient :: Lawyer : _____________",
+        "answer": 1,
+        "choices": {
+          "a": "Client",
+          "b": "Judge",
+          "c": "Jury",
+          "d": "Court",
+          "e": "Police"
+        },
+        "explanation": "In this analogy, the relationship between the words 'Doctor' and 'Patient' is that a doctor has patients. Applying the same relationship to the second pair of words, a 'Lawyer' has 'Clients.' Therefore, the correct answer is (a) Client."
+      }
+    ],
+    "analogy-pair": [
+      {
+        "Id": 78,
+        "question": "Leaf : Tree :: _______________:________________",
+        "answer": "c",
+        "choices": {
+          "a": "Root:Flower",
+          "b": "Branch:Trunk",
+          "c": "Petal:Flower",
+          "d": "Twig:Branch",
+          "e": "Bark:Leaf"
+        },
+        "explanation": "In this analogy, the relationship between the words 'Leaf' and 'Tree' is that a leaf is part of a tree. Applying the same relationship to the second pair of words, a 'Petal' is part of a 'Flower.' Therefore, the correct answer is (c) Petal:Flower."
+      },
+      {
+        "Id": 79,
+        "question": "Earth : Sun :: _______________:________________",
+        "answer": "a",
+        "choices": {
+          "a": "Moon:Earth",
+          "b": "Mars:Venus",
+          "c": "Mercury:Jupiter",
+          "d": "Saturn:Uranus",
+          "e": "Neptune:Pluto"
+        },
+        "explanation": "In this analogy, the relationship between the words 'Earth' and 'Sun' is that the Earth orbits the Sun. Applying the same relationship to the second pair of words, the 'Moon' orbits the 'Earth.' Therefore, the correct answer is (a) Moon:Earth."
+      },
+      {
+        "Id": 80,
+        "question": "Guitar : Strings :: _______________:________________",
+        "answer": "d",
+        "choices": {
+          "a": "Piano:Keys",
+          "b": "Drums:Sticks",
+          "c": "Violin:Bow",
+          "d": "Harmonica:Reeds",
+          "e": "Trumpet:Valves"
+        },
+        "explanation": "In this analogy, the relationship between the words 'Guitar' and 'Strings' is that a guitar produces sound with strings. Applying the same relationship to the second pair of words, a 'Harmonica' produces sound with 'Reeds.' Therefore, the correct answer is (d) Harmonica:Reeds."
+      },
+      {
+        "Id": 81,
+        "question": "Book : Read :: _______________:________________",
+        "answer": "a",
+        "choices": {
+          "a": "Movie:Watch",
+          "b": "Song:Listen",
+          "c": "Food:Eat",
+          "d": "Game:Play",
+          "e": "Paint:View"
+        },
+        "explanation": "In this analogy, the relationship between the words 'Book' and 'Read' is that a book is meant to be read. Applying the same relationship to the second pair of words, a 'Movie' is meant to be 'Watched.' Therefore, the correct answer is (a) Movie:Watch."
+      },
+      {
+        "Id": 82,
+        "question": "Sail : Boat :: _______________:________________",
+        "answer": "e",
+        "choices": {
+          "a": "Rudder:Ship",
+          "b": "Wind:Kite",
+          "c": "Engine:Car",
+          "d": "Oar:Canoe",
+          "e": "Wing:Airplane"
+        },
+        "explanation": "In this analogy, the relationship between the words 'Sail' and 'Boat' is that a sail helps propel a boat. Applying the same relationship to the second pair of words, a 'Wing' helps propel an 'Airplane.' Therefore, the correct answer is (e) Wing:Airplane."
+      },
+      {
+        "Id": 83,
+        "question": "Needle : Thread :: _______________:________________",
+        "answer": "b",
+        "choices": {
+          "a": "Brush:Paint",
+          "b": "Shoe:Lace",
+          "c": "Hammer:Nail",
+          "d": "Pen:Ink",
+          "e": "Screwdriver:Screw"
+        },
+        "explanation": "In this analogy, the relationship between the words 'Needle' and 'Thread' is that a needle is used with thread for sewing. Applying the same relationship to the second pair of words, a 'Shoe' is used with a 'Lace' for tying. Therefore, the correct answer is (b) Shoe:Lace."
+      },
+      {
+        "Id": 84,
+        "question": "Fire : Smoke :: _______________:________________",
+        "answer": "d",
+        "choices": {
+          "a": "Sun:Light",
+          "b": "Water:Steam",
+          "c": "Wind:Breeze",
+          "d": "Volcano:Lava",
+          "e": "Cloud:Rain"
+        },
+        "explanation": "In this analogy, the relationship between the words 'Fire' and 'Smoke' is that smoke is produced by fire. Applying the same relationship to the second pair of words, 'Volcano' produces 'Lava.' Therefore, the correct answer is (d) Volcano:Lava."
+      },
+      {
+        "Id": 85,
+        "question": "Bird : Feather :: _______________:________________",
+        "answer": "a",
+        "choices": {
+          "a": "Fish:Scale",
+          "b": "Cat:Fur",
+          "c": "Snake:Shell",
+          "d": "Dog:Hair",
+          "e": "Horse:Hoof"
+        },
+        "explanation": "In this analogy, the relationship between the words 'Bird' and 'Feather' is that feathers are characteristic of birds. Applying the same relationship to the second pair of words, 'Fish' have 'Scales.' Therefore, the correct answer is (a) Fish:Scale."
+      },
+      {
+        "Id": 86,
+        "question": "Computer : Mouse :: _______________:________________",
+        "answer": "b",
+        "choices": {
+          "a": "Phone:Charger",
+          "b": "TV:Remote",
+          "c": "Car:Gear",
+          "d": "Book:Page",
+          "e": "Bike:Helmet"
+        },
+        "explanation": "In this analogy, the relationship between the words 'Computer' and 'Mouse' is that a mouse is an input device for a computer. Applying the same relationship to the second pair of words, a 'TV' is controlled by a 'Remote.' Therefore, the correct answer is (b) TV:Remote."
+      },
+      {
+        "Id": 87,
+        "question": "Chef : Recipe :: _______________:________________",
+        "answer": "c",
+        "choices": {
+          "a": "Author:Book",
+          "b": "Artist:Painting",
+          "c": "Musician:Song",
+          "d": "Sculptor:Marble",
+          "e": "Programmer:Code"
+        },
+        "explanation": "In this analogy, the relationship between the words 'Chef' and 'Recipe' is that a chef follows a recipe to cook. Applying the same relationship to the second pair of words, a 'Musician' follows a 'Song' to perform. Therefore, the correct answer is (c) Musician:Song."
+      },
+      {
+        "Id": 88,
+        "question": "Sandal : Foot :: _______________:________________",
+        "answer": "d",
+        "choices": {
+          "a": "Glove:Hand",
+          "b": "Hat:Head",
+          "c": "Scarf:Neck",
+          "d": "Ring:Finger",
+          "e": "Glasses:Eyes"
+        },
+        "explanation": "In this analogy, the relationship between the words 'Sandal' and 'Foot' is that sandals are worn on the feet. Applying the same relationship to the second pair of words, a 'Ring' is worn on a 'Finger.' Therefore, the correct answer is (d) Ring:Finger."
+      },
+      {
+        "Id": 89,
+        "question": "Seed : Plant :: _______________:________________",
+        "answer": "c",
+        "choices": {
+          "a": "Egg:Chicken",
+          "b": "Nest:Bird",
+          "c": "Acorn:Tree",
+          "d": "Soil:Flower",
+          "e": "Worm:Bird"
+        },
+        "explanation": "In this analogy, the relationship between the words 'Seed' and 'Plant' is that a seed grows into a plant. Applying the same relationship to the second pair of words, an 'Acorn' grows into a 'Tree.' Therefore, the correct answer is (c) Acorn:Tree."
+      },
+      {
+        "Id": 90,
+        "question": "Pen : Paper :: _______________:________________",
+        "answer": "a",
+        "choices": {
+          "a": "Brush:Canvas",
+          "b": "Scissors:Thread",
+          "c": "Spoon:Bowl",
+          "d": "Shovel:Dirt",
+          "e": "Knife:Butter"
+        },
+        "explanation": "In this analogy, the relationship between the words 'Pen' and 'Paper' is that a pen writes on paper. Applying the same relationship to the second pair of words, a 'Brush' paints on a 'Canvas.' Therefore, the correct answer is (a) Brush:Canvas."
+      },
+      {
+        "Id": 91,
+        "question": "Doctor : Hospital :: _______________:________________",
+        "answer": "e",
+        "choices": {
+          "a": "Teacher:School",
+          "b": "Artist:Gallery",
+          "c": "Chef:Restaurant",
+          "d": "Lawyer:Court",
+          "e": "Pilot:Aircraft"
+        },
+        "explanation": "In this analogy, the relationship between the words 'Doctor' and 'Hospital' is that a doctor works in a hospital. Applying the same relationship to the second pair of words, a 'Pilot' works in an 'Aircraft.' Therefore, the correct answer is (e) Pilot:Aircraft."
+      },
+      {
+         "Id": 92,
+         "question": "Triangle : Pyramid :: _______________:________________",
+         "answer": "b",
+         "choices": {
+           "a": "Pentagon:Quadrilateral",
+           "b": "Square:Cube",
+           "c": "Circle:Round",
+           "d": "Corner:Angle",
+           "e": "Volume:Area"
+         },
+         "explanation": "In this analogy, the relationship between the words 'Triangle' and 'Pyramid' is that a triangle is a 2D shape and a pyramid is a 3D shape with a triangular base. Applying the same relationship to the second pair of words, a 'Square' is a 2D shape and a 'Cube' is a 3D shape with a square base. Therefore, the correct answer is (b) Square:Cube."
+       }
+    ],
+    "synonyms": [
+      {
+        "Id": 93,
+        "question": "How can we win against  <em>incontestable</em>  evidence?",
+        "answer": "d",
+        "choices": {
+          "a": "controversial",
+          "b": "quoted",
+          "c": "doubtful",
+          "d": "irrefutable",
+          "e": "patented"
+        },
+        "explanation": "Irrefutable - 'incontestable' and 'irrefutable both mean something that cannot be disputed'"
+      },
+      {
+         "Id": 94,
+         "question": "In the face of a <em>plethora</em> of choices, she struggled to make a decision.",
+         "answer": "b",
+         "choices": {
+            "a": "Exiguous",
+            "b": "Abundance",
+            "c": "Meager",
+            "d": "Sparse",
+            "e": "Surplus"
+         },
+         "explanation": "Plethora - abundance means an excessive amount or quantity."
+      },
+      {
+         "Id": 95,
+         "question": "The internet has made information <em>ubiquitous</em> across the globe.",
+         "answer": "b",
+         "choices": {
+            "a": "Scarce",
+            "b": "Pervasive",
+            "c": "Limited",
+            "d": "Rare",
+            "e": "Infrequent"
+         },
+         "explanation": "Ubiquitous means present, appearing, or found everywhere."
+      },
+      {
+         "Id": 96,
+         "question": "The professor's <em>verbose</em> explanations often left his students confused.",
+         "answer": "b",
+         "choices": {
+            "a": "Succinct",
+            "b": "Garrulous",
+            "c": "Concise",
+            "d": "Laconic",
+            "e": "Taciturn"
+         },
+         "explanation": "Verbose means using or expressed in more words than are needed."
+      },
+      {
+         "Id": 97,
+         "question": "The beauty of cherry blossoms lies in their <em>ephemeral</em> nature, lasting only a few weeks each spring.",
+         "answer": "b",
+         "choices": {
+            "a": "Permanent",
+            "b": "Transient",
+            "c": "Enduring",
+            "d": "Lasting",
+            "e": "Everlasting"
+         },
+         "explanation": "Ephemeral means lasting for a very short time."
+      },
+      {
+         "Id": 98,
+         "question": "His constant complaints only served to <em>exacerbate</em> the situation, making it even more difficult to resolve.",
+         "answer": "b",
+         "choices": {
+            "a": "Alleviate",
+            "b": "Aggravate",
+            "c": "Mitigate",
+            "d": "Relieve",
+            "e": "Ameliorate"
+         },
+         "explanation": "Exacerbate means to make (a problem, bad situation, or negative feeling) worse."
+      },
+      {
+         "Id": 99,
+         "question": "After losing his job, he found himself <em>destitute</em> and unable to afford basic necessities.",
+         "answer": "c",
+         "choices": {
+            "a": "Wealthy",
+            "b": "Affluent",
+            "c": "Indigent",
+            "d": "Opulent",
+            "e": "Prosperous"
+         },
+         "explanation": "Destitute means without the basic necessities of life."
+      },
+      {
+         "Id": 100,
+         "question": "The city streets were filled with a cacophony of sounds, from car horns to construction noise.",
+         "answer": "b",
+         "choices": {
+            "a": "Harmony",
+            "b": "Discord",
+            "c": "Melody",
+            "d": "Symphony",
+            "e": "Serenade"
+         },
+         "explanation": "Cacophony means a harsh, discordant mixture of sounds."
+      },
+      {
+         "Id": 101,
+         "question": "Their friendship was <em>ephemeral</em>, lasting only through the summer months.",
+         "answer": "b",
+         "choices": {
+            "a": "Enduring",
+            "b": "Transient",
+            "c": "Permanent",
+            "d": "Lasting",
+            "e": "Everlasting"
+         },
+         "explanation": "Ephemeral means lasting for a very short time."
+      },
+      {
+         "Id": 102,
+         "question": "The instructions were <em>lucid</em> and easy to follow, even for beginners.",
+         "answer": "b",
+         "choices": {
+            "a": "Confusing",
+            "b": "Clear",
+            "c": "Obscure",
+            "d": "Ambiguous",
+            "e": "Vague"
+         },
+         "explanation": "Lucid means expressed clearly; easy to understand."
+      },
+      {
+         "Id": 103,
+         "question": "His <em>sagacious</em> advice guided me through some of the toughest decisions of my life.",
+         "answer": "b",
+         "choices": {
+            "a": "Foolish",
+            "b": "Prudent",
+            "c": "Naive",
+            "d": "Gullible",
+            "e": "Ignorant"
+         },
+         "explanation": "Sagacious means having or showing keen mental discernment and good judgment."
+      },
+      {
+         "Id": 104,
+         "question": "The politician's attempts to <em>obfuscate</em> the issue only served to confuse the public further.",
+         "answer": "b",
+         "choices": {
+            "a": "Clarify",
+            "b": "Confuse",
+            "c": "Elucidate",
+            "d": "Illuminate",
+            "e": "Simplify"
+         },
+         "explanation": "Obfuscate means to render obscure, unclear, or unintelligible."
+      },
+      {
+         "Id": 105,
+         "question": "The use of pesticides can have <em>deleterious</em> effects on the environment.",
+         "answer": "b",
+         "choices": {
+            "a": "Beneficial",
+            "b": "Harmful",
+            "c": "Advantageous",
+            "d": "Salubrious",
+            "e": "Fortuitous"
+         },
+         "explanation": "Deleterious means causing harm or damage."
+      },
+      {
+         "Id": 106,
+         "question": "Despite their efforts to <em>ameliorate</em> the situation, conditions in the refugee camps continued to deteriorate.",
+         "answer": "e",
+         "choices": {
+            "a": "Worsen",
+            "b": "Aggravate",
+            "c": "Exacerbate",
+            "d": "Mitigate",
+            "e": "Deteriorate"
+         },
+         "explanation": "Ameliorate means to make (something bad or unsatisfactory) better."
+      },
+      {
+         "Id": 107,
+         "question": "Living a <em>frugal</em> lifestyle allowed her to save money for future endeavors.",
+         "answer": "c",
+         "choices": {
+            "a": "Wasteful",
+            "b": "Extravagant",
+            "c": "Thrifty",
+            "d": "Lavish",
+            "e": "Prodigal"
+         },
+         "explanation": "Frugal means sparing or economical with regard to money or food."
+      },
+      {
+         "Id": 108,
+         "question": "The rubber material used in the construction of the tire made it highly <em>resilient</em> to punctures and wear.",
+         "answer": "c",
+         "choices": {
+            "a": "Fragile",
+            "b": "Vulnerable",
+            "c": "Robust",
+            "d": "Weak",
+            "e": "Delicate"
+         },
+         "explanation": "Resilient means able to recoil or spring back into shape after bending, stretching, or being compressed."
+      }      
+   ],
+   "antonyms": [
+      {
+        "Id": 109,
+        "question": "Despite his best efforts, he could not <em>diminish</em> the impact of his mistakes.",
+        "answer": "a",
+        "choices": {
+          "a": "Increase",
+          "b": "Lessen",
+          "c": "Reduce",
+          "d": "Dwindle",
+          "e": "Deplete"
+        },
+        "explanation": "Diminish means to make or become less."
+      },
+      {
+        "Id": 110,
+        "question": "Her cheerful demeanor helped <em>alleviate</em> the sadness of those around her.",
+        "answer": "a",
+        "choices": {
+          "a": "Aggravate",
+          "b": "Worsen",
+          "c": "Intensify",
+          "d": "Exacerbate",
+          "e": "Escalate"
+        },
+        "explanation": "Alleviate means to make (suffering, deficiency, or a problem) less severe."
+      },
+      {
+        "Id": 111,
+        "question": "The candidate's stance on the issue was <em>unambiguous</em>.",
+        "answer": "c",
+        "choices": {
+          "a": "Clear",
+          "b": "Distinct",
+          "c": "Ambiguous",
+          "d": "Plain",
+          "e": "Evident"
+        },
+        "explanation": "Unambiguous means not open to more than one interpretation; clear."
+      },
+      {
+        "Id": 112,
+        "question": "The company's profits continued to <em>decline</em> despite efforts to boost sales.",
+        "answer": "a",
+        "choices": {
+          "a": "Increase",
+          "b": "Rise",
+          "c": "Improve",
+          "d": "Grow",
+          "e": "Advance"
+        },
+        "explanation": "Decline means to become smaller, fewer, or less; decrease."
+      },
+      {
+        "Id": 113,
+        "question": "The coach's harsh criticism only served to <em>weaken</em> the team's morale.",
+        "answer": "b",
+        "choices": {
+          "a": "Strengthen",
+          "b": "Weaken",
+          "c": "Fortify",
+          "d": "Empower",
+          "e": "Enhance"
+        },
+        "explanation": "Weaken means to make or become weaker in power, resolve, or physical strength."
+      },
+      {
+        "Id": 114,
+        "question": "The artist's latest work is a <em>departure</em> from her usual style.",
+        "answer": "c",
+        "choices": {
+          "a": "Journey",
+          "b": "Voyage",
+          "c": "Continuation",
+          "d": "Continuance",
+          "e": "Permanence"
+        },
+        "explanation": "Departure means the action of leaving, typically to start a journey."
+      },
+      {
+        "Id": 115,
+        "question": "The teacher's explanation was <em>confusing</em>, leaving the students uncertain about the topic.",
+        "answer": "a",
+        "choices": {
+          "a": "Clear",
+          "b": "Lucid",
+          "c": "Understandable",
+          "d": "Comprehensible",
+          "e": "Intelligible"
+        },
+        "explanation": "Confusing means causing bewilderment or confusion."
+      },
+      {
+        "Id": 116,
+        "question": "The government's decision to increase taxes will <em>benefit</em> the economy in the long run.",
+        "answer": "b",
+        "choices": {
+          "a": "Aid",
+          "b": "Harm",
+          "c": "Assist",
+          "d": "Help",
+          "e": "Improve"
+        },
+        "explanation": "Benefit means to be beneficial to; be advantageous for."
+      },
+      {
+        "Id": 117,
+        "question": "Her remarks were <em>relevant</em> to the discussion at hand.",
+        "answer": "d",
+        "choices": {
+          "a": "Appropriate",
+          "b": "Pertinent",
+          "c": "Related",
+          "d": "Irrelevant",
+          "e": "Connected"
+        },
+        "explanation": "Relevant means closely connected or appropriate to what is being done or considered."
+      },
+      {
+        "Id": 118,
+        "question": "The company's decision to downsize will <em>expand</em> its profit margins.",
+        "answer": "b",
+        "choices": {
+          "a": "Contract",
+          "b": "Expand",
+          "c": "Increase",
+          "d": "Grow",
+          "e": "Enlarge"
+        },
+        "explanation": "Expand means to become or make larger or more extensive."
+      },
+      {
+        "Id": 119,
+        "question": "The professor's lecture was <em>superficial</em>, lacking depth and insight.",
+        "answer": "b",
+        "choices": {
+          "a": "Comprehensive",
+          "b": "Deep",
+          "c": "Thorough",
+          "d": "Profound",
+          "e": "Detailed"
+        },
+        "explanation": "Superficial means existing or occurring at or on the surface."
+      },
+      {
+        "Id": 120,
+        "question": "His constant interruptions only served to <em>enhance</em> the confusion in the room.",
+        "answer": "a",
+        "choices": {
+          "a": "Diminish",
+          "b": "Lessen",
+          "c": "Reduce",
+          "d": "Minimize",
+          "e": "Weaken"
+        },
+        "explanation": "Enhance means to intensify, increase, or further improve the quality, value, or extent of."
+      },
+      {
+        "Id": 121,
+        "question": "The government's new policies will <em>restrict</em> individual freedoms.",
+        "answer": "b",
+        "choices": {
+          "a": "Liberate",
+          "b": "Restrict",
+          "c": "Free",
+          "d": "Allow",
+          "e": "Unbind"
+        },
+        "explanation": "Restrict means to limit the scope, extent, or activity of."
+      },
+      {
+        "Id": 122,
+        "question": "The athlete's performance was <em>mediocre</em>, failing to meet expectations.",
+        "answer": "c",
+        "choices": {
+          "a": "Excellent",
+          "b": "Exceptional",
+          "c": "Outstanding",
+          "d": "Superior",
+          "e": "Exceptional"
+        },
+        "explanation": "Mediocre means of only moderate quality; not very good."
+      },
+      {
+        "Id": 123,
+        "question": "The charity's efforts to help the homeless will <em>worsen</em> the situation.",
+        "answer": "a",
+        "choices": {
+          "a": "Improve",
+          "b": "Better",
+          "c": "Enhance",
+          "d": "Ameliorate",
+          "e": "Alleviate"
+        },
+        "explanation": "Worsen means to deteriorate or become less satisfactory."
+      },
+      {
+        "Id": 124,
+        "question": "His actions were <em>reckless</em>, endangering both himself and others.",
+        "answer": "c",
+        "choices": {
+          "a": "Cautious",
+          "b": "Prudent",
+          "c": "Careful",
+          "d": "Judicious",
+          "e": "Wary"
+        },
+        "explanation": "Reckless means without thinking or caring about the consequences of an action."
+      }
+    ],
+      "sentence-correction": [
+        {
+          "Id": 125,
+          "answer": "b",
+          "choices": {
+            "a": "More and more she grew to love mermaid and wish she could live with them.",
+            "b": "The more she grew to love mermaids, the more she wished she could live with them.",
+            "c": "The more she grew mermaids, the more she wished they lived with.",
+            "d": "More and more she grew, mermaids wish she could live with them.",
+            "e": "More and more, she grew to love to live with mermaid."
+          },
+          "explanation": "The correct answer is 'b' because it uses the comparative structure 'the more...the more' to express a proportional relationship between two actions: growing to love mermaids and wishing to live with them."
+        },
+        {
+          "Id": 126,
+          "answer": "c",
+          "choices": {
+            "a": "The dog ran quickly through the park.",
+            "b": "The dog ran quickly in the park.",
+            "c": "The dog ran quickly across the park.",
+            "d": "The dog ran quickly around the park.",
+            "e": "The dog ran quickly beside the park."
+          },
+          "explanation": "The correct answer is 'c' because 'across' indicates movement from one side to another, which is appropriate for running through a park."
+        },
+        {
+          "Id": 127,
+          "answer": "a",
+          "choices": {
+            "a": "He didn't want to go to the party because he felt sick.",
+            "b": "He didn't want to go to the party because he felt badly.",
+            "c": "He didn't want to go to the party because he felt badly about it.",
+            "d": "He didn't want to go to the party because he felt bad.",
+            "e": "He didn't want to go to the party because he felt badly for his friend."
+          },
+          "explanation": "The correct answer is 'a' because 'sick' is an adjective describing his condition, while 'bad' is an adjective describing a state of being or quality."
+        },
+        {
+          "Id": 128,
+          "answer": "d",
+          "choices": {
+            "a": "In the restaurant, she ordered a pizza and a salad.",
+            "b": "At the restaurant, she ordered a pizza and a salad.",
+            "c": "On the restaurant, she ordered a pizza and a salad.",
+            "d": "From the restaurant, she ordered a pizza and a salad.",
+            "e": "By the restaurant, she ordered a pizza and a salad."
+          },
+          "explanation": "The correct answer is 'd' because 'from' indicates the source or origin of the food, which in this case is the restaurant."
+        },
+        {
+          "Id": 129,
+          "answer": "e",
+          "choices": {
+            "a": "The children enjoyed playing at the park.",
+            "b": "The children enjoyed playing on the park.",
+            "c": "The children enjoyed playing in the park.",
+            "d": "The children enjoyed playing near the park.",
+            "e": "The children enjoyed playing near the park."
+          },
+          "explanation": "The correct answer is 'e' because 'near' indicates proximity, suggesting the children were close to the park but not necessarily inside it."
+        },
+        {
+          "Id": 130,
+          "answer": "b",
+          "choices": {
+            "a": "The cat sat on top of the fence.",
+            "b": "The cat sat atop the fence.",
+            "c": "The cat sat over the fence.",
+            "d": "The cat sat beside the fence.",
+            "e": "The cat sat under the fence."
+          },
+          "explanation": "The correct answer is 'b' because 'atop' means on top of, directly over, or above something."
+        },
+        {
+          "Id": 131,
+          "answer": "c",
+          "choices": {
+            "a": "She drove slowly on the highway.",
+            "b": "She drove slowly at the highway.",
+            "c": "She drove slowly along the highway.",
+            "d": "She drove slowly near the highway.",
+            "e": "She drove slowly beside the highway."
+          },
+          "explanation": "The correct answer is 'c' because 'along' indicates movement in parallel with something, such as driving beside a road."
+        },
+        {
+          "Id": 132,
+          "answer": "d",
+          "choices": {
+            "a": "The bird flew into the tree.",
+            "b": "The bird flew onto the tree.",
+            "c": "The bird flew over the tree.",
+            "d": "The bird flew under the tree.",
+            "e": "The bird flew towards the tree."
+          },
+          "explanation": "The correct answer is 'd' because 'under' indicates movement below or beneath something."
+        },
+        {
+          "Id": 133,
+          "answer": "a",
+          "choices": {
+            "a": "The book belongs to her.",
+            "b": "The book belongs with her.",
+            "c": "The book belongs near her.",
+            "d": "The book belongs beside her.",
+            "e": "The book belongs at her."
+          },
+          "explanation": "The correct answer is 'a' because 'to' indicates possession or ownership."
+        },
+        {
+          "Id": 134,
+          "answer": "c",
+          "choices": {
+            "a": "The squirrel ran into the hole.",
+            "b": "The squirrel ran onto the hole.",
+            "c": "The squirrel ran out of the hole.",
+            "d": "The squirrel ran under the hole.",
+            "e": "The squirrel ran towards the hole."
+          },
+          "explanation": "The correct answer is 'c' because 'out of' indicates movement from inside to outside of something."
+        },
+        {
+          "Id": 135,
+          "answer": "b",
+          "choices": {
+            "a": "She walked quickly across the street.",
+            "b": "She walked quickly along the street.",
+            "c": "She walked quickly around the street.",
+            "d": "She walked quickly towards the street.",
+            "e": "She walked quickly beneath the street."
+          },
+          "explanation": "The correct answer is 'b' because 'along' indicates movement in a line parallel to the street."
+        },
+        {
+          "Id": 136,
+          "answer": "d",
+          "choices": {
+            "a": "He looked at the photo on the desk.",
+            "b": "He looked at the photo beside the desk.",
+            "c": "He looked at the photo near the desk.",
+            "d": "He looked at the photo under the desk.",
+            "e": "He looked at the photo towards the desk."
+          },
+          "explanation": "The correct answer is 'd' because 'under' indicates movement below or beneath something."
+        },
+        {
+          "Id": 137,
+          "answer": "a",
+          "choices": {
+            "a": "The cat jumped onto the roof.",
+            "b": "The cat jumped on the roof.",
+            "c": "The cat jumped over the roof.",
+            "d": "The cat jumped under the roof.",
+            "e": "The cat jumped towards the roof."
+          },
+          "explanation": "The correct answer is 'a' because 'onto' indicates movement to a position on the surface of something."
+        },
+        {
+          "Id": 138,
+          "answer": "c",
+          "choices": {
+            "a": "She swam slowly in the lake.",
+            "b": "She swam slowly into the lake.",
+            "c": "She swam slowly across the lake.",
+            "d": "She swam slowly over the lake.",
+            "e": "She swam slowly towards the lake."
+          },
+          "explanation": "The correct answer is 'c' because 'across' indicates movement from one side to the other side of something, such as swimming across a lake."
+        },
+        {
+          "Id": 139,
+          "answer": "b",
+          "choices": {
+            "a": "The ball rolled quickly onto the road.",
+            "b": "The ball rolled quickly into the road.",
+            "c": "The ball rolled quickly across the road.",
+            "d": "The ball rolled quickly over the road.",
+            "e": "The ball rolled quickly towards the road."
+          },
+          "explanation": "The correct answer is 'b' because 'into' indicates movement towards the inside or interior of something."
+        },
+        {
+          "Id": 140,
+          "answer": "a",
+          "choices": {
+            "a": "He stood beside his friends during the ceremony.",
+            "b": "He stood beside his friends behind the ceremony.",
+            "c": "He stood beside his friends before the ceremony.",
+            "d": "He stood beside his friends around the ceremony.",
+            "e": "He stood beside his friends beside the ceremony."
+          },
+          "explanation": "The correct answer is 'a' because 'beside' indicates being next to or at the side of someone or something."
+        },
+        {
+          "Id": 141,
+          "answer": "d",
+          "choices": {
+            "a": "She placed the vase on the table.",
+            "b": "She placed the vase beside the table.",
+            "c": "She placed the vase near the table.",
+            "d": "She placed the vase under the table.",
+            "e": "She placed the vase towards the table."
+          },
+          "explanation": "The correct answer is 'd' because 'under' indicates position below or beneath something."
+        },
+        {
+          "Id": 142,
+          "answer": "c",
+          "choices": {
+            "a": "The cat crawled under the bed.",
+            "b": "The cat crawled onto the bed.",
+            "c": "The cat crawled out of the bed.",
+            "d": "The cat crawled across the bed.",
+            "e": "The cat crawled towards the bed."
+          },
+          "explanation": "The correct answer is 'c' because 'out of' indicates movement from inside to outside of something."
+        },
+        {
+          "Id": 143,
+          "answer": "b",
+          "choices": {
+            "a": "He walked slowly through the tunnel.",
+            "b": "He walked slowly into the tunnel.",
+            "c": "He walked slowly towards the tunnel.",
+            "d": "He walked slowly beside the tunnel.",
+            "e": "He walked slowly beneath the tunnel."
+          },
+          "explanation": "The correct answer is 'b' because 'into' indicates movement towards the inside or interior of something."
+        },
+        {
+          "Id": 144,
+          "answer": "a",
+          "choices": {
+            "a": "The bird flew into the sky.",
+            "b": "The bird flew onto the sky.",
+            "c": "The bird flew over the sky.",
+            "d": "The bird flew under the sky.",
+            "e": "The bird flew towards the sky."
+          },
+          "explanation": "The correct answer is 'a' because 'into' indicates movement towards the interior or inside of something, in this case, the sky."
+        }
+      ],
+      "paragraph-organization": [
+        {
+            "paragraph1": {
+                "paragraph": {
+                    "organized": "The hiker embarked on the trail, eager to explore the wilderness. As she ventured deeper into the forest, the canopy thickened, casting dappled shadows on the path. Along the way, she encountered a gurgling stream, its crystal-clear waters inviting her to pause and rest. Continuing her journey, she ascended a steep incline, the air growing cooler as she climbed higher. Finally, reaching the summit, she was rewarded with a breathtaking panoramic view of the surrounding landscape, a fitting finale to her adventurous trek.",
+                    "I": "Along the way, she encountered a gurgling stream, its crystal-clear waters inviting her to pause and rest.",
+                    "II": "As she ventured deeper into the forest, the canopy thickened, casting dappled shadows on the path.",
+                    "III": "Finally, reaching the summit, she was rewarded with a breathtaking panoramic view of the surrounding landscape, a fitting finale to her adventurous trek.",
+                    "IV": "The hiker embarked on the trail, eager to explore the wilderness.",
+                    "V": "Continuing her journey, she ascended a steep incline, the air growing cooler as she climbed higher."
+                },
+                "Q1": {
+                    "question": "What sentence comes second?",
+                    "choices": {
+                        "a": "I",
+                        "b": "II",
+                        "c": "III",
+                        "d": "IV",
+                        "e": "V"
+                    },
+                    "answer": "b"
+                },
+                "Q2": {
+                    "question": "What sentence comes third?",
+                    "choices": {
+                        "a": "I",
+                        "b": "II",
+                        "c": "III",
+                        "d": "IV",
+                        "e": "V"
+                    },
+                    "answer": "a"
+                },
+                "Q3": {
+                    "question": "What sentence comes fourth?",
+                    "choices": {
+                        "a": "I",
+                        "b": "II",
+                        "c": "III",
+                        "d": "IV",
+                        "e": "V"
+                    },
+                    "answer": "e"
+                },
+                "Q4": {
+                    "question": "What is the sequence of the paragraph?",
+                    "choices": {
+                        "a": "4-2-3-1-5",
+                        "b": "5-4-2-1-3",
+                        "c": "3-2-1-5-4",
+                        "d": "4-2-1-5-3",
+                        "e": "4-3-2-1-5"
+                    },
+                    "answer": "d"
+                }
+            }
+        }
+      ]
+         
+ }
+  

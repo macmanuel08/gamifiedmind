@@ -1,0 +1,1319 @@
+{
+    "english-quizzes": [
+        {
+            "analogies": [
+                {
+                    "question": "Tree : Forest :: Fish : ?",
+                    "answer": 3,
+                    "choices": {
+                    "1": "Ocean",
+                    "2": "River",
+                    "3": "Aquarium",
+                    "4": "Lake"
+                    },
+                    "explanation": "In this analogy, the relationship between the words 'Tree' and 'Forest' is that a tree is part of a forest. Applying the same relationship to the second pair of words, a 'Fish' is commonly found in an 'Aquarium.' Therefore, the correct answer is (c) Aquarium."
+                },
+                {
+                    "question": "Pen : Write :: Knife : ?",
+                    "answer": 4,
+                    "choices": {
+                    "1": "Chop",
+                    "2": "Carve",
+                    "3": "Slice",
+                    "4": "Cut"
+                    },
+                    "explanation": "In this analogy, the relationship between the words 'Pen' and 'Write' is that a pen is used to write. Applying the same relationship to the second pair of words, a 'Knife' is used to 'Cut.' Therefore, the correct answer is (d) Cut."
+                },
+                {
+                    "question": "Sun : Day :: Moon : ?",
+                    "answer": 1,
+                    "choices": {
+                    "1": "Night",
+                    "2": "Sky",
+                    "3": "Stars",
+                    "4": "Space"
+                    },
+                    "explanation": "In this analogy, the relationship between the words 'Sun' and 'Day' is that the sun is associated with the day. Applying the same relationship to the second pair of words, the 'Moon' is associated with 'Night.' Therefore, the correct answer is (a) Night."
+                },
+                {
+                    "question": "Teacher : Classroom :: Chef : ?",
+                    "answer": 2,
+                    "choices": {
+                    "1": "Restaurant",
+                    "2": "Kitchen",
+                    "3": "Menu",
+                    "4": "Dining"
+                    },
+                    "explanation": "In this analogy, the relationship between the words 'Teacher' and 'Classroom' is that a teacher works in a classroom. Applying the same relationship to the second pair of words, a 'Chef' works in a 'Kitchen.' Therefore, the correct answer is (b) Kitchen."
+                },
+                {
+                    "question": "Cat : Meow :: Dog : ?",
+                    "answer": 3,
+                    "choices": {
+                    "1": "Bark",
+                    "2": "Purr",
+                    "3": "Woof",
+                    "4": "Hiss"
+                    },
+                    "explanation": "In this analogy, the relationship between the words 'Cat' and 'Meow' is that a cat makes the sound 'Meow.' Applying the same relationship to the second pair of words, a 'Dog' makes the sound 'Woof.' Therefore, the correct answer is (c) Woof."
+                },
+                {
+                    "question": "Seed : Plant :: Egg : ?",
+                    "answer": 1,
+                    "choices": {
+                    "1": "Chicken",
+                    "2": "Nest",
+                    "3": "Feather",
+                    "4": "Rooster"
+                    },
+                    "explanation": "In this analogy, the relationship between the words 'Seed' and 'Plant' is that a seed grows into a plant. Applying the same relationship to the second pair of words, an 'Egg' hatches into a 'Chicken.' Therefore, the correct answer is (a) Chicken."
+                },
+                {
+                    "question": "Ocean : Saltwater :: Lake : ?",
+                    "answer": 4,
+                    "choices": {
+                    "1": "Springwater",
+                    "2": "Rivers",
+                    "3": "Fish",
+                    "4": "Freshwater"
+                    },
+                    "explanation": "In this analogy, the relationship between the words 'Ocean' and 'Saltwater' is that the ocean is composed of saltwater. Applying the same relationship to the second pair of words, a 'Lake' is composed of 'Freshwater.' Therefore, the correct answer is (d) Freshwater."
+                },
+                {
+                    "question": "Car : Road :: Plane : ?",
+                    "answer": 2,
+                    "choices": {
+                    "1": "Rail",
+                    "2": "Sky",
+                    "3": "Airport",
+                    "4": "Cloud"
+                    },
+                    "explanation": "In this analogy, the relationship between the words 'Car' and 'Road' is that a car travels on a road. Applying the same relationship to the second pair of words, a 'Plane' travels in the 'Sky.' Therefore, the correct answer is (b) Sky."
+                },
+                {
+                    "question": "Fire : Heat :: Ice : ?",
+                    "answer": 1,
+                    "choices": {
+                    "1": "Cold",
+                    "2": "Melt",
+                    "3": "Water",
+                    "4": "Freeze"
+                    },
+                    "explanation": "In this analogy, the relationship between the words 'Fire' and 'Heat' is that fire produces heat. Applying the same relationship to the second pair of words, 'Ice' is associated with 'Cold.' Therefore, the correct answer is (a) Cold."
+                },
+                {
+                    "question": "Painter : Canvas :: Sculptor : ?",
+                    "answer": 3,
+                    "choices": {
+                    "1": "Clay",
+                    "2": "Stone",
+                    "3": "Marble",
+                    "4": "Wood"
+                    },
+                    "explanation": "In this analogy, the relationship between the words 'Painter' and 'Canvas' is that a painter uses a canvas to create art. Applying the same relationship to the second pair of words, a 'Sculptor' uses 'Marble' to create sculptures. Therefore, the correct answer is (c) Marble."
+                },
+                {
+                    "question": "Phone : Call :: Computer : ?",
+                    "answer": 4,
+                    "choices": {
+                    "1": "Type",
+                    "2": "Read",
+                    "3": "Print",
+                    "4": "Browse"
+                    },
+                    "explanation": "In this analogy, the relationship between the words 'Phone' and 'Call' is that a phone is used to make calls. Applying the same relationship to the second pair of words, a 'Computer' is used to 'Browse.' Therefore, the correct answer is (d) Browse."
+                },
+                {
+                    "question": "Doctor : Patient :: Lawyer : ?",
+                    "answer": 1,
+                    "choices": {
+                    "1": "Client",
+                    "2": "Judge",
+                    "3": "Jury",
+                    "4": "Court"
+                    },
+                    "explanation": "In this analogy, the relationship between the words 'Doctor' and 'Patient' is that a doctor has patients. Applying the same relationship to the second pair of words, a 'Lawyer' has 'Clients.' Therefore, the correct answer is (a) Client."
+                }
+            ]
+        },
+        {
+            "articles": [
+              {
+                "question": "We went to ___ zoo yesterday.",
+                "answer": 3,
+                "choices": {
+                  "1": "a",
+                  "2": "an",
+                  "3": "the"
+                },
+                "explanation": "The use of 'the' is correct here as it refers to a specific zoo that the speaker and the listener are aware of."
+              },
+              {
+                "question": "She found ___ interesting book at the library.",
+                "answer": 2,
+                "choices": {
+                  "1": "a",
+                  "2": "an",
+                  "3": "the"
+                },
+                "explanation": "Use 'an' before words that begin with a vowel sound. In this case, 'interesting' starts with a vowel sound."
+              },
+              {
+                "question": "I met ___ actor who starred in the new movie.",
+                "answer": 3,
+                "choices": {
+                  "1": "a",
+                  "2": "an",
+                  "3": "the"
+                },
+                "explanation": "Use 'the' when referring to a specific person or thing, in this case, a particular actor."
+              },
+              {
+                "question": "They live in ___ apartment on the 15th floor.",
+                "answer": 1,
+                "choices": {
+                  "1": "a",
+                  "2": "an",
+                  "3": "the"
+                },
+                "explanation": "Use 'a' before words that begin with a consonant sound. In this case, 'apartment' starts with a vowel sound, but the emphasis is on the 'a' sound."
+              },
+              {
+                "question": "She bought ___ expensive necklace for her birthday.",
+                "answer": 1,
+                "choices": {
+                  "1": "a",
+                  "2": "an",
+                  "3": "the"
+                },
+                "explanation": "Use 'a' before words that begin with a consonant sound. In this case, 'expensive' starts with a vowel sound, but the emphasis is on the 'e' sound."
+              },
+              {
+                "question": "I'd like to visit ___ Eiffel Tower someday.",
+                "answer": 3,
+                "choices": {
+                  "1": "a",
+                  "2": "an",
+                  "3": "the"
+                },
+                "explanation": "Use 'the' when referring to a specific landmark or well-known place, as in the case of the Eiffel Tower."
+              },
+              {
+                "question": "He is ___ only student who solved the math problem correctly.",
+                "answer": 3,
+                "choices": {
+                  "1": "a",
+                  "2": "an",
+                  "3": "the"
+                },
+                "explanation": "Use 'the' when there is only one of something and it is clear which one is being referred to. In this case, 'the only student.'"
+              },
+              {
+                "question": "They saw ___ amazing performance at the theater last night.",
+                "answer": 1,
+                "choices": {
+                  "1": "a",
+                  "2": "an",
+                  "3": "the"
+                },
+                "explanation": "Use 'a' before words that begin with a consonant sound. In this case, 'amazing' starts with a vowel sound, but the emphasis is on the 'a' sound."
+              },
+              {
+                "question": "___ sunsets in Hawaii are breathtaking.",
+                "answer": 3,
+                "choices": {
+                  "1": "A",
+                  "2": "An",
+                  "3": "The"
+                },
+                "explanation": "'The' is used here because it refers to a specific type of sunset - the sunsets in Hawaii."
+              },
+              {
+                "question": "I need ___ advice on how to fix my computer.",
+                "answer": 2,
+                "choices": {
+                  "1": "a",
+                  "2": "an",
+                  "3": "the"
+                },
+                "explanation": "Use 'an' before words that begin with a vowel sound. In this case, 'advice' starts with a vowel sound."
+              }
+            ]
+        },
+        {
+            "clauses1": [
+                    {
+                    "question": "After the storm, they found their lost dog.",
+                    "choices": {
+                        "1": "Adverbial Clause",
+                        "2": "Adjectival Clause",
+                        "3": "Noun Clause"
+                    },
+                    "answer": 1,
+                    "explanation": "The correct choice identifies the clause as an adverbial clause, as it answers the question 'when.'"
+                    },
+                    {
+                    "question": "The person who called you is waiting outside.",
+                    "choices": {
+                        "1": "Adverbial Clause",
+                        "2": "Adjectival Clause",
+                        "3": "Noun Clause"
+                    },
+                    "answer": 2,
+                    "explanation": "The correct choice recognizes the clause as an adjectival clause (relative clause), as it describes the noun 'person.'"
+                    },
+                    {
+                    "question": "What you said surprised me.",
+                    "choices": {
+                        "1": "Adverbial Clause",
+                        "2": "Adjectival Clause",
+                        "3": "Noun Clause"
+                    },
+                    "answer": 3,
+                    "explanation": "The correct choice identifies the clause as a noun clause, as it acts as the object of the verb 'surprised.'"
+                    },
+                    {
+                    "question": "Because it was late, they decided to postpone the meeting.",
+                    "choices": {
+                        "1": "Adverbial Clause",
+                        "2": "Adjectival Clause",
+                        "3": "Noun Clause"
+                    },
+                    "answer": 1,
+                    "explanation": "The correct choice recognizes the clause as an adverbial clause, answering the question 'why.'"
+                    },
+                    {
+                    "question": "The book is so interesting that I couldn't put it down.",
+                    "choices": {
+                        "1": "Adverbial Clause",
+                        "2": "Adjectival Clause",
+                        "3": "Noun Clause"
+                    },
+                    "answer": 2,
+                    "explanation": "The correct choice identifies the clause as an adjectival clause (relative clause), as it describes the noun 'book.'"
+                    }
+                ],
+                "cluses2": [
+                    {
+                    "question": "She likes dancing, she dislikes singing.",
+                    "choices": {
+                        "1": "She likes dancing, but she dislikes singing.",
+                        "2": "She likes dancing and she dislikes singing.",
+                        "3": "She likes dancing, she dislikes singing."
+                    },
+                    "answer": 1,
+                    "explanation": "The correct choice uses the coordinating conjunction 'but' to join the two independent clauses, creating a balanced sentence."
+                    },
+                    {
+                    "question": "After he finished his homework, he played video games.",
+                    "choices": {
+                        "1": "After he finished his homework and he played video games.",
+                        "2": "After he finished his homework, he played video games.",
+                        "3": "After he finished his homework; he played video games."
+                    },
+                    "answer": 2,
+                    "explanation": "The correct choice uses a comma to appropriately join the dependent adverbial clause to the independent clause."
+                    },
+                    {
+                    "question": "She enjoys hiking, she doesn't like camping.",
+                    "choices": {
+                        "1": "She enjoys hiking, but she doesn't like camping.",
+                        "2": "She enjoys hiking and she doesn't like camping.",
+                        "3": "She enjoys hiking, she doesn't like camping."
+                    },
+                    "answer": 1,
+                    "explanation": "The correct choice uses the coordinating conjunction 'but' to connect the two independent clauses, enhancing the sentence's coherence."
+                    },
+                    {
+                    "question": "The cat is cute, it often sleeps on the windowsill.",
+                    "choices": {
+                        "1": "The cat is cute, and it often sleeps on the windowsill.",
+                        "2": "The cat is cute and it often sleeps on the windowsill.",
+                        "3": "The cat is cute it often sleeps on the windowsill."
+                    },
+                    "answer": 1,
+                    "explanation": "The correct choice uses the coordinating conjunction 'and' to appropriately join the two independent clauses."
+                    },
+                    {
+                    "question": "Since it was raining, we stayed indoors.",
+                    "choices": {
+                        "1": "Since it was raining and we stayed indoors.",
+                        "2": "Since it was raining, we stayed indoors.",
+                        "3": "Since it was raining; we stayed indoors."
+                    },
+                    "answer": 2,
+                    "explanation": "The correct choice uses a comma to correctly connect the dependent adverbial clause to the independent clause."
+                    }
+                ]
+        },
+        {
+            "common-grammar-mistakes": [
+                {
+                "question": "They're going to park (there, they're, their) car over there.",
+                "answer": 3,
+                "choices": {
+                    "1": "there",
+                    "2": "they're",
+                    "3": "their"
+                },
+                "explanation": "The correct answer is 'their.' In this sentence, 'their' is indicating ownership of the car."
+                },
+                {
+                "question": "I don't want to eat (to, too, two) many sweets before dinner.",
+                "answer": 2,
+                "choices": {
+                    "1": "to",
+                    "2": "too",
+                    "3": "two"
+                },
+                "explanation": "The correct answer is 'too.' 'Too' means excessively or more than is needed, fitting the context of not wanting to eat an excessive number of sweets."
+                },
+                {
+                "question": "The cat is sitting on (it's, its, it) favorite perch.",
+                "answer": 2,
+                "choices": {
+                    "1": "it's",
+                    "2": "its",
+                    "3": "it"
+                },
+                "explanation": "The correct answer is 'its.' 'Its' is a possessive pronoun, indicating that the perch belongs to the cat."
+                },
+                {
+                "question": "I have a test tomorrow, and I need to (study, studying, studies) for it.",
+                "answer": 1,
+                "choices": {
+                    "1": "study",
+                    "2": "studying",
+                    "3": "studies"
+                },
+                "explanation": "The correct answer is 'study.' In this context, 'study' is the correct verb form to express the action of preparing for a test."
+                },
+                {
+                "question": "The weather is nice, (accept, except, accepted) for the occasional rain showers.",
+                "answer": 2,
+                "choices": {
+                    "1": "accept",
+                    "2": "except",
+                    "3": "accepted"
+                },
+                "explanation": "The correct answer is 'except.' 'Except' is used to introduce an exclusion or contrast, indicating that the rain showers are the only exception to the nice weather."
+                },
+                {
+                "question": "I would like to (lay, lie, laid) down and take a nap.",
+                "answer": 2,
+                "choices": {
+                    "1": "lay",
+                    "2": "lie",
+                    "3": "laid"
+                },
+                "explanation": "The correct answer is 'lie.' In this context, 'lie' is the correct verb to use when expressing the action of reclining for a nap without an object."
+                },
+                {
+                "question": "She is allergic to (peanuts, peanut's, peanuts') and avoids them in her diet.",
+                "answer": 1,
+                "choices": {
+                    "1": "peanuts",
+                    "2": "peanut's",
+                    "3": "peanuts'"
+                },
+                "explanation": "The correct answer is 'peanuts.' In this context, 'peanuts' is used in the plural form to indicate the food item she is allergic to."
+                },
+                {
+                "question": "The music was so loud that I could not (hear, here, her) what you were saying.",
+                "answer": 1,
+                "choices": {
+                    "1": "hear",
+                    "2": "here",
+                    "3": "her"
+                },
+                "explanation": "The correct answer is 'hear.' 'Hear' is the correct verb to use when referring to the ability to perceive sounds."
+                },
+                {
+                "question": "Please hand me (who's, whose, whom) book is on the table.",
+                "answer": 2,
+                "choices": {
+                    "1": "who's",
+                    "2": "whose",
+                    "3": "whom's"
+                },
+                "explanation": "The correct answer is 'whose.' 'Whose' is a possessive pronoun used to indicate possession or ownership."
+                },
+                {
+                "question": "I was (to, too, two) tired to finish the marathon.",
+                "answer": 2,
+                "choices": {
+                    "1": "to",
+                    "2": "too",
+                    "3": "two"
+                },
+                "explanation": "The correct answer is 'too.' 'Too' is used in this context to convey excessive fatigue, indicating the reason for not finishing the marathon."
+                },
+                {
+                "question": "The teacher asked the students to (bring, take, brings) their textbooks to class.",
+                "answer": 1,
+                "choices": {
+                    "1": "bring",
+                    "2": "take",
+                    "3": "brings"
+                },
+                "explanation": "The correct answer is 'bring.' 'Bring' is used when moving something toward the speaker or the location."
+                },
+                {
+                "question": "I have a lot (alot, a lot) of homework to complete tonight.",
+                "answer": 3,
+                "choices": {
+                    "1": "alot",
+                    "2": "a lot"
+                },
+                "explanation": "The correct answer is 'a lot.' 'A lot' is the correct phrase to use when expressing a large quantity or extent of something."
+                },
+                {
+                "question": "The movie had a great (effect, affect) on the audience.",
+                "answer": 1,
+                "choices": {
+                    "1": "effect",
+                    "2": "effective"
+                },
+                "explanation": "The correct answer is 'effect.' 'Effect' is used as a noun to indicate a change produced by an action or event."
+                },
+                {
+                "question": "My parents are going (two, too, to) the store to buy groceries.",
+                "answer": 3,
+                "choices": {
+                    "1": "two",
+                    "2": "too",
+                    "3": "to"
+                },
+                "explanation": "The correct answer is 'to.' In this context, 'to' is a preposition indicating the direction or purpose of their movement toward the store."
+                },
+                {
+                "question": "She couldn't decide (between, among, betwixt) the two dresses for the party.",
+                "answer": 1,
+                "choices": {
+                    "1": "between",
+                    "2": "among",
+                    "3": "betwixt"
+                },
+                "explanation": "The correct answer is 'between.' 'Between' is used when comparing two items or options."
+                }
+            ]
+        },
+        {
+            "complex-sentences": [
+                {
+                "question": "Although it was raining, they decided to go for a walk. Identify the dependent clause.",
+                "choices": {
+                    "1": "Although it was raining",
+                    "2": "They decided to go for a walk",
+                    "3": "Decided to go for a walk"
+                },
+                "answer": "1",
+                "explanation": "In the sentence 'Although it was raining, they decided to go for a walk,' the dependent clause is 'Although it was raining' as it cannot stand alone."
+                },
+                {
+                "question": "He enjoyed the movie that we watched last night. Identify the relative pronoun.",
+                "choices": {
+                    "1": "He enjoyed the movie",
+                    "2": "That we watched last night",
+                    "3": "We watched last night"
+                },
+                "answer": "2",
+                "explanation": "In the sentence 'He enjoyed the movie that we watched last night,' the relative pronoun is 'that' introducing additional information about the movie."
+                },
+                {
+                "question": "After finishing his homework, Tim played video games. Identify the subordinating conjunction.",
+                "choices": {
+                    "1": "After finishing his homework",
+                    "2": "Tim played video games",
+                    "3": "After"
+                },
+                "answer": "3",
+                "explanation": "In the sentence 'After finishing his homework, Tim played video games,' the subordinating conjunction is 'After' connecting the dependent clause to the independent clause."
+                },
+                {
+                "question": "She likes the book that you recommended. Identify the relative pronoun.",
+                "choices": {
+                    "1": "She likes the book",
+                    "2": "That you recommended",
+                    "3": "You recommended"
+                },
+                "answer": "2",
+                "explanation": "In the sentence 'She likes the book that you recommended,' the relative pronoun is 'that' introducing additional information about the book."
+                },
+                {
+                "question": "Because it was a holiday, they went on a trip. Identify the subordinating conjunction.",
+                "choices": {
+                    "1": "Because it was a holiday",
+                    "2": "They went on a trip",
+                    "3": "Because"
+                },
+                "answer": "3",
+                "explanation": "In the sentence 'Because it was a holiday, they went on a trip,' the subordinating conjunction is 'Because' connecting the dependent clause to the independent clause."
+                },
+                {
+                "question": "The girl who won the contest is my sister. Identify the relative pronoun.",
+                "choices": {
+                    "1": "The girl who won the contest",
+                    "2": "Is my sister",
+                    "3": "Who won the contest"
+                },
+                "answer": "3",
+                "explanation": "In the sentence 'The girl who won the contest is my sister,' the relative pronoun is 'who' introducing additional information about the girl."
+                },
+                {
+                "question": "While waiting for the bus, I read a book. Identify the subordinating conjunction.",
+                "choices": {
+                    "1": "While waiting for the bus",
+                    "2": "I read a book",
+                    "3": "While"
+                },
+                "answer": "3",
+                "explanation": "In the sentence 'While waiting for the bus, I read a book,' the subordinating conjunction is 'While' connecting the dependent clause to the independent clause."
+                },
+                {
+                "question": "He climbed the mountain that seemed impossible. Identify the relative pronoun.",
+                "choices": {
+                    "1": "He climbed the mountain",
+                    "2": "That seemed impossible",
+                    "3": "Seemed impossible"
+                },
+                "answer": "2",
+                "explanation": "In the sentence 'He climbed the mountain that seemed impossible,' the relative pronoun is 'that' introducing additional information about the mountain."
+                },
+                {
+                "question": "Since it was hot, they decided to go for a swim. Identify the subordinating conjunction.",
+                "choices": {
+                    "1": "Since it was hot",
+                    "2": "They decided to go for a swim",
+                    "3": "Since"
+                },
+                "answer": "3",
+                "explanation": "In the sentence 'Since it was hot, they decided to go for a swim,' the subordinating conjunction is 'Since' connecting the dependent clause to the independent clause."
+                },
+                {
+                "question": "The cat, which has a fluffy tail, is sitting on the windowsill. Identify the relative pronoun.",
+                "choices": {
+                    "1": "The cat",
+                    "2": "Which has a fluffy tail",
+                    "3": "Is sitting on the windowsill"
+                },
+                "answer": "2",
+                "explanation": "In the sentence 'The cat, which has a fluffy tail, is sitting on the windowsill,' the relative pronoun is 'which' introducing additional information about the cat."
+                },
+                {
+                "question": "After finishing his chores, he went to the park. Identify the subordinating conjunction.",
+                "choices": {
+                    "1": "After finishing his chores",
+                    "2": "He went to the park",
+                    "3": "After"
+                },
+                "answer": "3",
+                "explanation": "In the sentence 'After finishing his chores, he went to the park,' the subordinating conjunction is 'After' connecting the dependent clause to the independent clause."
+                },
+                {
+                "question": "She visited the museum where she learned about ancient civilizations. Identify the relative pronoun.",
+                "choices": {
+                    "1": "She visited the museum",
+                    "2": "Where she learned about ancient civilizations",
+                    "3": "She learned about ancient civilizations"
+                },
+                "answer": "2",
+                "explanation": "In the sentence 'She visited the museum where she learned about ancient civilizations,' the relative pronoun is 'where' introducing additional information about the museum."
+                },
+                {
+                "question": "Although it was late, they decided to have dinner. Identify the subordinating conjunction.",
+                "choices": {
+                    "1": "Although it was late",
+                    "2": "They decided to have dinner",
+                    "3": "Although"
+                },
+                "answer": "3",
+                "explanation": "In the sentence 'Although it was late, they decided to have dinner,' the subordinating conjunction is 'Although' connecting the dependent clause to the independent clause."
+                }
+            ]
+        },
+        {
+            "compound-sentences": [
+                {
+                "question": "She enjoys playing the piano. Identify the coordinating conjunction.",
+                "choices": {
+                    "1": "She",
+                    "2": "Playing",
+                    "3": "Enjoys",
+                    "4": "and"
+                },
+                "answer": "4",
+                "explanation": "In the sentence 'She enjoys playing the piano,' the coordinating conjunction is 'and' because it connects the two independent clauses 'She enjoys playing' and 'the piano.'"
+                },
+                {
+                "question": "He worked hard, yet he didn't succeed. Identify the coordinating conjunction.",
+                "choices": {
+                    "1": "He worked hard",
+                    "2": "Yet",
+                    "3": "He didn't succeed",
+                    "4": "Hard, yet"
+                },
+                "answer": "2",
+                "explanation": "In the sentence 'He worked hard, yet he didn't succeed,' the coordinating conjunction is 'yet' because it connects the two independent clauses 'He worked hard' and 'he didn't succeed.'"
+                },
+                {
+                "question": "They visited the museum, and they learned a lot. Identify the coordinating conjunction.",
+                "choices": {
+                    "1": "They visited the museum",
+                    "2": "And",
+                    "3": "They learned a lot",
+                    "4": "Museum, and"
+                },
+                "answer": "2",
+                "explanation": "In the sentence 'They visited the museum, and they learned a lot,' the coordinating conjunction is 'and' because it connects the two independent clauses 'They visited the museum' and 'they learned a lot.'"
+                }
+            ]
+        },
+        {
+            "contextual-vocabulary": [
+                {
+                "question": "\"The tranquil atmosphere of the rural village was disrupted by the sudden cacophony of children playing by the riverbank. Their gleeful laughter echoed through the air, providing a stark contrast to the serene surroundings.\" What does the word 'cacophony' mean in the context of the passage?",
+                "answer": 2,
+                "choices": {
+                    "1": "A peaceful melody",
+                    "2": "A harsh and discordant mixture of sounds",
+                    "3": "A rhythmic pattern of noises",
+                    "4": "A gentle hum of nature"
+                },
+                "explanation": "In this context, the word 'cacophony' is used to describe the sudden and disruptive mixture of sounds created by the children playing by the riverbank, indicating a harsh and discordant noise."
+                },
+                {
+                "question": "\"The bustling marketplace was filled with a cacophony of vendors haggling and customers bargaining for goods. The air was thick with the scent of spices and the lively chatter of the crowd.\" What does the word 'cacophony' mean in the context of the passage?",
+                "answer": 2,
+                "choices": {
+                    "1": "A harmonious blend of sounds",
+                    "2": "A noisy and chaotic mixture of sounds",
+                    "3": "A rhythmic melody",
+                    "4": "A soothing ambiance"
+                },
+                "explanation": "In this context, the word 'cacophony' is used to describe the chaotic and noisy mixture of sounds created by the activities in the bustling marketplace."
+                },
+                {
+                "question": "\"The old castle stood atop the hill, its ivy-covered walls exuding an aura of antiquity. The creaking gates opened, revealing a courtyard adorned with statues and fountains.\" What does the word 'aura' mean in the context of the passage?",
+                "answer": 1,
+                "choices": {
+                    "1": "A distinctive atmosphere or quality",
+                    "2": "A physical barrier",
+                    "3": "A hidden treasure",
+                    "4": "A mysterious force"
+                },
+                "explanation": "In this context, the word 'aura' is used to describe the distinctive atmosphere or quality that the old castle, with its ivy-covered walls, imparts to its surroundings."
+                },
+                {
+                "question": "\"The politician's speech was replete with grandiloquent phrases and lofty promises. However, as the audience listened closely, some began to question the sincerity behind the eloquent words.\" What does the word 'grandiloquent' mean in the context of the passage?",
+                "answer": 3,
+                "choices": {
+                    "1": "Simple and straightforward",
+                    "2": "Humble and modest",
+                    "3": "Pompous and extravagant",
+                    "4": "Reserved and quiet"
+                },
+                "explanation": "In this context, the word 'grandiloquent' is used to describe the politician's speech as pompous and extravagant, characterized by lofty and exaggerated language."
+                },
+                {
+                "question": "\"The sun dipped below the horizon, casting a warm and resplendent glow over the tranquil lake. The colors reflected on the water's surface created a breathtaking spectacle.\" What does the word 'resplendent' mean in the context of the passage?",
+                "answer": 4,
+                "choices": {
+                    "1": "Subdued and muted",
+                    "2": "Dull and lackluster",
+                    "3": "Dark and ominous",
+                    "4": "Shining brilliantly; radiant"
+                },
+                "explanation": "In this context, the word 'resplendent' is used to describe the brilliant and radiant glow cast by the sun, creating a stunning spectacle over the tranquil lake."
+                },
+                {
+                "question": "\"The explorer navigated through the dense jungle, encountering a myriad of exotic plants and vibrant wildlife. The cacophony of chirping birds and rustling leaves surrounded them.\" What does the word 'myriad' mean in the context of the passage?",
+                "answer": 3,
+                "choices": {
+                    "1": "A singular and isolated occurrence",
+                    "2": "An unpleasant surprise",
+                    "3": "A countless and diverse number",
+                    "4": "A predictable pattern"
+                },
+                "explanation": "In this context, the word 'myriad' is used to describe the explorer's encounter with a countless and diverse number of exotic plants and vibrant wildlife in the dense jungle."
+                },
+                {
+                "question": "\"The scientist conducted an experiment to observe the chemical reaction between two substances. As the compounds mixed, a volatile reaction ensued, releasing a pungent odor.\" What does the word 'volatile' mean in the context of the passage?",
+                "answer": 2,
+                "choices": {
+                    "1": "Stable and unchanging",
+                    "2": "Easily evaporating or exploding",
+                    "3": "Consistent and reliable",
+                    "4": "Gentle and mild"
+                },
+                "explanation": "In this context, the word 'volatile' is used to describe a chemical reaction that is easily evaporating or exploding, resulting in a potentially explosive and pungent outcome."
+                },
+                {
+                "question": "\"The children gathered around the storyteller, eagerly awaiting the denouement of the thrilling tale. The suspense in the air was palpable as the storyteller skillfully revealed the final twists.\" What does the word 'denouement' mean in the context of the passage?",
+                "answer": 1,
+                "choices": {
+                    "1": "The final resolution or outcome",
+                    "2": "A sudden interruption",
+                    "3": "A mysterious beginning",
+                    "4": "A dramatic climax"
+                },
+                "explanation": "In this context, the word 'denouement' is used to describe the final resolution or outcome of the thrilling tale, revealing the conclusion of the story."
+                },
+                {
+                "question": "\"The scholar delved into ancient manuscripts, deciphering cryptic symbols and translating forgotten languages. Each discovery added a layer of depth to the understanding of historical civilizations.\" What does the word 'cryptic' mean in the context of the passage?",
+                "answer": 3,
+                "choices": {
+                    "1": "Open and straightforward",
+                    "2": "Common and ordinary",
+                    "3": "Mysterious and difficult to understand",
+                    "4": "Transparent and clear"
+                },
+                "explanation": "In this context, the word 'cryptic' is used to describe symbols and languages that are mysterious and difficult to understand, adding complexity to the scholar's discoveries."
+                },
+                {
+                "question": "\"The conductor guided the orchestra through a crescendo, building the intensity of the music. The harmonious blend of instruments reached a zenith, captivating the audience with its powerful climax.\" What does the word 'crescendo' mean in the context of the passage?",
+                "answer": 4,
+                "choices": {
+                    "1": "A sudden decrease in volume",
+                    "2": "A gentle and soothing melody",
+                    "3": "A chaotic and dissonant composition",
+                    "4": "A gradual increase in intensity"
+                },
+                "explanation": "In this context, the word 'crescendo' is used to describe a gradual increase in the intensity of the music, leading to a powerful climax that captivates the audience."
+                },
+                {
+                "question": "\"The archeologist unearthed an ancient artifact, carefully brushing away the layers of soil. The intricate carvings and delicate patterns on the relic revealed the craftsmanship of a bygone era.\" What does the word 'intricate' mean in the context of the passage?",
+                "answer": 2,
+                "choices": {
+                    "1": "Simple and rudimentary",
+                    "2": "Complex and detailed",
+                    "3": "Clumsy and awkward",
+                    "4": "Unfinished and incomplete"
+                },
+                "explanation": "In this context, the word 'intricate' is used to describe the carvings and patterns on the ancient artifact as complex and detailed, showcasing the craftsmanship of a bygone era."
+                },
+                {
+                "question": "\"The diplomat engaged in delicate negotiations, addressing sensitive issues with tact and diplomacy. The success of the talks hinged on maintaining a fragile balance between conflicting interests.\" What does the word 'delicate' mean in the context of the passage?",
+                "answer": 1,
+                "choices": {
+                    "1": "Sensitive and requiring careful handling",
+                    "2": "Robust and sturdy",
+                    "3": "Brash and forceful",
+                    "4": "Simple and straightforward"
+                },
+                "explanation": "In this context, the word 'delicate' is used to describe negotiations that are sensitive and require careful handling, emphasizing the importance of tact and diplomacy."
+                },
+                {
+                "question": "\"The scientist marveled at the serendipitous discovery, stumbling upon a rare species of butterfly thought to be extinct. The colorful wings and unique markings of the butterfly fascinated the research team.\" What does the word 'serendipitous' mean in the context of the passage?",
+                "answer": 3,
+                "choices": {
+                    "1": "Predictable and expected",
+                    "2": "Disappointing and unfortunate",
+                    "3": "Accidental and fortuitous",
+                    "4": "Intentional and planned"
+                },
+                "explanation": "In this context, the word 'serendipitous' is used to describe the discovery of the rare butterfly as accidental and fortuitous, highlighting the unexpected and fortunate nature of the finding."
+                },
+                {
+                "question": "\"The poet wove verses that resonated with melancholy, capturing the essence of unrequited love. The haunting beauty of the words left a lasting impression on those who listened.\" What does the word 'melancholy' mean in the context of the passage?",
+                "answer": 4,
+                "choices": {
+                    "1": "Joyful and exuberant",
+                    "2": "Lively and energetic",
+                    "3": "Hopeful and optimistic",
+                    "4": "Sad and pensive"
+                },
+                "explanation": "In this context, the word 'melancholy' is used to describe verses that resonate with a sad and pensive emotion, capturing the essence of unrequited love."
+                },
+                {
+                "question": "\"The eccentric artist created a whimsical sculpture, using unconventional materials to convey a sense of playfulness. The artwork, with its vibrant colors and unconventional shapes, sparked conversations among art enthusiasts.\" What does the word 'whimsical' mean in the context of the passage?",
+                "answer": 1,
+                "choices": {
+                    "1": "Playful and fanciful",
+                    "2": "Serious and somber",
+                    "3": "Conventional and ordinary",
+                    "4": "Complex and intricate"
+                },
+                "explanation": "In this context, the word 'whimsical' is used to describe the sculpture as playful and fanciful, conveying a sense of playfulness through unconventional materials and vibrant colors."
+                }
+            ]
+        },
+        {
+            "coordinating-subordinating-conjunctions": [
+                {
+                "question": "She loves to travel she dislikes long flights.",
+                "choices": {
+                    "1": "She loves to travel; she dislikes long flights.",
+                    "2": "She loves to travel, but she dislikes long flights.",
+                    "3": "She loves to travel she dislikes long flights."
+                },
+                "answer": 2,
+                "explanation": "The correct choice employs the coordinating conjunction 'but' to connect the contrasting ideas in the sentence."
+                },
+                {
+                "question": "They wanted to go to the beach, it was raining heavily.",
+                "choices": {
+                    "1": "They wanted to go to the beach, it was raining heavily.",
+                    "2": "They wanted to go to the beach but it was raining heavily.",
+                    "3": "They wanted to go to the beach because it was raining heavily."
+                },
+                "answer": 2,
+                "explanation": "The correct choice employs the coordinating conjunction 'but' to connect the contrasting ideas in the sentence."
+                },
+                {
+                "question": "After she finished her exam, she went out with her friends.",
+                "choices": {
+                    "1": "After she finished her exam, she went out with her friends.",
+                    "2": "She finished her exam after, she went out with her friends.",
+                    "3": "She finished her exam, she went out with her friends."
+                },
+                "answer": 3,
+                "explanation": "The sentence is already correct; it uses the subordinating conjunction 'after' appropriately to show the sequence of events."
+                },
+                {
+                "question": "They were hungry they decided to order pizza.",
+                "choices": {
+                    "1": "They were hungry; they decided to order pizza.",
+                    "2": "They were hungry, and they decided to order pizza.",
+                    "3": "They were hungry they decided to order pizza."
+                },
+                "answer": 1,
+                "explanation": "The correct choice employs the coordinating conjunction 'and' to connect the related actions in the sentence."
+                },
+                {
+                "question": "She forgot her umbrella, it started raining.",
+                "choices": {
+                    "1": "She forgot her umbrella, it started raining.",
+                    "2": "She forgot her umbrella; it started raining.",
+                    "3": "She forgot her umbrella so it started raining."
+                },
+                "answer": 2,
+                "explanation": "The correct choice employs the coordinating conjunction 'but' to connect the contrasting ideas in the sentence."
+                },
+                {
+                "question": "Unless you finish your chores, you can't go out.",
+                "choices": {
+                    "1": "Unless you finish your chores, you can't go out.",
+                    "2": "You finish your chores, so you can go out.",
+                    "3": "You finish your chores, but you can't go out."
+                },
+                "answer": 1,
+                "explanation": "The correct sentence uses the subordinating conjunction 'unless' to introduce a condition."
+                },
+                {
+                "question": "He enjoys playing the guitar, he often performs at local events.",
+                "choices": {
+                    "1": "He enjoys playing the guitar, he often performs at local events.",
+                    "2": "He enjoys playing the guitar so he often performs at local events.",
+                    "3": "He enjoys playing the guitar, and he often performs at local events."
+                },
+                "answer": 3,
+                "explanation": "The correct choice employs the coordinating conjunction 'and' to connect the related actions in the sentence."
+                },
+                {
+                "question": "Although it was late, she decided to go for a run.",
+                "choices": {
+                    "1": "Although it was late, she decided to go for a run.",
+                    "2": "She decided to go for a run because it was late.",
+                    "3": "She decided to go for a run, she was late."
+                },
+                "answer": 1,
+                "explanation": "The correct sentence uses the subordinating conjunction 'although' to introduce a contrasting idea."
+                },
+                {
+                "question": "He studied hard for the exam he didn't perform well.",
+                "choices": {
+                    "1": "He studied hard for the exam, he didn't perform well.",
+                    "2": "He studied hard for the exam, but he didn't perform well.",
+                    "3": "He studied hard for the exam, so he didn't perform well."
+                },
+                "answer": 2,
+                "explanation": "The correct choice employs the coordinating conjunction 'but' to connect the contrasting ideas in the sentence."
+                },
+                {
+                "question": "She was tired, she continued working on her project.",
+                "choices": {
+                    "1": "She was tired, she continued working on her project.",
+                    "2": "She was tired, but she continued working on her project.",
+                    "3": "She was tired so she continued working on her project."
+                },
+                "answer": 2,
+                "explanation": "The correct choice employs the coordinating conjunction 'but' to connect the contrasting ideas in the sentence."
+                },
+                {
+                "question": "Before she left, she wrote a note.",
+                "choices": {
+                    "1": "Before she left, she wrote a note.",
+                    "2": "She wrote a note before she left.",
+                    "3": "Before she left she wrote a note."
+                },
+                "answer": 2,
+                "explanation": "The correct sentence uses the subordinating conjunction 'before' to show the sequence of events."
+                },
+                {
+                "question": "They were exhausted, they reached the mountain's summit.",
+                "choices": {
+                    "1": "They were exhausted, they reached the mountain's summit.",
+                    "2": "They were exhausted, and they reached the mountain's summit.",
+                    "3": "They were exhausted they reached the mountain's summit."
+                },
+                "answer": 1,
+                "explanation": "The correct choice employs the coordinating conjunction 'and' to connect the related actions in the sentence."
+                },
+                {
+                "question": "If it snows, we will build a snowman.",
+                "choices": {
+                    "1": "If it snows, we will build a snowman.",
+                    "2": "We will build a snowman if it snows.",
+                    "3": "If it snows, but we will build a snowman."
+                },
+                "answer": 1,
+                "explanation": "The correct sentence uses the subordinating conjunction 'if' to introduce a condition."
+                },
+                {
+                "question": "She couldn't decide, she asked for advice.",
+                "choices": {
+                    "1": "She couldn't decide, she asked for advice.",
+                    "2": "She couldn't decide, but she asked for advice.",
+                    "3": "She couldn't decide so she asked for advice."
+                },
+                "answer": 2,
+                "explanation": "The correct choice employs the coordinating conjunction 'but' to connect the contrasting ideas in the sentence."
+                }
+            ]
+        },
+        {
+            "figurative-language": [
+                {
+                "question": "\"The waves whispered secrets to the shore as the sun dipped below the horizon.\"",
+                "answer": 3,
+                "choices": {
+                    "1": "simile",
+                    "2": "metaphor",
+                    "3": "personification",
+                    "4": "hyperbole"
+                },
+                "explanation": "In this excerpt, the author gives human-like qualities to the waves by stating that they 'whispered secrets,' indicating the use of personification."
+                },
+                {
+                "question": "\"The mountain stood tall, a silent guardian watching over the valley.\"",
+                "answer": 2,
+                "choices": {
+                    "1": "simile",
+                    "2": "metaphor",
+                    "3": "personification",
+                    "4": "hyperbole"
+                },
+                "explanation": "The direct comparison of the mountain to a 'silent guardian' without using 'like' or 'as' suggests the use of a metaphor."
+                },
+                {
+                "question": "\"Her laughter filled the room like a melody, lifting everyone's spirits.\"",
+                "answer": 1,
+                "choices": {
+                    "1": "simile",
+                    "2": "metaphor",
+                    "3": "personification",
+                    "4": "hyperbole"
+                },
+                "explanation": "The comparison of laughter to a melody using 'like' suggests the use of a simile."
+                },
+                {
+                "question": "\"The city never sleeps; it's a bustling beehive of activity at all hours.\"",
+                "answer": 2,
+                "choices": {
+                    "1": "simile",
+                    "2": "metaphor",
+                    "3": "personification",
+                    "4": "hyperbole"
+                },
+                "explanation": "The comparison of the city to a 'bustling beehive of activity' without using 'like' or 'as' indicates the use of a metaphor."
+                },
+                {
+                "question": "\"The old house creaked and groaned as if it remembered the stories it held within its walls.\"",
+                "answer": 3,
+                "choices": {
+                    "1": "simile",
+                    "2": "metaphor",
+                    "3": "personification",
+                    "4": "hyperbole"
+                },
+                "explanation": "Attributing human-like qualities to the old house, stating it 'creaked and groaned as if it remembered,' indicates the use of personification."
+                },
+                {
+                "question": "\"The desert sun was a relentless, scorching beast, devouring everything in its path.\"",
+                "answer": 2,
+                "choices": {
+                    "1": "simile",
+                    "2": "metaphor",
+                    "3": "personification",
+                    "4": "hyperbole"
+                },
+                "explanation": "The direct comparison of the desert sun to a 'relentless, scorching beast' without using 'like' or 'as' suggests the use of a metaphor"
+                },
+                {
+                "question": "\"The flowers nodded their heads in agreement as the wind whispered through the garden.\"",
+                "answer": 3,
+                "choices": {
+                    "1": "simile",
+                    "2": "metaphor",
+                    "3": "personification",
+                    "4": "hyperbole"
+                },
+                "explanation": "Attributing human-like actions to the flowers, stating they 'nodded their heads in agreement,' indicates the use of personification."
+                },
+                {
+                "question": "\"The news hit him like a ton of bricks, crushing his hopes and dreams.\"",
+                "answer": 1,
+                "choices": {
+                    "1": "simile",
+                    "2": "metaphor",
+                    "3": "personification",
+                    "4": "hyperbole"
+                },
+                "explanation": "The comparison of the news hitting like a 'ton of bricks' using 'like' suggests the use of a simile."
+                },
+                {
+                "question": "\"Her smile was a ray of sunshine, brightening even the gloomiest of days.\"",
+                "answer": 2,
+                "choices": {
+                    "1": "simile",
+                    "2": "metaphor",
+                    "3": "personification",
+                    "4": "hyperbole"
+                },
+                "explanation": "The direct comparison of her smile to a 'ray of sunshine' without using 'like' or 'as' suggests the use of a metaphor."
+                },
+                {
+                "question": "\"The storm clouds gathered overhead, plotting their dark takeover of the sky.\"",
+                "answer": 3,
+                "choices": {
+                    "1": "simile",
+                    "2": "metaphor",
+                    "3": "personification",
+                    "4": "hyperbole"
+                },
+                "explanation": "Attributing human-like actions to the storm clouds, stating they were 'plotting their dark takeover,' indicates the use of personification."
+                },
+                {
+                "question": "\"The aroma of freshly baked cookies danced through the kitchen, inviting everyone to indulge.\"",
+                "answer": 1,
+                "choices": {
+                    "1": "simile",
+                    "2": "metaphor",
+                    "3": "personification",
+                    "4": "hyperbole"
+                },
+                "explanation": "The comparison of the aroma to dancing using 'like' suggests the use of a simile."
+                },
+                {
+                "question": "\"His laughter echoed in the empty room, a ghost of joy lingering in the air.\"",
+                "answer": 2,
+                "choices": {
+                    "1": "simile",
+                    "2": "metaphor",
+                    "3": "personification",
+                    "4": "hyperbole"
+                },
+                "explanation": "The direct comparison of his laughter to a 'ghost of joy' without using 'like' or 'as' suggests the use of a metaphor."
+                },
+                {
+                "question": "\"The river sang a soothing lullaby as it meandered through the peaceful valley.\"",
+                "answer": 3,
+                "choices": {
+                    "1": "simile",
+                    "2": "metaphor",
+                    "3": "personification",
+                    "4": "hyperbole"
+                },
+                "explanation": "Attributing human-like actions to the river, stating it 'sang a soothing lullaby,' indicates the use of personification."
+                },
+                {
+                "question": "\"The journey ahead was a mountain to climb, full of challenges and unknown twists.\"",
+                "answer": 2,
+                "choices": {
+                    "1": "simile",
+                    "2": "metaphor",
+                    "3": "personification",
+                    "4": "hyperbole"
+                },
+                "explanation": "The direct comparison of the journey ahead to a 'mountain to climb' without using 'like' or 'as' suggests the use of a metaphor."
+                },
+                {
+                "question": "\"The city lights blinked like a sea of stars, welcoming the night.\"",
+                "answer": 1,
+                "choices": {
+                    "1": "simile",
+                    "2": "metaphor",
+                    "3": "personification",
+                    "4": "hyperbole"
+                },
+                "explanation": "The comparison of city lights blinking like a 'sea of stars' using 'like' suggests the use of a simile."
+                }
+            ]
+        },
+        {
+            "formal-informal-language": [
+                {
+                "question": "Identify the sentence that uses formal language appropriately:",
+                "answer": 2,
+                "choices": {
+                    "1": "Hey, you guys! Wanna grab some grub later?",
+                    "2": "I'm sorry, but I am unable to attend the meeting tomorrow due to a prior commitment.",
+                    "3": "The movie was super awesome; I totally loved it!"
+                },
+                "explanation": "Correct answer maintains a formal tone by expressing regret for not being able to attend the meeting and provides a clear reason for the unavailability."
+                },
+                {
+                "question": "Choose the sentence with appropriate informal language:",
+                "answer": 1,
+                "choices": {
+                    "1": "Let's catch up over coffee sometime! What do you think?",
+                    "2": "I regret to inform you that I am unable to partake in the proposed meeting due to a prior engagement.",
+                    "3": "I kindly request your presence at the scheduled event on Friday."
+                },
+                "explanation": "Correct answer maintains an informal and friendly tone, suggesting a casual meet-up over coffee."
+                },
+                {
+                "question": "Pick the sentence demonstrating informal language:",
+                "answer": 3,
+                "choices": {
+                    "1": "I cordially invite you to join us for the upcoming seminar on business ethics.",
+                    "2": "Excuse me, but I won't be able to make it to the gathering tomorrow evening.",
+                    "3": "What's up? Are you down for some pizza and Netflix tonight?"
+                },
+                "explanation": "Correct answer uses informal language, expressing a casual invitation for pizza and Netflix."
+                },
+                {
+                "question": "Select the sentence with proper formal language usage:",
+                "answer": 1,
+                "choices": {
+                    "1": "Dear Mr. Johnson, I am writing to inquire about the job vacancy posted on your company's website.",
+                    "2": "Yo! I saw the job ad on your site. Can you tell me more about it?",
+                    "3": "Hey, Mr. Johnson! Mind telling me about the job opening?"
+                },
+                "explanation": "Correct answer uses formal language with a proper salutation and a polite inquiry about the job vacancy."
+                },
+                {
+                "question": "Identify the sentence with suitable informal language:",
+                "answer": 2,
+                "choices": {
+                    "1": "I regret to inform you that I won't be able to make it to the team-building event on Saturday.",
+                    "2": "Hey, sorry, but I can't make it to the team thing on Saturday. Got some other plans.",
+                    "3": "I humbly request your understanding as I won't be able to attend the event on Saturday."
+                },
+                "explanation": "Correct answer uses informal language, expressing regret and providing a simple reason for not attending the team-building event."
+                },
+                {
+                "question": "Choose the sentence demonstrating formal language usage:",
+                "answer": 3,
+                "choices": {
+                    "1": "Sup? Can you lend me a hand with this project real quick?",
+                    "2": "I'm sorry, but I won't be able to assist you with the project at this time.",
+                    "3": "Dear Professor Davis, I am seeking guidance on my research project and would appreciate your assistance."
+                },
+                "explanation": "Correct answer uses formal language by addressing the recipient with a proper title and expressing a respectful request for assistance with a research project."
+                },
+                {
+                "question": "Pick the sentence with appropriate informal language:",
+                "answer": 1,
+                "choices": {
+                    "1": "Hey, what's the plan for the weekend? Wanna hit the beach?",
+                    "2": "I cordially invite you to join me for a leisurely day at the beach this weekend.",
+                    "3": "Dear friends, I propose a beach outing for the upcoming weekend. Your presence is requested."
+                },
+                "explanation": "Correct answer uses informal language, suggesting a casual plan for the weekend and an invitation to go to the beach."
+                },
+                {
+                "question": "Select the sentence with proper formal language usage:",
+                "answer": 2,
+                "choices": {
+                    "1": "Yo, can you let me know about the business proposal by Friday?",
+                    "2": "Dear Ms. Anderson, I kindly request information about the business proposal by Friday.",
+                    "3": "Hey, Ms. Anderson! I need the lowdown on the business thing by Friday. Can you hook me up?"
+                },
+                "explanation": "Correct answer uses formal language with a proper salutation and a polite request for information about the business proposal."
+                },
+                {
+                "question": "Identify the sentence with suitable informal language:",
+                "answer": 3,
+                "choices": {
+                    "1": "I sincerely apologize, but I can't make it to the art exhibition on Saturday.",
+                    "2": "I regret to inform you that I am unable to attend the art show on Saturday.",
+                    "3": "Hey, sorry, but I can't make it to the art thing on Saturday. Got something else going on."
+                },
+                "explanation": "Correct answer uses informal language, expressing regret and providing a simple reason for not attending the art exhibition."
+                },
+                {
+                "question": "Choose the sentence demonstrating formal language usage:",
+                "answer": 1,
+                "choices": {
+                    "1": "Dear Mr. Smith, I am writing to express my interest in the advertised internship position.",
+                    "2": "Hey, Mr. Smith! I saw the internship gig. Mind if I hit you up with some questions?",
+                    "3": "Sup, Mr. Smith? I'm vibing with the internship thing. Got deets to share?"
+                },
+                "explanation": "Correct answer uses formal language with a proper salutation and communicates a professional expression of interest in the advertised internship position."
+                },
+                {
+                "question": "Pick the sentence with appropriate informal language:",
+                "answer": 2,
+                "choices": {
+                    "1": "I apologize for any inconvenience, but I can't make it to the party on Friday.",
+                    "2": "Hey, sorry, but I can't make it to the party on Friday. Got another event lined up.",
+                    "3": "I humbly request your understanding as I won't be able to attend the gathering on Friday."
+                },
+                "explanation": "Correct answer uses informal language, expressing regret and providing a simple reason for not attending the party."
+                },
+                {
+                "question": "Choose the sentence demonstrating formal language usage:",
+                "answer": 3,
+                "choices": {
+                    "1": "Hey, dude! What's the 411 on the team project? Need some intel.",
+                    "2": "I'm sorry, but I am unable to collaborate on the team project at this time.",
+                    "3": "Dear Professor Rodriguez, I am seeking clarification on the requirements for the team project. Can you assist?"
+                },
+                "explanation": "Correct answer uses formal language by addressing the recipient with a proper title and expressing a respectful request for clarification on the requirements for the team project."
+                },
+                {
+                "question": "Identify the sentence with suitable informal language:",
+                "answer": 1,
+                "choices": {
+                    "1": "What's the plan, peeps? Anyone down for a game night at my place?",
+                    "2": "I formally extend an invitation for a game night at my residence. Your presence is requested.",
+                    "3": "Dear friends, I propose a gathering for an evening of games at my home. Your attendance is appreciated."
+                },
+                "explanation": "Correct answer uses informal language, suggesting a casual plan for a game night and inviting friends to the speaker's place."
+                },
+                {
+                "question": "Choose the sentence demonstrating formal language usage:",
+                "answer": 2,
+                "choices": {
+                    "1": "Yo, got any info on the group project? Need to get my ducks in a row.",
+                    "2": "Dear Professor Turner, I am seeking additional information regarding the group project. Can you provide guidance?",
+                    "3": "Hey, Prof! Mind sharing the deets on the group thing? I'm kinda lost."
+                },
+                "explanation": "Correct answer uses formal language by addressing the recipient with a proper title and expressing a respectful request for additional information regarding the group project."
+                },
+                {
+                "question": "Pick the sentence with appropriate informal language:",
+                "answer": 3,
+                "choices": {
+                    "1": "I sincerely apologize, but I won't be able to make it to the formal dinner on Friday.",
+                    "2": "I regret to inform you that I am unable to attend the formal event on Friday.",
+                    "3": "Hey, sorry, but I can't make it to the fancy dinner on Friday. Got some other plans."
+                },
+                "explanation": "Correct answer uses informal language, expressing regret and providing a simple reason for not attending the formal dinner."
+                },
+                {
+                "question": "Choose the sentence demonstrating formal language usage:",
+                "answer": 1,
+                "choices": {
+                    "1": "Dear Mr. Brown, I am writing to express my gratitude for the opportunity to interview for the position.",
+                    "2": "Hey, Mr. Brown! Thanks for the interview chance. It was cool!",
+                    "3": "Sup, Mr. Brown? Just wanted to say thanks for the job talk. It was awesome!"
+                },
+                "explanation": "Correct answer uses formal language with a proper salutation and communicates a professional expression of gratitude for the interview opportunity."
+                }
+            ]
+        }
+    ]
+}  
