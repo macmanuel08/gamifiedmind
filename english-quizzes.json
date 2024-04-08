@@ -1314,6 +1314,3537 @@
                 "explanation": "Correct answer uses formal language with a proper salutation and communicates a professional expression of gratitude for the interview opportunity."
                 }
             ]
+        },
+        {
+            "modal-auxiliary-verbs": [
+                {
+                "question": "She can speak French. Modify this sentence in its Past Modal Form.",
+                "choices": {
+                    "1": "She shall speak French",
+                    "2": "She would speak French",
+                    "3": "She could speak French"
+                },
+                "answer": 3,
+                "explanation": "In its Past Modal Form, the correct modification is 'She could speak French,' indicating the ability in the past."
+                },
+                {
+                "question": "He may join us later. Change this sentence to its Future Modal Form.",
+                "choices": {
+                    "1": "He will join us later",
+                    "2": "He should join us later",
+                    "3": "He might join us later"
+                },
+                "answer": 3,
+                "explanation": "In its Future Modal Form, the correct modification is 'He might join us later,' indicating the possibility in the future."
+                },
+                {
+                "question": "You must complete the assignment. Convert this sentence to its Present Modal Form.",
+                "choices": {
+                    "1": "You can complete the assignment",
+                    "2": "You will complete the assignment",
+                    "3": "You must complete the assignment"
+                },
+                "answer": 3,
+                "explanation": "In its Present Modal Form, the correct modification is 'You must complete the assignment,' indicating a strong obligation in the present."
+                },
+                {
+                "question": "We should go to the museum. Change this sentence to its Past Modal Form.",
+                "choices": {
+                    "1": "We would go to the museum",
+                    "2": "We will go to the museum",
+                    "3": "We should go to the museum"
+                },
+                "answer": 1,
+                "explanation": "In its Past Modal Form, the correct modification is 'We would go to the museum,' indicating a suggestion or intention in the past."
+                },
+                {
+                "question": "I will help you with the project. Transform this sentence to its Present Modal Form.",
+                "choices": {
+                    "1": "I shall help you with the project",
+                    "2": "I can help you with the project",
+                    "3": "I will help you with the project"
+                },
+                "answer": 2,
+                "explanation": "In its Present Modal Form, the correct modification is 'I can help you with the project,' indicating the ability in the present."
+                },
+                {
+                "question": "You would enjoy the movie. Adjust this sentence to its Future Modal Form.",
+                "choices": {
+                    "1": "You may enjoy the movie",
+                    "2": "You will enjoy the movie",
+                    "3": "You would enjoy the movie"
+                },
+                "answer": 3,
+                "explanation": "In its Future Modal Form, the correct modification is 'You would enjoy the movie,' indicating a hypothetical enjoyment in the future."
+                },
+                {
+                "question": "She shall visit her grandparents. Modify this sentence to its Present Modal Form.",
+                "choices": {
+                    "1": "She may visit her grandparents",
+                    "2": "She will visit her grandparents",
+                    "3": "She shall visit her grandparents"
+                },
+                "answer": 1,
+                "explanation": "In its Present Modal Form, the correct modification is 'She may visit her grandparents,' indicating a possibility in the present."
+                },
+                {
+                "question": "They should attend the conference. Transform this sentence to its Past Modal Form.",
+                "choices": {
+                    "1": "They should have attended the conference",
+                    "2": "They will attend the conference",
+                    "3": "They should attend the conference"
+                },
+                "answer": 1,
+                "explanation": "In its Past Modal Form, the correct modification is 'They should have attended the conference,' indicating a suggestion or obligation in the past."
+                },
+                {
+                "question": "I might travel to Europe next year. Change this sentence to its Present Modal Form.",
+                "choices": {
+                    "1": "I might be traveling to Europe next year",
+                    "2": "I may travel to Europe next year",
+                    "3": "I might travel to Europe next year"
+                },
+                "answer": 2,
+                "explanation": "In its Present Modal Form, the correct modification is 'I may travel to Europe next year,' indicating a possibility in the present."
+                },
+                {
+                "question": "He shall complete the project on time. Adjust this sentence to its Past Modal Form.",
+                "choices": {
+                    "1": "He should have completed the project on time",
+                    "2": "He will complete the project on time",
+                    "3": "He shall complete the project on time"
+                },
+                "answer": 1,
+                "explanation": "In its Past Modal Form, the correct modification is 'He should have completed the project on time,' indicating a strong suggestion or obligation in the past."
+                },
+                {
+                "question": "You should visit the doctor regularly. Convert this sentence to its Future Modal Form.",
+                "choices": {
+                    "1": "You will visit the doctor regularly",
+                    "2": "You may visit the doctor regularly",
+                    "3": "You should visit the doctor regularly"
+                },
+                "answer": 1,
+                "explanation": "In its Future Modal Form, the correct modification is 'You will visit the doctor regularly,' indicating a suggestion or recommendation in the future."
+                },
+                {
+                "question": "We can solve the problem together. Change this sentence to its Present Modal Form.",
+                "choices": {
+                    "1": "We will solve the problem together",
+                    "2": "We may solve the problem together",
+                    "3": "We can solve the problem together"
+                },
+                "answer": 3,
+                "explanation": "In its Present Modal Form, the correct modification is 'We can solve the problem together,' indicating the ability in the present."
+                },
+                {
+                "question": "She must finish her homework before going out. Modify this sentence to its Past Modal Form.",
+                "choices": {
+                    "1": "She must have finished her homework before going out",
+                    "2": "She will finish her homework before going out",
+                    "3": "She must finish her homework before going out"
+                },
+                "answer": 1,
+                "explanation": "In its Past Modal Form, the correct modification is 'She must have finished her homework before going out,' indicating a strong obligation or necessity in the past."
+                },
+                {
+                "question": "You will succeed with hard work. Transform this sentence to its Present Modal Form.",
+                "choices": {
+                    "1": "You can succeed with hard work",
+                    "2": "You may succeed with hard work",
+                    "3": "You will succeed with hard work"
+                },
+                "answer": 1,
+                "explanation": "In its Present Modal Form, the correct modification is 'You can succeed with hard work,' indicating the ability in the present."
+                },
+                {
+                "question": "They could have solved the puzzle. Adjust this sentence to its Future Modal Form.",
+                "choices": {
+                    "1": "They could solve the puzzle",
+                    "2": "They will solve the puzzle",
+                    "3": "They could have solved the puzzle"
+                },
+                "answer": 2,
+                "explanation": "In its Future Modal Form, the correct modification is 'They will solve the puzzle,' indicating the possibility in the future."
+                }
+            ]
+        },
+        {
+            "modifiers": [
+                {
+                "question": "The energetic girl danced gracefully in the spotlight.",
+                "choices": {
+                    "1": "spotlight",
+                    "2": "danced",
+                    "3": "energetic"
+                },
+                "answer": 3,
+                "explanation": "In this sentence, 'energetic' is an adjective modifying the noun 'girl.' It provides additional information about the girl's character, indicating that she is full of energy as she dances gracefully in the spotlight."
+                },
+                {
+                "question": "The mysterious stranger approached the old house on the hill.",
+                "choices": {
+                    "1": "approached",
+                    "2": "mysterious",
+                    "3": "hill"
+                },
+                "answer": 2,
+                "explanation": "Here, 'mysterious' is an adjective describing the stranger. The word adds an element of intrigue and uncertainty to the stranger's identity as they approach the old house situated on the hill."
+                },
+                {
+                "question": "She spoke softly to the frightened child in order to calm her down.",
+                "choices": {
+                    "1": "frightened",
+                    "2": "calm",
+                    "3": "softly"
+                },
+                "answer": 3,
+                "explanation": "In this sentence, 'softly' is an adverb modifying the verb 'spoke.' It describes how she spoke and suggests a gentle tone. The adverb contributes to the overall understanding of the manner in which she communicated with the frightened child."
+                },
+                {
+                "question": "The diligent student completed the challenging assignment with enthusiasm.",
+                "choices": {
+                    "1": "enthusiasm",
+                    "2": "student",
+                    "3": "challenging"
+                },
+                "answer": 3,
+                "explanation": "In this context, 'challenging' is an adjective modifying the noun 'assignment.' It provides information about the nature of the assignment, indicating that it required effort and diligence from the student to complete."
+                },
+                {
+                "question": "Although tired, Sarah continued working on her project late into the night.",
+                "choices": {
+                    "1": "Sarah",
+                    "2": "tired",
+                    "3": "continued"
+                },
+                "answer": 2,
+                "explanation": "Here, 'tired' is an adjective describing Sarah. It indicates her state of exhaustion and explains why she continued working on her project late into the night, emphasizing her determination despite being fatigued."
+                },
+                {
+                "question": "The book that I borrowed from the library was filled with intriguing stories.",
+                "choices": {
+                    "1": "intriguing",
+                    "2": "borrowed",
+                    "3": "library"
+                },
+                "answer": 1,
+                "explanation": "'Intriguing' is an adjective describing the stories in the book. It provides insight into the nature of the stories, suggesting that they are captivating and arouse curiosity, making the borrowed book an interesting read."
+                },
+                {
+                "question": "He ran quickly to catch the last bus of the day.",
+                "choices": {
+                    "1": "bus",
+                    "2": "ran",
+                    "3": "quickly"
+                },
+                "answer": 3,
+                "explanation": "'Quickly' is an adverb modifying the verb 'ran.' It describes how he ran, indicating speed. The adverb adds detail to the action, emphasizing the urgency to catch the last bus of the day."
+                },
+                {
+                "question": "The concert, which lasted for three hours, featured various talented musicians.",
+                "choices": {
+                    "1": "concert",
+                    "2": "featured",
+                    "3": "talented"
+                },
+                "answer": 3,
+                "explanation": "'Talented' is an adjective describing the musicians. It provides additional information about their skills and abilities, enhancing the description of the concert and the performers involved."
+                },
+                {
+                "question": "Despite feeling nervous, Alex delivered a confident speech in front of the audience.",
+                "choices": {
+                    "1": "nervous",
+                    "2": "delivered",
+                    "3": "confident"
+                },
+                "answer": 3,
+                "explanation": "'Confident' is an adjective describing the manner in which Alex delivered the speech. It contrasts with the initial feeling of nervousness, highlighting Alex's ability to overcome anxiety and present with assurance."
+                },
+                {
+                "question": "Walking through the forest, we discovered a hidden waterfall behind the trees.",
+                "choices": {
+                    "1": "discovered",
+                    "2": "forest",
+                    "3": "hidden"
+                },
+                "answer": 3,
+                "explanation": "'Hidden' is an adjective describing the waterfall. It suggests that the waterfall was not immediately visible and adds an element of surprise to the discovery as we walked through the forest."
+                }
+            ]
+        },
+        {
+            "parallel-structure": [
+                {
+                "question": "She likes to hike, ride a bike, and swimming.",
+                "choices": {
+                    "1": "She likes to hike, ride a bike, and swim.",
+                    "2": "She likes to hike, riding a bike, and swimming.",
+                    "3": "She likes to hike, rides a bike, and swim."
+                },
+                "answer": 1,
+                "explanation": "The correct choice maintains parallel structure by using the infinitive form ('to hike,' 'to ride,' and 'to swim')."
+                },
+                {
+                "question": "My daily routine includes reading, exercising, and to write in my journal.",
+                "choices": {
+                    "1": "My daily routine includes reading, exercising, and writing in my journal.",
+                    "2": "My daily routine includes reading, to exercise, and writing in my journal.",
+                    "3": "My daily routine includes to read, exercising, and to write in my journal."
+                },
+                "answer": 1,
+                "explanation": "The correct choice maintains parallel structure by using gerunds ('reading,' 'exercising,' and 'writing')."
+                },
+                {
+                "question": "The team practiced passing, shooting, and working on their defensive skills.",
+                "choices": {
+                    "1": "The team practiced passing, shooting, and working on their defensive skills.",
+                    "2": "The team practiced pass, shoot, and working on their defensive skills.",
+                    "3": "The team practiced passes, shoots, and working on their defensive skills."
+                },
+                "answer": 1,
+                "explanation": "The correct choice maintains parallel structure by using gerunds ('passing,' 'shooting,' and 'working')."
+                },
+                {
+                "question": "She not only enjoys playing the piano but also to sing in the choir.",
+                "choices": {
+                    "1": "She not only enjoys playing the piano but also singing in the choir.",
+                    "2": "She not only enjoys playing the piano but also to sing in the choir.",
+                    "3": "She not only enjoys playing the piano but also sings in the choir."
+                },
+                "answer": 1,
+                "explanation": "The correct choice maintains parallel structure by using gerunds ('playing' and 'singing')."
+                },
+                {
+                "question": "To succeed in the course, students need to attend lectures regularly, participate in discussions, and to complete all assignments.",
+                "choices": {
+                    "1": "To succeed in the course, students need to attend lectures regularly, participate in discussions, and complete all assignments.",
+                    "2": "To succeed in the course, students need to attend lectures regularly, participating in discussions, and completing all assignments.",
+                    "3": "To succeed in the course, students need to attend lectures regularly, participating in discussions, and to complete all assignments."
+                },
+                "answer": 1,
+                "explanation": "The correct choice maintains parallel structure by using infinitives ('to attend,' 'to participate,' and 'to complete')."
+                },
+                {
+                "question": "The concert featured classical music, jazz, and they also performed a rock song.",
+                "choices": {
+                    "1": "The concert featured classical music, jazz, and a rock song.",
+                    "2": "The concert featured classical music, jazz, and they also performed a rock song.",
+                    "3": "The concert featured classical music, jazz, and performing a rock song."
+                },
+                "answer": 1,
+                "explanation": "The correct choice maintains parallel structure by using nouns ('classical music,' 'jazz,' and 'a rock song')."
+                },
+                {
+                "question": "In the workshop, participants learned about effective communication, problem-solving, and the importance of teamwork.",
+                "choices": {
+                    "1": "In the workshop, participants learned about effective communication, problem-solving, and the importance of teamwork.",
+                    "2": "In the workshop, participants learned about effectively communicating, problem-solving, and the importance of teamwork.",
+                    "3": "In the workshop, participants learned about effective communication, problem-solve, and the importance of teamwork."
+                },
+                "answer": 1,
+                "explanation": "The correct choice maintains parallel structure by using nouns ('effective communication,' 'problem-solving,' and 'the importance of teamwork')."
+                },
+                {
+                "question": "The movie was both entertaining and to deliver a powerful message.",
+                "choices": {
+                    "1": "The movie was both entertaining and delivered a powerful message.",
+                    "2": "The movie was both entertaining and to deliver a powerful message.",
+                    "3": "The movie was both entertaining and delivering a powerful message."
+                },
+                "answer": 1,
+                "explanation": "The correct choice maintains parallel structure by using verbs ('entertaining' and 'delivered')."
+                },
+                {
+                "question": "To stay healthy, you should focus on eating a balanced diet, get regular exercise, and get enough sleep.",
+                "choices": {
+                    "1": "To stay healthy, you should focus on eating a balanced diet, getting regular exercise, and getting enough sleep.",
+                    "2": "To stay healthy, you should focus on eating a balanced diet, get regular exercise, and enough sleep.",
+                    "3": "To stay healthy, you should focus on eating a balanced diet, getting regular exercise, and to get enough sleep."
+                },
+                "answer": 1,
+                "explanation": "The correct choice maintains parallel structure by using gerunds ('eating,' 'getting,' and 'getting')."
+                },
+                {
+                "question": "The student council is responsible for organizing events, managing the budget, and to represent student interests.",
+                "choices": {
+                    "1": "The student council is responsible for organizing events, managing the budget, and representing student interests.",
+                    "2": "The student council is responsible for organizing events, to manage the budget, and representing student interests.",
+                    "3": "The student council is responsible for organizing events, manages the budget, and represents student interests."
+                },
+                "answer": 1,
+                "explanation": "The correct choice maintains parallel structure by using gerunds ('organizing,' 'managing,' and 'representing')."
+                },
+            {
+                "question": "He enjoys playing tennis, going for a run, and to swim.",
+                "choices": {
+                    "1": "He enjoys playing tennis, going for a run, and swimming.",
+                    "2": "He enjoys playing tennis, to go for a run, and swimming.",
+                    "3": "He enjoys playing tennis, goes for a run, and swimming."
+                },
+                "answer": 1,
+                "explanation": "The correct choice maintains parallel structure by using gerunds ('playing,' 'going,' and 'swimming') for consistency."
+                }
+            ]
+        },
+        {
+            "part-of-speech": [
+                {
+                "question": "Mountain",
+                "answer": 1,
+                "choices": {
+                    "1": "Noun",
+                    "2": "Adjective",
+                    "3": "Verb",
+                    "4": "Adverb"
+                },
+                "explanation": "Nouns are words that represent a person, place, thing, or idea. 'Mountain' is a noun."
+                },
+                {
+                "question": "Laugh",
+                "answer": 3,
+                "choices": {
+                    "1": "Noun",
+                    "2": "Adjective",
+                    "3": "Verb",
+                    "4": "Adverb"
+                },
+                "explanation": "Verbs are action words or state of being. 'Laugh' is a verb."
+                },
+                {
+                "question": "Quickly",
+                "answer": 4,
+                "choices": {
+                    "1": "Noun",
+                    "2": "Adjective",
+                    "3": "Verb",
+                    "4": "Adverb"
+                },
+                "explanation": "Adverbs modify verbs, adjectives, or other adverbs to provide more information. 'Quickly' is an adverb."
+                },
+                {
+                "question": "Happiness",
+                "answer": 1,
+                "choices": {
+                    "1": "Noun",
+                    "2": "Adjective",
+                    "3": "Verb",
+                    "4": "Adverb"
+                },
+                "explanation": "Nouns are words that represent a person, place, thing, or idea. 'Happiness' is a noun."
+                },
+                {
+                "question": "Carefully",
+                "answer": 4,
+                "choices": {
+                    "1": "Noun",
+                    "2": "Adjective",
+                    "3": "Verb",
+                    "4": "Adverb"
+                },
+                "explanation": "Adverbs modify verbs, adjectives, or other adverbs to provide more information. 'Carefully' is an adverb."
+                },
+                {
+                "question": "Blue",
+                "answer": 2,
+                "choices": {
+                    "1": "Noun",
+                    "2": "Adjective",
+                    "3": "Verb",
+                    "4": "Adverb"
+                },
+                "explanation": "Adjectives describe or modify nouns. 'Blue' is an adjective."
+                },
+                {
+                "question": "Run",
+                "answer": "3) Verb",
+                "choices": {
+                    "1": "Noun",
+                    "2": "Adjective",
+                    "3": "Verb",
+                    "4": "Adverb"
+                },
+                "explanation": "Verbs are action words or state of being. 'Run' is a verb."
+                },
+                {
+                "question": "They",
+                "answer": 4,
+                "choices": {
+                    "1": "Noun",
+                    "2": "Adjective",
+                    "3": "Verb",
+                    "4": "Pronoun"
+                },
+                "explanation": "Pronouns are words that take the place of nouns. 'They' is a pronoun."
+                },
+                {
+                "question": "Because",
+                "answer": 4,
+                "choices": {
+                    "1": "Noun",
+                    "2": "Adjective",
+                    "3": "Verb",
+                    "4": "Conjunction"
+                },
+                "explanation": "Conjunctions are words that connect words, phrases, or clauses. 'Because' is a conjunction."
+                },
+                {
+                "question": "Surprisingly",
+                "answer": 4,
+                "choices": {
+                    "1": "Noun",
+                    "2": "Adjective",
+                    "3": "Verb",
+                    "4": "Adverb"
+                },
+                "explanation": "Adverbs modify verbs, adjectives, or other adverbs to provide more information. 'Surprisingly' is an adverb."
+                }
+            ]
+        },
+        {
+            "phrasal-verbs": [
+                {
+                "question": "In the bustling city, Carlos always made an effort to turn up early for work. What does the phrasal verb 'turn up' mean in the context of the sentence?",
+                "answer": 2,
+                "choices": {
+                    "1": "Turn up: to decrease, Go on: to stop",
+                    "2": "Turn up: to arrive, Go on: to continue",
+                    "3": "Turn up: to cook, Go on: to dance",
+                    "4": "Turn up: to forget, Go on: to remember"
+                },
+                "explanation": "The correct answer is 2. 'Turn up' in this context means to arrive or appear, often referring to punctuality. The opposite, 'Go on,' means to continue."
+                },
+                {
+                "question": "As the rain started, the students decided to call off the outdoor event. What does the phrasal verb 'call off' mean in the context of the sentence?",
+                "answer": 3,
+                "choices": {
+                    "1": "Call off: to invite, Set up: to cancel",
+                    "2": "Call off: to attend, Set up: to arrange",
+                    "3": "Call off: to cancel, Set up: to organize",
+                    "4": "Call off: to delay, Set up: to hurry"
+                },
+                "explanation": "The correct answer is 3. 'Call off' means to cancel or abort. 'Set up' means to organize or arrange, but it is not applicable in this context."
+                },
+                {
+                "question": "During the camping trip, the group decided to put off the hike until the weather improved. What does the phrasal verb 'put off' mean in the context of the sentence?",
+                "answer": 4,
+                "choices": {
+                    "1": "Put off: to start, Bring up: to finish",
+                    "2": "Put off: to postpone, Bring up: to introduce",
+                    "3": "Put off: to avoid, Bring up: to confront",
+                    "4": "Put off: to postpone, Bring up: to mention"
+                },
+                "explanation": "The correct answer is 4. 'Put off' means to postpone or delay. 'Bring up' means to mention, which is not suitable in this context."
+                },
+                {
+                "question": "As the musician continued to play, the audience began to join in and sing along. What does the phrasal verb 'sing along' mean in the context of the sentence?",
+                "answer": 2,
+                "choices": {
+                    "1": "Sing along: to stop singing, Dance off: to dance alone",
+                    "2": "Sing along: to join in singing, Dance off: to stop dancing",
+                    "3": "Sing along: to sing loudly, Dance off: to dance together",
+                    "4": "Sing along: to sing silently, Dance off: to dance slowly"
+                },
+                "explanation": "The correct answer is 2. 'Sing along' means to join in singing with others. 'Dance off' means to have a dance competition, which is not applicable here."
+                },
+                {
+                "question": "After the long journey, Sarah needed to rest, so she decided to lie down for a while. What does the phrasal verb 'lie down' mean in the context of the sentence?",
+                "answer": 1,
+                "choices": {
+                    "1": "Lie down: to recline, Stand up: to remain standing",
+                    "2": "Lie down: to get up, Stand up: to sit down",
+                    "3": "Lie down: to sleep, Stand up: to jump",
+                    "4": "Lie down: to run, Stand up: to walk"
+                },
+                "explanation": "The correct answer is 1. 'Lie down' means to recline or rest. 'Stand up' means to remain standing, which is the opposite."
+                },
+                {
+                "question": "Despite the disagreement, the team decided to work out a compromise for the project. What does the phrasal verb 'work out' mean in the context of the sentence?",
+                "answer": 3,
+                "choices": {
+                    "1": "Work out: to argue, Break up: to end",
+                    "2": "Work out: to rest, Break up: to begin",
+                    "3": "Work out: to find a solution, Break up: to divide",
+                    "4": "Work out: to relax, Break up: to assemble"
+                },
+                "explanation": "The correct answer is 3. 'Work out' means to find a solution or reach an agreement. 'Break up' means to end or disassemble."
+                },
+                {
+                "question": "During the interview, Maria decided to bring up her previous work experience. What does the phrasal verb 'bring up' mean in the context of the sentence?",
+                "answer": 2,
+                "choices": {
+                    "1": "Bring up: to forget, Hold on: to remember",
+                    "2": "Bring up: to mention, Hold on: to wait",
+                    "3": "Bring up: to avoid, Hold on: to confront",
+                    "4": "Bring up: to delay, Hold on: to hurry"
+                },
+                "explanation": "The correct answer is 2. 'Bring up' means to mention or introduce a topic. 'Hold on' means to wait, which is not suitable in this context."
+                },
+                {
+                "question": "As the party continued, they decided to turn down the music to avoid disturbing the neighbors. What does the phrasal verb 'turn down' mean in the context of the sentence?",
+                "answer": 1,
+                "choices": {
+                    "1": "Turn down: to decrease the volume, Join in: to increase the noise",
+                    "2": "Turn down: to increase the volume, Join in: to decrease the noise",
+                    "3": "Turn down: to play louder, Join in: to ignore",
+                    "4": "Turn down: to stop, Join in: to start"
+                },
+                "explanation": "The correct answer is 1. 'Turn down' means to decrease the volume, especially in the context of music. 'Join in' means to participate or contribute."
+                },
+                {
+                "question": "Despite the difficulties, the group decided to carry on with their plan. What does the phrasal verb 'carry on' mean in the context of the sentence?",
+                "answer": 3,
+                "choices": {
+                    "1": "Carry on: to stop, Give up: to continue",
+                    "2": "Carry on: to rest, Give up: to persist",
+                    "3": "Carry on: to continue, Give up: to abandon",
+                    "4": "Carry on: to delay, Give up: to hurry"
+                },
+                "explanation": "The correct answer is 3. 'Carry on' means to continue with an activity or plan. 'Give up' means to abandon or surrender."
+                },
+                {
+                "question": "As the sun set, the friends decided to hang out at the beach for a while. What does the phrasal verb 'hang out' mean in the context of the sentence?",
+                "answer": 2,
+                "choices": {
+                    "1": "Hang out: to leave, Chill out: to stay",
+                    "2": "Hang out: to spend time together, Chill out: to relax",
+                    "3": "Hang out: to argue, Chill out: to dance",
+                    "4": "Hang out: to sleep, Chill out: to wake up"
+                },
+                "explanation": "The correct answer is 2. 'Hang out' means to spend time together casually. 'Chill out' means to relax, but it is not applicable in this context."
+                },
+                {
+                "question": "Despite the challenges, the team decided to go through with the project. What does the phrasal verb 'go through with' mean in the context of the sentence?",
+                "answer": 3,
+                "choices": {
+                    "1": "Go through with: to avoid, Back out: to proceed",
+                    "2": "Go through with: to delay, Back out: to advance",
+                    "3": "Go through with: to proceed, Back out: to withdraw",
+                    "4": "Go through with: to stop, Back out: to continue"
+                },
+                "explanation": "The correct answer is 3. 'Go through with' means to proceed with a plan or action despite challenges. 'Back out' means to withdraw or retract."
+                },
+                {
+                "question": "During the",
+                "answer": 1,
+                "choices": {
+                    "1": "",
+                    "2": "",
+                    "3": "",
+                    "4": ""
+                },
+                "explanation": ""
+                },
+                {
+                "question": "The teacher encouraged the students to look up the unfamiliar words in the dictionary. What does the phrasal verb 'look up' mean in the context of the sentence?",
+                "answer": 2,
+                "choices": {
+                    "1": "Look up: to ignore, Write down: to remember",
+                    "2": "Look up: to search for information, Write down: to forget",
+                    "3": "Look up: to find, Write down: to lose",
+                    "4": "Look up: to understand, Write down: to confuse"
+                },
+                "explanation": "The correct answer is 2. 'Look up' means to search for information or find in a reference source. 'Write down' means to make a note of, but it is not applicable in this context."
+                },
+                {
+                "question": "Despite the tight schedule, the team decided to go ahead with the project presentation. What does the phrasal verb 'go ahead' mean in the context of the sentence?",
+                "answer": 1,
+                "choices": {
+                    "1": "Go ahead: to proceed, Hold back: to delay",
+                    "2": "Go ahead: to stop, Hold back: to advance",
+                    "3": "Go ahead: to avoid, Hold back: to withdraw",
+                    "4": "Go ahead: to pause, Hold back: to continue"
+                },
+                "explanation": "The correct answer is 1. 'Go ahead' means to proceed with a plan or action. 'Hold back' means to delay or restrain, but it is not applicable in this context."
+                },
+                {
+                "question": "During the family reunion, they decided to catch up on each other's lives. What does the phrasal verb 'catch up' mean in the context of the sentence?",
+                "answer": 3,
+                "choices": {
+                    "1": "Catch up: to ignore, Look down: to acknowledge",
+                    "2": "Catch up: to pass, Look down: to climb",
+                    "3": "Catch up: to update, Look down: to despise",
+                    "4": "Catch up: to forget, Look down: to remember"
+                },
+                "explanation": "The correct answer is 3. 'Catch up' means to update each other on what has happened since the last meeting. 'Look down' means to despise, which is not applicable here."
+                },
+                {
+                "question": "Despite the setbacks, the team decided to carry on with the research project. What does the phrasal verb 'carry on' mean in the context of the sentence?",
+                "answer": 4,
+                "choices": {
+                    "1": "Carry on: to stop, Give up: to continue",
+                    "2": "Carry on: to rest, Give up: to persist",
+                    "3": "Carry on: to delay, Give up: to hurry",
+                    "4": "Carry on: to continue, Give up: to abandon"
+                },
+                "explanation": "The correct answer is 4. 'Carry on' means to continue with an activity or plan. 'Give up' means to abandon or surrender, which is the opposite."
+                },
+                {
+                "question": "As the day progressed, the weather started to clear up, and they decided to go out for a picnic. What does the phrasal verb 'clear up' mean in the context of the sentence?",
+                "answer": 2,
+                "choices": {
+                    "1": "Clear up: to become cloudy, Go out: to stay indoors",
+                    "2": "Clear up: to become clearer, Go out: to leave home",
+                    "3": "Clear up: to rain heavily, Go out: to dance",
+                    "4": "Clear up: to get dark, Go out: to sleep"
+                },
+                "explanation": "The correct answer is 2. 'Clear up' means to become clearer or improve. 'Go out' means to leave home for entertainment, which fits the context."
+                },
+                {
+                "question": "During the meeting, they decided to break up into smaller groups for a more focused discussion. What does the phrasal verb 'break up' mean in the context of the sentence?",
+                "answer": 3,
+                "choices": {
+                    "1": "Break up: to unite, Work out: to divide",
+                    "2": "Break up: to rest, Work out: to persist",
+                    "3": "Break up: to divide, Work out: to find a solution",
+                    "4": "Break up: to assemble, Work out: to relax"
+                },
+                "explanation": "The correct answer is 3. 'Break up' means to divide into smaller parts. 'Work out' means to find a solution, but it is not applicable in this context."
+                }
+            ]
+        },
+        {
+            "prefixes-suffixes": [
+                {
+                    "question": "Rebuild",
+                    "answer": 1,
+                    "choices": {
+                    "1": "Re",
+                    "2": "Build"
+                    },
+                    "explanation": "In the word \"rebuild,\" \"re\" is the prefix, indicating repetition or again."
+                },
+                {
+                    "question": "Unhappy",
+                    "answer": 1,
+                    "choices": {
+                    "1": "Un",
+                    "2": "Happy"
+                    },
+                    "explanation": "In the word \"unhappy,\" \"un\" is the prefix, denoting negation or not."
+                },
+                {
+                    "question": "Unknown",
+                    "answer": 1,
+                    "choices": {
+                    "1": "Un",
+                    "2": "Known"
+                    },
+                    "explanation": "In the word \"unknown,\" \"un\" is the prefix, indicating negation or not."
+                },
+                {
+                    "question": "Prehistoric",
+                    "answer": 1,
+                    "choices": {
+                    "1": "Pre",
+                    "2": "Historic"
+                    },
+                    "explanation": "In the word \"prehistoric,\" \"pre\" is the prefix, signifying before."
+                },
+                {
+                    "question": "Disagree",
+                    "answer": 1,
+                    "choices": {
+                    "1": "Dis",
+                    "2": "Agree"
+                    },
+                    "explanation": "In the word \"disagree,\" \"dis\" is the prefix, indicating negation or opposite."
+                },
+                {
+                    "question": "Mislead",
+                    "answer": 1,
+                    "choices": {
+                    "1": "Mis",
+                    "2": "Lead"
+                    },
+                    "explanation": "In the word \"mislead,\" \"mis\" is the prefix, signifying wrong or badly."
+                },
+                {
+                    "question": "Careful",
+                    "answer": 2,
+                    "choices": {
+                    "1": "Care",
+                    "2": "Ful"
+                    },
+                    "explanation": "In the word \"careful,\" \"ful\" is the suffix, meaning full of."
+                },
+                {
+                    "question": "Fearless",
+                    "answer": 2,
+                    "choices": {
+                    "1": "Fear",
+                    "2": "Less"
+                    },
+                    "explanation": "In the word \"fearless,\" \"less\" is the suffix, indicating without."
+                },
+                {
+                    "question": "Stronger",
+                    "answer": 2,
+                    "choices": {
+                    "1": "Strong",
+                    "2": "Er"
+                    },
+                    "explanation": "In the word \"stronger,\" \"er\" is the suffix, representing the comparative form."
+                },
+                {
+                    "question": "Quickly",
+                    "answer": 2,
+                    "choices": {
+                    "1": "Quick",
+                    "2": "Ly"
+                    },
+                    "explanation": "In the word \"quickly,\" \"ly\" is the suffix, indicating in a certain way."
+                },
+                {
+                    "question": "Celebration",
+                    "answer": 2,
+                    "choices": {
+                    "1": "Celebrate",
+                    "2": "Tion"
+                    },
+                    "explanation": "In the word \"celebration,\" \"tion\" is the suffix, signifying action or process."
+                },
+                {
+                    "question": "Decision",
+                    "answer": 2,
+                    "choices": {
+                    "1": "Decide",
+                    "2": "Sion"
+                    },
+                    "explanation": "In the word \"decision,\" \"sion\" is the suffix, indicating state or condition."
+                },
+                {
+                    "question": "Expansion",
+                    "answer": 2,
+                    "choices": {
+                    "1": "Expand",
+                    "2": "Sion"
+                    },
+                    "explanation": "In the word \"expansion,\" \"sion\" is the suffix, signifying action or process."
+                },
+                {
+                    "question": "Joyful",
+                    "answer": 2,
+                    "choices": {
+                    "1": "Joy",
+                    "2": "Ful"
+                    },
+                    "explanation": "In the word \"joyful,\" \"ful\" is the suffix, meaning full of."
+                },
+                {
+                    "question": "Sleepless",
+                    "answer": 2,
+                    "choices": {
+                    "1": "Sleep",
+                    "2": "Less"
+                    },
+                    "explanation": "In the word \"sleepless,\" \"less\" is the suffix, indicating without."
+                }
+            ]
+        },
+        {
+            "prepositions": [
+                {
+                "question": "The keys are ____ the table.",
+                "choices": {
+                    "1": "at",
+                    "2": "on",
+                    "3": "in"
+                },
+                "answer": 2,
+                "explanation": "The correct preposition is 'on' because the keys are positioned above or in contact with the surface of the table."
+                },
+                {
+                "question": "She is waiting ____ the bus stop.",
+                "choices": {
+                    "1": "at",
+                    "2": "on",
+                    "3": "in"
+                },
+                "answer": 1,
+                "explanation": "The correct preposition is 'at' because she is waiting at a specific location, which is the bus stop."
+                },
+                {
+                "question": "The cat is hiding ____ the bed.",
+                "choices": {
+                    "1": "at",
+                    "2": "on",
+                    "3": "under"
+                },
+                "answer": 3,
+                "explanation": "The correct preposition is 'under' because the cat is positioned beneath or below the bed."
+                },
+                {
+                "question": "He jumped ____ the puddle.",
+                "choices": {
+                    "1": "across",
+                    "2": "into",
+                    "3": "above"
+                },
+                "answer": 2,
+                "explanation": "The correct preposition is 'into' because he jumped towards the inside of the puddle."
+                },
+                {
+                "question": "The airplane flew ____ the clouds.",
+                "choices": {
+                    "1": "over",
+                    "2": "up",
+                    "3": "through"
+                },
+                "answer": 1,
+                "explanation": "The correct preposition is 'over' because the airplane flew above the clouds."
+                },
+                {
+                "question": "They walked ____ the park.",
+                "choices": {
+                    "1": "around",
+                    "2": "to",
+                    "3": "against"
+                },
+                "answer": 1,
+                "explanation": "The correct preposition is 'around' because they walked in a circular direction within the park."
+                },
+                {
+                "question": "The sun rises ____ the east.",
+                "choices": {
+                    "1": "at",
+                    "2": "to",
+                    "3": "in"
+                },
+                "answer": 3,
+                "explanation": "The correct preposition is 'in' because the sun rises in the direction of the east."
+                },
+                {
+                "question": "She is standing ____ her friends.",
+                "choices": {
+                    "1": "with",
+                    "2": "to",
+                    "3": "above"
+                },
+                "answer": 1,
+                "explanation": "The correct preposition is 'with' because she is standing in association or companionship with her friends."
+                },
+                {
+                "question": "The party is happening ____ 9 PM.",
+                "choices": {
+                    "1": "for",
+                    "2": "before",
+                    "3": "until"
+                },
+                "answer": 3,
+                "explanation": "The correct preposition is 'until' because the party is happening up to the point of 9 PM."
+                },
+                {
+                "question": "I have known her ____ kindergarten.",
+                "choices": {
+                    "1": "at",
+                    "2": "since",
+                    "3": "between"
+                },
+                "answer": 2,
+                "explanation": "The correct preposition is 'since' because the action of knowing her started at the time of kindergarten."
+                },
+                {
+                "question": "He worked ____ six hours.",
+                "choices": {
+                    "1": "by",
+                    "2": "for",
+                    "3": "within"
+                },
+                "answer": 2,
+                "explanation": "The correct preposition is 'for' because it indicates the duration of time for which he worked."
+                },
+                {
+                "question": "The letter was written ____ John.",
+                "choices": {
+                    "1": "by",
+                    "2": "with",
+                    "3": "about"
+                },
+                "answer": 1,
+                "explanation": "The correct preposition is 'by' because it indicates the person (John) who wrote the letter."
+                },
+                {
+                "question": "She is sitting ____ the best students in the class.",
+                "choices": {
+                    "1": "among",
+                    "2": "between",
+                    "3": "against"
+                },
+                "answer": 1,
+                "explanation": "The correct preposition is 'among' because she is part of the group of the best students in the class."
+                },
+                {
+                "question": "The choice is ____ A and B.",
+                "choices": {
+                    "1": "for",
+                    "2": "between",
+                    "3": "through"
+                },
+                "answer": 2,
+                "explanation": "The correct preposition is 'between' because it indicates a relationship involving two entities, A and B."
+                },
+                {
+                "question": "We'll get through this together ____ difficult times.",
+                "choices": {
+                    "1": "with",
+                    "2": "during",
+                    "3": "against"
+                },
+                "answer": 1,
+                "explanation": "The correct preposition is 'with' because it indicates accompaniment or assistance during difficult times."
+                },
+                {
+                "question": "I'm good ____ playing the piano.",
+                "choices": {
+                    "1": "at",
+                    "2": "on",
+                    "3": "with"
+                },
+                "answer": 1,
+                "explanation": "The correct preposition is 'at' because it indicates proficiency or skill in playing the piano."
+                },
+                {
+                "question": "They fought ____ injustice.",
+                "choices": {
+                    "1": "with",
+                    "2": "against",
+                    "3": "for"
+                },
+                "answer": 2,
+                "explanation": "The correct preposition is 'against' because it indicates opposition or resistance to injustice."
+                },
+                {
+                "question": "He showed kindness ____ others.",
+                "choices": {
+                    "1": "for",
+                    "2": "with",
+                    "3": "towards"
+                },
+                "answer": 3,
+                "explanation": "The correct preposition is 'towards' because it indicates a direction or inclination of showing kindness."
+                },
+                {
+                "question": "We'll meet ____ the park at 5 PM.",
+                "choices": {
+                    "1": "at",
+                    "2": "on",
+                    "3": "in"
+                },
+                "answer": 1,
+                "explanation": "The correct preposition is 'at' because it specifies a specific point in time and location for the meeting."
+                },
+                {
+                "question": "The store is open ____ 8 PM.",
+                "choices": {
+                    "1": "until",
+                    "2": "for",
+                    "3": "by"
+                },
+                "answer": 1,
+                "explanation": "The correct preposition is 'until' because it indicates the point in time up to which the store is open."
+                }
+            ]
+        },
+        {
+            "primary-auxiliary-verbs": [
+                {
+                "question": "They are playing soccer in the park.",
+                "choices": {
+                    "1": "Present Continuous",
+                    "2": "Past Simple",
+                    "3": "Future Perfect",
+                    "4": "Present Perfect"
+                },
+                "answer": 1,
+                "explanation": "This sentence is in the Present Continuous tense with the auxiliary verb 'are,' indicating an ongoing action."
+                },
+                {
+                "question": "Did she complete her assignment yesterday?",
+                "choices": {
+                    "1": "Present Simple",
+                    "2": "Past Simple",
+                    "3": "Future Continuous",
+                    "4": "Present Perfect"
+                },
+                "answer": 2,
+                "explanation": "This sentence is in the Past Simple tense with the auxiliary verb 'did,' indicating a completed action in the past."
+                },
+                {
+                "question": "I have never traveled to Asia.",
+                "choices": {
+                    "1": "Past Continuous",
+                    "2": "Present Simple",
+                    "3": "Present Perfect",
+                    "4": "Future Simple"
+                },
+                "answer": 3,
+                "explanation": "This sentence is in the Present Perfect tense with the auxiliary verb 'have,' indicating an action that started in the past and continues into the present."
+                },
+                {
+                "question": "Will they be attending the conference next week?",
+                "choices": {
+                    "1": "Present Simple",
+                    "2": "Future Continuous",
+                    "3": "Past Perfect with",
+                    "4": "Present Continuous"
+                },
+                "answer": 2,
+                "explanation": "This sentence is in the Future Continuous tense with the auxiliary verb 'will be,' indicating an ongoing action in the future."
+                },
+                {
+                "question": "She did not enjoy the movie.",
+                "choices": {
+                    "1": "Present Perfect",
+                    "2": "Past Simple",
+                    "3": "Future Perfect",
+                    "4": "Present Simple"
+                },
+                "answer": 2,
+                "explanation": "This sentence is in the Past Simple tense with the auxiliary verb 'did,' indicating a completed action in the past."
+                },
+                {
+                "question": "We will have a picnic if the weather is nice.",
+                "choices": {
+                    "1": "Future Perfect",
+                    "2": "Present Continuous",
+                    "3": "Present Simple",
+                    "4": "Past Simple"
+                },
+                "answer": 1,
+                "explanation": "This sentence is in the Future Perfect tense with the auxiliary verb 'will have,' indicating a completed action in the future before another action."
+                },
+                {
+                "question": "She has been working on this project for weeks.",
+                "choices": {
+                    "1": "Present Continuous",
+                    "2": "Present Perfect Continuous",
+                    "3": "Future Perfect",
+                    "4": "Past Simple"
+                },
+                "answer": 2,
+                "explanation": "This sentence is in the Present Perfect Continuous tense with the auxiliary verbs 'has been,' indicating a continuous action that started in the past and continues into the present."
+                },
+                {
+                "question": "Did they plan their vacation carefully?",
+                "choices": {
+                    "1": "Future Perfect",
+                    "2": "Present Continuous",
+                    "3": "Past Simple",
+                    "4": "Present Perfect"
+                },
+                "answer": 3,
+                "explanation": "This sentence is in the Past Simple tense with the auxiliary verb 'did,' indicating a completed action in the past."
+                },
+                {
+                "question": "The concert will start at 7 PM.",
+                "choices": {
+                    "1": "Present Simple",
+                    "2": "Future Simple",
+                    "3": "Past Perfect",
+                    "4": "Present Continuous"
+                },
+                "answer": 2,
+                "explanation": "This sentence is in the Future Simple tense with the auxiliary verb 'will,' indicating a future event."
+                },
+                {
+                "question": "He is not attending the meeting tomorrow.",
+                "choices": {
+                    "1": "Present Perfect",
+                    "2": "Present Continuous",
+                    "3": "Future Simple",
+                    "4": "Past Simple"
+                },
+                "answer": 2,
+                "explanation": "This sentence is in the Present Continuous tense with the auxiliary verb 'are,' indicating an ongoing action in the present."
+                },
+                {
+                "question": "They have completed the project ahead of schedule.",
+                "choices": {
+                    "1": "Present Simple",
+                    "2": "Future Perfect",
+                    "3": "Present Perfect",
+                    "4": "Past Simple"
+                },
+                "answer": 3,
+                "explanation": "This sentence is in the Present Perfect tense with the auxiliary verb 'have,' indicating a completed action in the past with relevance to the present."
+                },
+                {
+                "question": "Will you be participating in the marathon next month?",
+                "choices": {
+                    "1": "Present Perfect",
+                    "2": "Present Continuous",
+                    "3": "Future Simple",
+                    "4": "Past Simple"
+                },
+                "answer": 3,
+                "explanation": "This sentence is in the Future Simple tense with the auxiliary verb 'will,' indicating a future event."
+                },
+                {
+                "question": "She does not like spicy food.",
+                "choices": {
+                    "1": "Present Simple",
+                    "2": "Past Simple",
+                    "3": "Future Perfect",
+                    "4": "Present Continuous"
+                },
+                "answer": 1,
+                "explanation": "This sentence is in the Present Simple tense with the auxiliary verb 'do,' indicating a general truth or habitual action."
+                },
+                {
+                "question": "Did they visit the museum last weekend?",
+                "choices": {
+                    "1": "Present Continuous",
+                    "2": "Past Simple",
+                    "3": "Future Simple",
+                    "4": "Present Perfect"
+                },
+                "answer": 2,
+                "explanation": "This sentence is in the Past Simple tense with the auxiliary verb 'did,' indicating a completed action in the past."
+                }
+            ]
+        },
+        {
+            "punctuation": [
+                {
+                "question": "The car is fast reliable and fuel-efficient.",
+                "answer": 1,
+                "choices": {
+                    "1": "The car is fast, reliable, and fuel-efficient.",
+                    "2": "The car is fast, reliable and fuel-efficient.",
+                    "3": "The car is fast reliable and fuel-efficient.",
+                    "4": "The car is fast, reliable and, fuel-efficient."
+                },
+                "explanation": "The correct answer is 1. Commas should be used to separate items in a list for clarity."
+                },
+                {
+                "question": "The dogs toy is missing.",
+                "answer": 2,
+                "choices": {
+                    "1": "The dogs toy's missing.",
+                    "2": "The dog's toy is missing.",
+                    "3": "The dogs toy: is missing.",
+                    "4": "The dogs, toy is missing."
+                },
+                "explanation": "The correct answer is 2. The apostrophe in 'dog's' indicates possession, and 'toy is missing' is the correct structure for the sentence."
+                },
+                {
+                "question": "My favorite colors are blue green and red.",
+                "answer": 4,
+                "choices": {
+                    "1": "My favorite colors are blue, green, and red.",
+                    "2": "My favorite colors are blue green, and red.",
+                    "3": "My favorite colors are blue green and red.",
+                    "4": "My favorite colors are blue, green, and red"
+                },
+                "explanation": "The correct answer is 4. Commas are needed to separate items in a list, ensuring clarity and proper punctuation."
+                },
+                {
+                "question": "She said, I will meet you there.",
+                "answer": 3,
+                "choices": {
+                    "1": "She said I will meet you there.",
+                    "2": "She said I will meet you there.",
+                    "3": "She said, \"I will meet you there.\"",
+                    "4": "She said: I will meet you there."
+                },
+                "explanation": "The correct answer is 3. Quotation marks should be used to indicate direct speech, as shown in the corrected option."
+                },
+                {
+                "question": "They went to the store and bought milk bread and eggs.",
+                "answer": 2,
+                "choices": {
+                    "1": "They went to the store and bought milk, bread and eggs.",
+                    "2": "They went to the store and bought milk, bread, and eggs.",
+                    "3": "They went to the store and bought milk bread and eggs.",
+                    "4": "They went to the store and bought milk, bread, and, eggs."
+                },
+                "explanation": "The correct answer is 2. Commas should be used consistently to separate items in a list. In this case, the last comma is optional, but it maintains consistency."
+                },
+                {
+                "question": "The students were tired yet they continued to work on their project.",
+                "answer": 4,
+                "choices": {
+                    "1": "The students were tired yet, they continued to work on their project.",
+                    "2": "The students were tired, yet they continued to work on their project",
+                    "3": "The students were tired, yet, they continued to work on their project.",
+                    "4": "The students were tired, yet they continued to work on their project."
+                },
+                "explanation": "The correct answer is 4. A comma should be used before 'yet' to separate the independent clauses in a compound sentence."
+                },
+                {
+                "question": "The scientist conducted the experiment it was successful.",
+                "answer": 1,
+                "choices": {
+                    "1": "The scientist conducted the experiment, and it was successful.",
+                    "2": "The scientist conducted the experiment it was successful.",
+                    "3": "The scientist conducted the experiment, it was successful.",
+                    "4": "The scientist conducted the experiment, and, it was successful."
+                },
+                "explanation": "The correct answer is 1. A comma and a coordinating conjunction 'and' should be used to join independent clauses in a compound sentence."
+                },
+                {
+                "question": "The weather was cold snowy and windy.",
+                "answer": 3,
+                "choices": {
+                    "1": "The weather was cold, snowy, and windy.",
+                    "2": "The weather was cold snowy, and windy.",
+                    "3": "The weather was cold, snowy, and windy.",
+                    "4": "The weather was cold, snowy, and windy."
+                },
+                "explanation": "The correct answer is 3. Commas should be used to separate items in a list, especially when describing different aspects of the weather."
+                },
+                {
+                "question": "They took a break for lunch however they returned to work promptly.",
+                "answer": 2,
+                "choices": {
+                    "1": "They took a break for lunch, however, they returned to work promptly.",
+                    "2": "They took a break for lunch; however, they returned to work promptly.",
+                    "3": "They took a break for lunch, however, they returned to work promptly.",
+                    "4": "They took a break for lunch however, they returned to work promptly."
+                },
+                "explanation": "The correct answer is 2. A semicolon should be used to connect closely related independent clauses without a coordinating conjunction."
+                },
+                {
+                "question": "The book was interesting it kept my attention from the beginning to the end.",
+                "answer": 4,
+                "choices": {
+                    "1": "The book was interesting. it kept my attention from the beginning to the end.",
+                    "2": "The book was interesting it; kept my attention from the beginning to the end.",
+                    "3": "The book was interesting, it kept my attention from the beginning to the end.",
+                    "4": "The book was interesting; it kept my attention from the beginning to the end."
+                },
+                "explanation": "The correct answer is 4. A semicolon should be used to connect closely related independent clauses without a coordinating conjunction."
+                },
+                {
+                "question": "The concert starts at 7 pm; make sure to arrive on time.",
+                "answer": 1,
+                "choices": {
+                    "1": "The concert starts at 7 pm; make sure to arrive on time.",
+                    "2": "The concert starts at 7 pm make sure to arrive on time.",
+                    "3": "The concert starts at 7 pm, make sure to arrive on time.",
+                    "4": "The concert starts at 7 pm make sure to arrive on time."
+                },
+                "explanation": "The correct answer is 1. A semicolon should be used to connect closely related independent clauses without a coordinating conjunction."
+                },
+                {
+                "question": "He had three goals in mind: to learn, to grow, and to succeed.",
+                "answer": 1,
+                "choices": {
+                    "1": "He had three goals in mind: to learn, to grow, and to succeed.",
+                    "2": "He had three goals in mind to learn, to grow, and to succeed.",
+                    "3": "He had three goals in mind: to learn to grow, and to succeed.",
+                    "4": "He had three goals in mind: to learn, to grow and to succeed."
+                },
+                "explanation": "The correct answer is 1. A colon should be used to introduce a list, providing clarity and structure to the sentence."
+                },
+                {
+                "question": "She said, This is the best day of my life.",
+                "answer": 3,
+                "choices": {
+                    "1": "She said; \"This is the best day of my life.\"",
+                    "2": "She said \"This is the best day of my life.\"",
+                    "3": "She said, \"This is the best day of my life.\"",
+                    "4": "She said, 'This is the best day of my life."
+                },
+                "explanation": "The correct answer is 3. Quotation marks should be closed after the quoted material to properly punctuate the sentence."
+                },
+                {
+                "question": "The meeting is scheduled for 2 pm are you prepared?",
+                "answer": 1,
+                "choices": {
+                    "1": "The meeting is scheduled for 2 pm; are you prepared?",
+                    "2": "The meeting is scheduled for 2 pm, are you prepared?",
+                    "3": "The meeting is scheduled for 2 pm: are you prepared?",
+                    "4": "The meeting is scheduled for 2 pm. are you prepared?"
+                },
+                "explanation": "The correct answer is 1. A semicolon should be used to connect closely related independent clauses without a coordinating conjunction."
+                },
+                {
+                "question": "They explored the ancient ruins in Greece it was a breathtaking experience.",
+                "answer": 2,
+                "choices": {
+                    "1": "They explored the ancient ruins in Greece, it was a breathtaking experience.",
+                    "2": "They explored the ancient ruins in Greece; it was a breathtaking experience.",
+                    "3": "They explored the ancient ruins in Greece: it was a breathtaking experience.",
+                    "4": "They explored the ancient ruins in Greece. It was a, breathtaking experience."
+                },
+                "explanation": "The correct answer is 2. A semicolon should be used to connect closely related independent clauses without a coordinating conjunction."
+                },
+                {
+                "question": "The concert was canceled due to bad weather a heavy rainstorm.",
+                "answer": 1,
+                "choices": {
+                    "1": "The concert was canceled due to bad weather (a heavy rainstorm).",
+                    "2": "The concert was canceled due to bad weather, (a heavy rainstorm).",
+                    "3": "The concert was canceled due to bad weather. a heavy rainstorm.",
+                    "4": "The concert was canceled due to bad weather. (a heavy rainstorm)"
+                },
+                "explanation": "The correct answer is 1. Parentheses are correctly used to enclose supplementary information within a sentence."
+                },
+                {
+                "question": "\"The result of the experiment was unexpected (it challenged previous assumptions).\"",
+                "answer": 1,
+                "choices": {
+                    "1": "\"The result of the experiment was unexpected [it challenged previous assumptions].\"",
+                    "2": "The result of the experiment was unexpected, [it challenged previous assumptions].",
+                    "3": "The result of the experiment was unexpected; [it challenged previous assumptions].",
+                    "4": "The result of the experiment was unexpected: [it challenged previous assumptions]."
+                },
+                "explanation": "The correct answer is 1. Brackets are correctly used to insert clarifying information within a quotation."
+                },
+                {
+                "question": "He paused for a moment. then continued with his speech.",
+                "answer": 1,
+                "choices": {
+                    "1": "He paused for a moment ... then continued with his speech.",
+                    "2": "He paused for a moment, ... then continued with his speech.",
+                    "3": "He paused for a moment; ... then continued with his speech.",
+                    "4": "He paused for a moment: then continued with his speech"
+                },
+                "explanation": "The correct answer is 1. Ellipses are correctly used to indicate a pause in thought."
+                },
+                {
+                "question": "The instructions were simple follow the steps in the manual.",
+                "answer": 1,
+                "choices": {
+                    "1": "The instructions were simple: follow the steps in the manual.",
+                    "2": "The instructions were simple \"follow the steps in the manual.\"",
+                    "3": "The instructions were simple' follow the steps in the manual.",
+                    "4": "The instructions were simple; follow the steps in the manual."
+                },
+                "explanation": "The correct answer is 1. A colon is correctly used to introduce a list or explanation."
+                },
+                {
+                "question": "The sun was setting, the sky turned a beautiful shade of pink.",
+                "answer": 1,
+                "choices": {
+                    "1": "The sun was setting; the sky turned a beautiful shade of pink.",
+                    "2": "The sun was setting, the sky turned a beautiful shade of pink.",
+                    "3": "The sun was setting: the sky turned a beautiful shade of pink.",
+                    "4": "The sun was setting, the sky turned a beautiful shade of pink."
+                },
+                "explanation": "The correct answer is 1. A semicolon is correctly used to connect closely related independent clauses without a coordinating conjunction."
+                },
+                {
+                "question": "He said, I'll be there at 3 pm; make sure to wait for him.",
+                "answer": 1,
+                "choices": {
+                    "1": "He said, \"I'll be there at 3 pm\"; make sure to wait for him.",
+                    "2": "He said, \"I'll be there at 3 pm,\" make sure to wait for him.",
+                    "3": "He said: \"I'll be there at 3 pm,\" make sure to wait for him.",
+                    "4": "He said, \"I'll be there at 3 pm\", make sure to wait for him."
+                },
+                "explanation": "The correct answer is 1. Quotation marks are correctly used to indicate direct speech, and a semicolon is used to separate related clauses."
+                },
+                {
+                "question": "The project was challenging nevertheless they completed it successfully.",
+                "answer": 1,
+                "choices": {
+                    "1": "The project was challenging; nevertheless, they completed it successfully.",
+                    "2": "The project was challenging: nevertheless, they completed it successfully.",
+                    "3": "The project was challenging, nevertheless; they completed it successfully.",
+                    "4": "The project was challenging, nevertheless they completed it successfully."
+                },
+                "explanation": "The correct answer is 1. A semicolon is correctly used to connect closely related independent clauses without a coordinating conjunction, and a comma is used after 'nevertheless.'"
+                }
+            ]
+        },
+        {
+            "root-words": [
+                {
+                "question": "Aquatic",
+                "answer": 1,
+                "choices": {
+                    "1": "Aqua",
+                    "2": "Tic"
+                },
+                "explanation": "In the word \"aquatic,\" \"aqua\" is the root, referring to water."
+                },
+                {
+                "question": "Telepathy",
+                "answer": 1,
+                "choices": {
+                    "1": "Tele",
+                    "2": "Pathy"
+                },
+                "explanation": "In the word \"telepathy,\" \"tele\" is the prefix, meaning distant, and \"pathy\" is the root, referring to feelings or perceptions."
+                },
+                {
+                "question": "Biology",
+                "answer": 1,
+                "choices": {
+                    "1": "Bio",
+                    "2": "Logy"
+                },
+                "explanation": "In the word \"biology,\" \"bio\" is the root, indicating life."
+                },
+                {
+                "question": "Unhappiness",
+                "answer": 2,
+                "choices": {
+                    "1": "Un",
+                    "2": "Happiness"
+                },
+                "explanation": "In the word \"unhappiness,\" \"un\" is the prefix, indicating negation, and \"happiness\" is the root."
+                },
+                {
+                "question": "Misunderstand",
+                "answer": 1,
+                "choices": {
+                    "1": "Mis",
+                    "2": "Understand"
+                },
+                "explanation": "In the word \"misunderstand,\" \"mis\" is the prefix, indicating wrong or wrongly."
+                },
+                {
+                "question": "Antisocial",
+                "answer": 1,
+                "choices": {
+                    "1": "Anti",
+                    "2": "Social"
+                },
+                "explanation": "In the word \"antisocial,\" \"anti\" is the prefix, indicating against, and \"social\" is the root."
+                },
+                {
+                "question": "Geology",
+                "answer": 1,
+                "choices": {
+                    "1": "Geo",
+                    "2": "Logy"
+                },
+                "explanation": "In the word \"geology,\" \"geo\" is the root, referring to the Earth."
+                },
+                {
+                "question": "Artist",
+                "answer": 2,
+                "choices": {
+                    "1": "Art",
+                    "2": "Ist"
+                },
+                "explanation": "In the word \"artist,\" \"art\" is the root, and \"ist\" is the suffix, indicating one who practices or specializes in."
+                },
+                {
+                "question": "Joyful",
+                "answer": 2,
+                "choices": {
+                    "1": "Joy",
+                    "2": "Ful"
+                },
+                "explanation": "In the word \"joyful,\" \"joy\" is the root, and \"ful\" is the suffix, indicating full of."
+                },
+                {
+                "question": "Exceed",
+                "answer": 2,
+                "choices": {
+                    "1": "Ex",
+                    "2": "Ceed"
+                },
+                "explanation": "In the word \"exceed,\" \"ex\" is the prefix, meaning beyond, and \"ceed\" is the root."
+                },
+                {
+                "question": "Invisible",
+                "answer": 2,
+                "choices": {
+                    "1": "In",
+                    "2": "Visible"
+                },
+                "explanation": "In the word \"invisible,\" \"in\" is the prefix, indicating not, and \"visible\" is the root."
+                },
+                {
+                "question": "Transport",
+                "answer": 2,
+                "choices": {
+                    "1": "Trans",
+                    "2": "Port"
+                },
+                "explanation": "In the word \"transport,\" \"trans\" is the prefix, meaning across, and \"port\" is the root."
+                },
+                {
+                "question": "Illuminate",
+                "answer": 1,
+                "choices": {
+                    "1": "Il",
+                    "2": "Luminate"
+                },
+                "explanation": "In the word \"illuminate,\" \"il\" is the prefix, meaning not, and \"luminate\" is the root."
+                },
+                {
+                "question": "Prediction",
+                "answer": 2,
+                "choices": {
+                    "1": "Pre",
+                    "2": "Diction"
+                },
+                "explanation": "In the word \"prediction,\" \"pre\" is the prefix, meaning before, and \"diction\" is the root."
+                },
+                {
+                "question": "Auditory",
+                "answer": 1,
+                "choices": {
+                    "1": "Aud",
+                    "2": "Ito"
+                },
+                "explanation": "In the word \"auditory,\" \"aud\" is the root, referring to hearing."
+                }
+            ]
+        },
+        {
+            "run-on": [
+                {
+                "question": "She forgot her umbrella, it started raining.",
+                "choices": {
+                    "1": "She forgot her umbrella; it started raining.",
+                    "2": "She forgot her umbrella but it started raining.",
+                    "3": "She forgot her umbrella it started raining."
+                },
+                "answer": 1,
+                "explanation": "The correct choice uses a semicolon to separate the two independent clauses, improving the sentence's structure."
+                },
+                {
+                "question": "He finished his homework, he went to bed.",
+                "choices": {
+                    "1": "He finished his homework; he went to bed.",
+                    "2": "He finished his homework but he went to bed.",
+                    "3": "He finished his homework he went to bed."
+                },
+                "answer": 2,
+                "explanation": "The correct choice employs the coordinating conjunction 'but' to connect the related actions in the sentence."
+                },
+                {
+                "question": "They visited the museum, they enjoyed the exhibits.",
+                "choices": {
+                    "1": "They visited the museum; they enjoyed the exhibits.",
+                    "2": "They visited the museum but they enjoyed the exhibits.",
+                    "3": "They visited the museum they enjoyed the exhibits."
+                },
+                "answer": 1,
+                "explanation": "The correct choice uses a semicolon to appropriately link the two independent clauses, maintaining the logical connection."
+                },
+                {
+                "question": "The concert was canceled, they bought tickets.",
+                "choices": {
+                    "1": "The concert was canceled; they bought tickets.",
+                    "2": "The concert was canceled but they bought tickets.",
+                    "3": "The concert was canceled they bought tickets."
+                },
+                "answer": 2,
+                "explanation": "The correct choice introduces the coordinating conjunction 'but' to express the contrast between the cancellation and their ticket purchase."
+                },
+                {
+                "question": "She studied for hours, she aced the exam.",
+                "choices": {
+                    "1": "She studied for hours; she aced the exam.",
+                    "2": "She studied for hours but she aced the exam.",
+                    "3": "She studied for hours she aced the exam."
+                },
+                "answer": 1,
+                "explanation": "The correct choice uses a semicolon to correctly separate the two independent clauses, emphasizing the cause-and-effect relationship."
+                },
+                {
+                "question": "We went for a hike, we saw a beautiful sunset.",
+                "choices": {
+                    "1": "We went for a hike; we saw a beautiful sunset.",
+                    "2": "We went for a hike but we saw a beautiful sunset.",
+                    "3": "We went for a hike we saw a beautiful sunset."
+                },
+                "answer": 2,
+                "explanation": "The correct choice employs the coordinating conjunction 'but' to connect the related activities in the sentence."
+                },
+                {
+                "question": "The party was lively, they danced all night.",
+                "choices": {
+                    "1": "The party was lively; they danced all night.",
+                    "2": "The party was lively but they danced all night.",
+                    "3": "The party was lively they danced all night."
+                },
+                "answer": 1,
+                "explanation": "The correct choice uses a semicolon to appropriately link the two independent clauses, maintaining the flow of the sentence."
+                },
+                {
+                "question": "He forgot his keys, he couldn't enter the house.",
+                "choices": {
+                    "1": "He forgot his keys; he couldn't enter the house.",
+                    "2": "He forgot his keys but he couldn't enter the house.",
+                    "3": "He forgot his keys he couldn't enter the house."
+                },
+                "answer": 2,
+                "explanation": "The correct choice introduces the coordinating conjunction 'but' to express the cause-and-effect relationship between forgetting the keys and being unable to enter the house."
+                },
+                {
+                "question": "She baked a cake, she forgot the sugar.",
+                "choices": {
+                    "1": "She baked a cake; she forgot the sugar.",
+                    "2": "She baked a cake but she forgot the sugar.",
+                    "3": "She baked a cake she forgot the sugar."
+                },
+                "answer": 1,
+                "explanation": "The correct choice uses a semicolon to properly separate the two independent clauses, improving the sentence's structure."
+                },
+                {
+                "question": "They planned a road trip, the car broke down.",
+                "choices": {
+                    "1": "They planned a road trip; the car broke down.",
+                    "2": "They planned a road trip but the car broke down.",
+                    "3": "They planned a road trip the car broke down."
+                },
+                "answer": 2,
+                "explanation": "The correct choice introduces the coordinating conjunction 'but' to express the unexpected turn of events in the sentence."
+                },
+                {
+                "question": "She forgot her umbrella, it started raining.",
+                "choices": {
+                    "1": "She forgot her umbrella; it started raining.",
+                    "2": "She forgot her umbrella but it started raining.",
+                    "3": "She forgot her umbrella it started raining."
+                },
+                "answer": 1,
+                "explanation": "The correct choice uses a semicolon to separate the two independent clauses, improving the sentence's structure."
+                },
+                {
+                "question": "He finished his homework, he went to bed.",
+                "choices": {
+                    "1": "He finished his homework; he went to bed.",
+                    "2": "He finished his homework but he went to bed.",
+                    "3": "He finished his homework he went to bed."
+                },
+                "answer": 2,
+                "explanation": "The correct choice employs the coordinating conjunction 'but' to connect the related actions in the sentence."
+                },
+                {
+                "question": "They visited the museum, they enjoyed the exhibits.",
+                "choices": {
+                    "1": "They visited the museum; they enjoyed the exhibits.",
+                    "2": "They visited the museum but they enjoyed the exhibits.",
+                    "3": "They visited the museum they enjoyed the exhibits."
+                },
+                "answer": 1,
+                "explanation": "The correct choice uses a semicolon to appropriately link the two independent clauses, maintaining the logical connection."
+                },
+                {
+                "question": "The concert was canceled, they bought tickets.",
+                "choices": {
+                    "1": "The concert was canceled; they bought tickets.",
+                    "2": "The concert was canceled but they bought tickets.",
+                    "3": "The concert was canceled they bought tickets."
+                },
+                "answer": 2,
+                "explanation": "The correct choice introduces the coordinating conjunction 'but' to express the contrast between the cancellation and their ticket purchase."
+                }
+            ]
+        },
+        {
+            "sentence-fragments": [
+                {
+                "question": "Tired after the long day.",
+                "choices": {
+                    "1": "Tired after the long day, she went to bed.",
+                    "2": "Tired after the long day; she went to bed.",
+                    "3": "Tired after the long day, but she went to bed."
+                },
+                "answer": 1,
+                "explanation": "The correct choice turns the fragment into a complete sentence by adding a main clause: 'she went to bed.'"
+                },
+                {
+                "question": "During the movie.",
+                "choices": {
+                    "1": "During the movie, she received a phone call.",
+                    "2": "During the movie; she received a phone call.",
+                    "3": "During the movie, and she received a phone call."
+                },
+                "answer": 1,
+                "explanation": "The correct choice adds a main clause ('she received a phone call'), making the sentence complete."
+                },
+                {
+                "question": "Excited about the news.",
+                "choices": {
+                    "1": "Excited about the news, she called her friends.",
+                    "2": "Excited about the news; she called her friends.",
+                    "3": "Excited about the news, but she called her friends."
+                },
+                "answer": 1,
+                "explanation": "The correct choice provides a complete thought by adding a main clause ('she called her friends')."
+                },
+                {
+                "question": "Under the bright moonlight.",
+                "choices": {
+                    "1": "Under the bright moonlight, they danced until dawn.",
+                    "2": "Under the bright moonlight; they danced until dawn.",
+                    "3": "Under the bright moonlight, yet they danced until dawn."
+                },
+                "answer": 1,
+                "explanation": "The correct choice completes the sentence by adding a main clause ('they danced until dawn')."
+                },
+                {
+                "question": "In the middle of the forest.",
+                "choices": {
+                    "1": "In the middle of the forest, they discovered a hidden waterfall.",
+                    "2": "In the middle of the forest; they discovered a hidden waterfall.",
+                    "3": "In the middle of the forest, and they discovered a hidden waterfall."
+                },
+                "answer": 1,
+                "explanation": "The correct choice turns the fragment into a complete sentence by adding a main clause ('they discovered a hidden waterfall.')."
+                },
+                {
+                "question": "While waiting for the bus.",
+                "choices": {
+                    "1": "While waiting for the bus, she read a book.",
+                    "2": "While waiting for the bus; she read a book.",
+                    "3": "While waiting for the bus, so she read a book."
+                },
+                "answer": 1,
+                "explanation": "The correct choice completes the sentence by adding a main clause ('she read a book.')."
+                },
+                {
+                "question": "After the concert.",
+                "choices": {
+                    "1": "After the concert, they went out for pizza.",
+                    "2": "After the concert; they went out for pizza.",
+                    "3": "After the concert, and they went out for pizza."
+                },
+                "answer": 1,
+                "explanation": "The correct choice provides a complete thought by adding a main clause ('they went out for pizza.')."
+                },
+                {
+                "question": "Beneath the old oak tree.",
+                "choices": {
+                    "1": "Beneath the old oak tree, they had a picnic.",
+                    "2": "Beneath the old oak tree; they had a picnic.",
+                    "3": "Beneath the old oak tree, yet they had a picnic."
+                },
+                "answer": 1,
+                "explanation": "The correct choice turns the fragment into a complete sentence by adding a main clause ('they had a picnic.')."
+                },
+                {
+                "question": "In the quiet library.",
+                "choices": {
+                    "1": "In the quiet library, she studied for her exams.",
+                    "2": "In the quiet library; she studied for her exams.",
+                    "3": "In the quiet library, but she studied for her exams."
+                },
+                "answer": 1,
+                "explanation": "The correct choice completes the sentence by adding a main clause ('she studied for her exams.')."
+                },
+                {
+                "question": "At the top of the mountain.",
+                "choices": {
+                    "1": "At the top of the mountain, they celebrated their achievement.",
+                    "2": "At the top of the mountain; they celebrated their achievement.",
+                    "3": "At the top of the mountain, and they celebrated their achievement."
+                },
+                "answer": 1,
+                "explanation": "The correct choice provides a complete thought by adding a main clause ('they celebrated their achievement.')."
+                },
+                {
+                "question": "During the summer vacation.",
+                "choices": {
+                    "1": "During the summer vacation, they traveled to exotic destinations.",
+                    "2": "During the summer vacation; they traveled to exotic destinations.",
+                    "3": "During the summer vacation, and they traveled to exotic destinations."
+                },
+                "answer": 1,
+                "explanation": "The correct choice turns the fragment into a complete sentence by adding a main clause ('they traveled to exotic destinations.')."
+                },
+                {
+                "question": "At the stroke of midnight.",
+                "choices": {
+                    "1": "At the stroke of midnight, the fireworks lit up the sky.",
+                    "2": "At the stroke of midnight; the fireworks lit up the sky.",
+                    "3": "At the stroke of midnight, and the fireworks lit up the sky."
+                },
+                "answer": 1,
+                "explanation": "The correct choice completes the sentence by adding a main clause ('the fireworks lit up the sky.')."
+                },
+                {
+                "question": "In the bustling city.",
+                "choices": {
+                    "1": "In the bustling city, they explored hidden gems.",
+                    "2": "In the bustling city; they explored hidden gems.",
+                    "3": "In the bustling city, and they explored hidden gems."
+                },
+                "answer": 1,
+                "explanation": "The correct choice provides a complete thought by adding a main clause ('they explored hidden gems.')."
+                },
+                {
+                "question": "Before the deadline.",
+                "choices": {
+                    "1": "Before the deadline, she submitted her project.",
+                    "2": "Before the deadline; she submitted her project.",
+                    "3": "Before the deadline, but she submitted her project."
+                },
+                "answer": 1,
+                "explanation": "The correct choice turns the fragment into a complete sentence by adding a main clause ('she submitted her project.')."
+                }
+            ]
+        },
+        {
+            "sentence-types": [
+                {
+                    "question": "The sun sets in the west.",
+                    "choices": {
+                    "1": "Declarative Sentence",
+                    "2": "Interrogative Sentence",
+                    "3": "Imperative Sentence",
+                    "4": "Exclamatory Sentence"
+                    },
+                    "answer": 1,
+                    "explanation": "Declarative sentences make statements or declarations. They provide information, share thoughts, or express opinions."
+                },
+                {
+                    "question": "Have you finished your homework?",
+                    "choices": {
+                    "1": "Declarative Sentence",
+                    "2": "Interrogative Sentence",
+                    "3": "Imperative Sentence",
+                    "4": "Exclamatory Sentence"
+                    },
+                    "answer": 2,
+                    "explanation": "Interrogative sentences ask questions. They seek information or clarification."
+                },
+                {
+                    "question": "Please pass me the salt.",
+                    "choices": {
+                    "1": "Declarative Sentence",
+                    "2": "Interrogative Sentence",
+                    "3": "Imperative Sentence",
+                    "4": "Exclamatory Sentence"
+                    },
+                    "answer": 3,
+                    "explanation": "Imperative sentences give commands, instructions, or make requests. They often begin with a verb."
+                },
+                {
+                    "question": "What a beautiful sunset!",
+                    "choices": {
+                    "1": "Declarative Sentence",
+                    "2": "Interrogative Sentence",
+                    "3": "Imperative Sentence",
+                    "4": "Exclamatory Sentence"
+                    },
+                    "answer": 4,
+                    "explanation": "Exclamatory sentences express strong emotions or excitement. They often end with an exclamation mark."
+                },
+                {
+                    "question": "I love reading mystery novels.",
+                    "choices": {
+                    "1": "Declarative Sentence",
+                    "2": "Interrogative Sentence",
+                    "3": "Imperative Sentence",
+                    "4": "Exclamatory Sentence"
+                    },
+                    "answer": 1,
+                    "explanation": "Declarative sentences make statements or declarations. They provide information, share thoughts, or express opinions."
+                },
+                {
+                    "question": "Did you enjoy the concert last night?",
+                    "choices": {
+                    "1": "Declarative Sentence",
+                    "2": "Interrogative Sentence",
+                    "3": "Imperative Sentence",
+                    "4": "Exclamatory Sentence"
+                    },
+                    "answer": 2,
+                    "explanation": "Interrogative sentences ask questions. They seek information or clarification."
+                },
+                {
+                    "question": "Clean your room before going out.",
+                    "choices": {
+                    "1": "Declarative Sentence",
+                    "2": "Interrogative Sentence",
+                    "3": "Imperative Sentence",
+                    "4": "Exclamatory Sentence"
+                    },
+                    "answer": 3,
+                    "explanation": "Imperative sentences give commands, instructions, or make requests. They often begin with a verb."
+                },
+                {
+                    "question": "What a delicious meal this is!",
+                    "choices": {
+                    "1": "Declarative Sentence",
+                    "2": "Interrogative Sentence",
+                    "3": "Imperative Sentence",
+                    "4": "Exclamatory Sentence"
+                    },
+                    "answer": 4,
+                    "explanation": "Exclamatory sentences express strong emotions or excitement. They often end with an exclamation mark."
+                },
+                {
+                    "question": "The new movie releases next week.",
+                    "choices": {
+                    "1": "Declarative Sentence",
+                    "2": "Interrogative Sentence",
+                    "3": "Imperative Sentence",
+                    "4": "Exclamatory Sentence"
+                    },
+                    "answer": 1,
+                    "explanation": "Declarative sentences make statements or declarations. They provide information, share thoughts, or express opinions."
+                },
+                {
+                    "question": "Could you please help me with my homework?",
+                    "choices": {
+                    "1": "Declarative Sentence",
+                    "2": "Interrogative Sentence",
+                    "3": "Imperative Sentence",
+                    "4": "Exclamatory Sentence"
+                    },
+                    "answer": 2,
+                    "explanation": "Interrogative sentences ask questions. They seek information or clarification."
+                },
+                {
+                    "question": "Take a moment to appreciate the beauty around you!",
+                    "choices": {
+                    "1": "Declarative Sentence",
+                    "2": "Interrogative Sentence",
+                    "3": "Imperative Sentence",
+                    "4": "Exclamatory Sentence"
+                    },
+                    "answer": 4,
+                    "explanation": "Exclamatory sentences express strong emotions or excitement. They often end with an exclamation mark."
+                },
+                {
+                    "question": "She is studying for the exam.",
+                    "choices": {
+                    "1": "Declarative Sentence",
+                    "2": "Interrogative Sentence",
+                    "3": "Imperative Sentence",
+                    "4": "Exclamatory Sentence"
+                    },
+                    "answer": 1,
+                    "explanation": "Declarative sentences make statements or declarations. They provide information, share thoughts, or express opinions."
+                },
+                {
+                    "question": "Did they enjoy the movie?",
+                    "choices": {
+                    "1": "Declarative Sentence",
+                    "2": "Interrogative Sentence",
+                    "3": "Imperative Sentence",
+                    "4": "Exclamatory Sentence"
+                    },
+                    "answer": 2,
+                    "explanation": "Interrogative sentences ask questions. They seek information or clarification."
+                },
+                {
+                    "question": "Please close the door quietly.",
+                    "choices": {
+                    "1": "Declarative Sentence",
+                    "2": "Interrogative Sentence",
+                    "3": "Imperative Sentence",
+                    "4": "Exclamatory Sentence"
+                    },
+                    "answer": 3,
+                    "explanation": "Imperative sentences give commands or make requests. They express a desire for someone to do something."
+                },
+                {
+                    "question": "What a beautiful sunset!",
+                    "choices": {
+                    "1": "Declarative Sentence",
+                    "2": "Interrogative Sentence",
+                    "3": "Imperative Sentence",
+                    "4": "Exclamatory Sentence"
+                    },
+                    "answer": 4,
+                    "explanation": "Exclamatory sentences express strong emotions or surprise. They often end with an exclamation mark."
+                },
+                {
+                    "question": "They have already finished their homework.",
+                    "choices": {
+                    "1": "Declarative Sentence",
+                    "2": "Interrogative Sentence",
+                    "3": "Imperative Sentence",
+                    "4": "Exclamatory Sentence"
+                    },
+                    "answer": 1,
+                    "explanation": "Declarative sentences make statements or declarations. They provide information, share thoughts, or express opinions."
+                },
+                {
+                    "question": "Did he play the guitar at the concert?",
+                    "choices": {
+                    "1": "Declarative Sentence",
+                    "2": "Interrogative Sentence",
+                    "3": "Imperative Sentence",
+                    "4": "Exclamatory Sentence"
+                    },
+                    "answer": 2,
+                    "explanation": "Interrogative sentences ask questions. They seek information or clarification."
+                },
+                {
+                    "question": "Please be quiet during the presentation.",
+                    "choices": {
+                    "1": "Declarative Sentence",
+                    "2": "Interrogative Sentence",
+                    "3": "Imperative Sentence",
+                    "4": "Exclamatory Sentence"
+                    },
+                    "answer": 3,
+                    "explanation": "Imperative sentences give commands or make requests. They express a desire for someone to do something."
+                },
+                {
+                    "question": "What a delicious meal!",
+                    "choices": {
+                    "1": "Declarative Sentence",
+                    "2": "Interrogative Sentence",
+                    "3": "Imperative Sentence",
+                    "4": "Exclamatory Sentence"
+                    },
+                    "answer": 4,
+                    "explanation": "Exclamatory sentences express strong emotions or surprise. They often end with an exclamation mark."
+                },
+                {
+                    "question": "I do not agree with that statement.",
+                    "choices": {
+                    "1": "Declarative Sentence",
+                    "2": "Interrogative Sentence",
+                    "3": "Imperative Sentence",
+                    "4": "Exclamatory Sentence"
+                    },
+                    "answer": 1,
+                    "explanation": "Declarative sentences make statements or declarations. They provide information, share thoughts, or express opinions."
+                },
+                {
+                    "question": "Have you ever visited New York City?",
+                    "choices": {
+                    "1": "Declarative Sentence",
+                    "2": "Interrogative Sentence",
+                    "3": "Imperative Sentence",
+                    "4": "Exclamatory Sentence"
+                    },
+                    "answer": 2,
+                    "explanation": "Interrogative sentences ask questions. They seek information or clarification."
+                },
+                {
+                    "question": "Read the instructions before assembling the furniture.",
+                    "choices": {
+                    "1": "Declarative Sentence",
+                    "2": "Interrogative Sentence",
+                    "3": "Imperative Sentence",
+                    "4": "Exclamatory Sentence"
+                    },
+                    "answer": 3,
+                    "explanation": "Imperative sentences give commands or make requests. They express a desire for someone to do something."
+                },
+                {
+                    "question": "What an incredible achievement!",
+                    "choices": {
+                    "1": "Declarative Sentence",
+                    "2": "Interrogative Sentence",
+                    "3": "Imperative Sentence",
+                    "4": "Exclamatory Sentence"
+                    },
+                    "answer": 4,
+                    "explanation": "Exclamatory sentences express strong emotions or surprise. They often end with an exclamation mark."
+                },
+                {
+                    "question": "She is participating in the school play.",
+                    "choices": {
+                    "1": "Declarative Sentence",
+                    "2": "Interrogative Sentence",
+                    "3": "Imperative Sentence",
+                    "4": "Exclamatory Sentence"
+                    },
+                    "answer": 1,
+                    "explanation": "Declarative sentences make statements or declarations. They provide information, share thoughts, or express opinions."
+                },
+                {
+                    "question": "Will you help me with my homework?",
+                    "choices": {
+                    "1": "Declarative Sentence",
+                    "2": "Interrogative Sentence",
+                    "3": "Imperative Sentence",
+                    "4": "Exclamatory Sentence"
+                    },
+                    "answer": 2,
+                    "explanation": "Interrogative sentences ask questions. They seek information or clarification."
+                },
+                {
+                    "question": "Let's finish the project by tomorrow.",
+                    "choices": {
+                    "1": "Declarative Sentence",
+                    "2": "Interrogative Sentence",
+                    "3": "Imperative Sentence",
+                    "4": "Exclamatory Sentence"
+                    },
+                    "answer": 3,
+                    "explanation": "Imperative sentences give commands or make requests. They express a desire for someone to do something."
+                }
+            ]
+        },
+        {
+            "simple-sentences": [
+                {
+                "question": "The cat is sleeping. Identify the subject.",
+                "choices": {
+                    "1": "The cat",
+                    "2": "Is sleeping",
+                    "3": "Sleeping"
+                },
+                "answer": "1",
+                "explanation": "In the sentence 'The cat is sleeping,' the subject is 'The cat' because it is the 'who' or 'what' the sentence is about."
+                },
+                {
+                "question": "Birds sing in the morning. Identify the predicate.",
+                "choices": {
+                    "1": "Birds",
+                    "2": "Sing in the morning",
+                    "3": "In the morning"
+                },
+                "answer": "2",
+                "explanation": "In the sentence 'Birds sing in the morning,' the predicate is 'Sing in the morning' because it tells us what the birds are doing."
+                },
+                {
+                "question": "She danced gracefully. Identify the subject.",
+                "choices": {
+                    "1": "She",
+                    "2": "Danced gracefully",
+                    "3": "Gracefully"
+                },
+                "answer": "1",
+                "explanation": "In the sentence 'She danced gracefully,' the subject is 'She' because she is the one performing the action."
+                },
+                {
+                "question": "The book fell off the shelf. Identify the predicate.",
+                "choices": {
+                    "1": "The book",
+                    "2": "Fell off the shelf",
+                    "3": "Off the shelf"
+                },
+                "answer": "2",
+                "explanation": "In the sentence 'The book fell off the shelf,' the predicate is 'Fell off the shelf' because it describes the action of the book."
+                },
+                {
+                "question": "Rain poured down all night. Identify the subject.",
+                "choices": {
+                    "1": "Rain poured down",
+                    "2": "All night",
+                    "3": "Poured down"
+                },
+                "answer": "1",
+                "explanation": "In the sentence 'Rain poured down all night,' the subject is 'Rain poured down' because it is the 'who' or 'what' the sentence is about."
+                },
+                {
+                "question": "The sun sets in the west. Identify the predicate.",
+                "choices": {
+                    "1": "The sun",
+                    "2": "Sets in the west",
+                    "3": "In the west"
+                },
+                "answer": "2",
+                "explanation": "In the sentence 'The sun sets in the west,' the predicate is 'Sets in the west' because it describes the action of the sun."
+                },
+                {
+                "question": "Dogs love to play in the park. Identify the subject.",
+                "choices": {
+                    "1": "Dogs",
+                    "2": "Love to play in the park",
+                    "3": "In the park"
+                },
+                "answer": "1",
+                "explanation": "In the sentence 'Dogs love to play in the park,' the subject is 'Dogs' because they are the ones who love to play."
+                },
+                {
+                "question": "She danced gracefully. Identify the predicate.",
+                "choices": {
+                    "1": "She",
+                    "2": "Danced gracefully",
+                    "3": "Gracefully"
+                },
+                "answer": "2",
+                "explanation": "In the sentence 'She danced gracefully,' the predicate is 'Danced gracefully' because it describes how she danced."
+                },
+                {
+                "question": "The book fell off the shelf. Identify the subject.",
+                "choices": {
+                    "1": "The book",
+                    "2": "Fell off the shelf",
+                    "3": "Off the shelf"
+                },
+                "answer": "1",
+                "explanation": "In the sentence 'The book fell off the shelf,' the subject is 'The book' because it is the 'who' or 'what' the sentence is about."
+                },
+                {
+                "question": "Rain poured down all night. Identify the predicate.",
+                "choices": {
+                    "1": "Rain poured down",
+                    "2": "All night",
+                    "3": "Poured down"
+                },
+                "answer": "2",
+                "explanation": "In the sentence 'Rain poured down all night,' the predicate is 'All night' because it describes the duration of the rain pouring down."
+                },
+                {
+                "question": "The students studied for their exams. Identify the subject.",
+                "choices": {
+                    "1": "The students",
+                    "2": "Studied for their exams",
+                    "3": "For their exams"
+                },
+                "answer": "1",
+                "explanation": "In the sentence 'The students studied for their exams,' the subject is 'The students' because they are the ones who studied."
+                },
+                {
+                "question": "Running a marathon requires endurance. Identify the predicate.",
+                "choices": {
+                    "1": "Running a marathon",
+                    "2": "Requires endurance",
+                    "3": "Endurance"
+                },
+                "answer": "2",
+                "explanation": "In the sentence 'Running a marathon requires endurance,' the predicate is 'Requires endurance' because it describes what is needed for running a marathon."
+                },
+                {
+                "question": "Birds build nests in trees. Identify the subject.",
+                "choices": {
+                    "1": "Birds",
+                    "2": "Build nests in trees",
+                    "3": "In trees"
+                },
+                "answer": "1",
+                "explanation": "In the sentence 'Birds build nests in trees,' the subject is 'Birds' because they are the ones building nests."
+                },
+                {
+                "question": "The teacher explained the lesson patiently. Identify the predicate.",
+                "choices": {
+                    "1": "The teacher",
+                    "2": "Explained the lesson patiently",
+                    "3": "The lesson patiently"
+                },
+                "answer": "2",
+                "explanation": "In the sentence 'The teacher explained the lesson patiently,' the predicate is 'Explained the lesson patiently' because it describes how the teacher explained."
+                },
+                {
+                "question": "John and Mary went to the store. Identify the subject.",
+                "choices": {
+                    "1": "John and Mary",
+                    "2": "Went to the store",
+                    "3": "To the store"
+                },
+                "answer": "1",
+                "explanation": "In the sentence 'John and Mary went to the store,' the subject is 'John and Mary' because they are the ones who went to the store."
+                }
+            ]
+        },
+        {
+            "subject-verb-agreement": [
+                {
+                    "question": "The cat and the dog (was/were) playing in the garden yesterday.",
+                    "answer": 2,
+                    "choices": {
+                    "1": "was",
+                    "2": "were"
+                    },
+                    "explanation": "In this case, 'cat and dog' is a plural subject, so the correct verb is 'were.'"
+                },
+                {
+                    "question": "Yesterday, Sarah (go/goes) to the library to return her books.",
+                    "answer": 1,
+                    "choices": {
+                    "1": "go",
+                    "2": "goes"
+                    },
+                    "explanation": "When describing a past action, the correct form is 'go.'"
+                },
+                {
+                    "question": "The mysterious package (is/are) sitting on the doorstep.",
+                    "answer": 1,
+                    "choices": {
+                    "1": "is",
+                    "2": "are"
+                    },
+                    "explanation": "Here, 'package' is a singular noun, so the correct verb is 'is.'"
+                },
+                {
+                    "question": "Sheila and her brother (has/have) different tastes in music.",
+                    "answer": 2,
+                    "choices": {
+                    "1": "has",
+                    "2": "have"
+                    },
+                    "explanation": "When there are multiple subjects, as in this case, use the plural form 'have.'"
+                },
+                {
+                    "question": "The movie, as well as the book, (captures/capture) the essence of the story.",
+                    "answer": 1,
+                    "choices": {
+                    "1": "captures",
+                    "2": "capture"
+                    },
+                    "explanation": "When the subject is singular, as in 'movie,' use the singular verb 'captures.'"
+                },
+                {
+                    "question": "Neither the students nor the teacher (was/were) aware of the surprise.",
+                    "answer": 1,
+                    "choices": {
+                    "1": "was",
+                    "2": "were"
+                    },
+                    "explanation": "When 'neither...nor' connects singular subjects, use the singular verb 'was.'"
+                },
+                {
+                    "question": "The development team (has/have) been working on the project for several months.",
+                    "answer": 2,
+                    "choices": {
+                    "1": "has",
+                    "2": "have"
+                    },
+                    "explanation": "When referring to a team, use the plural form 'have.'"
+                },
+                {
+                    "question": "Each of the students (was/were) given a special assignment.",
+                    "answer": 1,
+                    "choices": {
+                    "1": "was",
+                    "2": "were"
+                    },
+                    "explanation": "When 'each' is used, the verb should agree with the singular noun following it, so 'was' is correct."
+                },
+                {
+                    "question": "The new shoes (fits/fit) perfectly; they are very comfortable.",
+                    "answer": 2,
+                    "choices": {
+                    "1": "fits",
+                    "2": "fit"
+                    },
+                    "explanation": "In this context, referring to 'shoes' in the plural, the correct verb is 'fit.'"
+                },
+                {
+                    "question": "The reasons for his decision (was/were) not fully understood by everyone.",
+                    "answer": 2,
+                    "choices": {
+                    "1": "was",
+                    "2": "were"
+                    },
+                    "explanation": "When 'reasons' is the subject, use the plural form 'were.'"
+                },
+                {
+                    "question": "My favorite band, along with a few friends, (is/are) attending the concert.",
+                    "answer": 2,
+                    "choices": {
+                    "1": "is",
+                    "2": "are"
+                    },
+                    "explanation": "When 'along with' introduces additional elements, the verb should agree with the closer element, which is plural in this case."
+                },
+                {
+                    "question": "The noise coming from the neighbors (disturbs/disturb) my concentration.",
+                    "answer": 2,
+                    "choices": {
+                    "1": "disturbs",
+                    "2": "disturb"
+                    },
+                    "explanation": "In this context, the plural form 'disturb' is correct when referring to 'neighbors.'"
+                },
+                {
+                    "question": "A variety of fruits (was/were) available at the market.",
+                    "answer": 2,
+                    "choices": {
+                    "1": "was",
+                    "2": "were"
+                    },
+                    "explanation": "When 'variety' is used, the verb should agree with the plural noun that follows it, so 'were' is correct."
+                },
+                {
+                    "question": "The information on the website (seem/seems) accurate and up-to-date.",
+                    "answer": 1,
+                    "choices": {
+                    "1": "seem",
+                    "2": "seems"
+                    },
+                    "explanation": "When the subject is 'information,' which is uncountable and plural in nature, use the plural verb 'seem.'"
+                },
+                {
+                    "question": "Everyone, including the children, (enjoys/enjoy) a good adventure movie.",
+                    "answer": 2,
+                    "choices": {
+                    "1": "enjoys",
+                    "2": "enjoy"
+                    },
+                    "explanation": "When 'including' introduces additional elements, the verb should agree with the closer element, which is plural in this case."
+                }
+            ]
+        },
+        {
+            "synonyms-antonyms": [
+                {
+                "question": "Choose the pair of words that are synonyms.",
+                "answer": 1,
+                "choices": {
+                    "1": "Fearless - Courageous",
+                    "2": "Angry - Content",
+                    "3": "Intelligent - Stupid",
+                    "4": "Happy - Sad"
+                },
+                "explanation": "Fearless and courageous both describe a lack of fear or bravery."
+                },
+                {
+                "question": "Select the antonym for the word 'Generous'.",
+                "answer": 3,
+                "choices": {
+                    "1": "Kind",
+                    "2": "Benevolent",
+                    "3": "Stingy",
+                    "4": "Charitable"
+                },
+                "explanation": "Generous means giving freely, while stingy means unwilling to give or spend."
+                },
+                {
+                "question": "Identify the synonym of 'Eloquent'.",
+                "answer": 2,
+                "choices": {
+                    "1": "Inarticulate",
+                    "2": "Expressive",
+                    "3": "Mute",
+                    "4": "Reserved"
+                },
+                "explanation": "Eloquent refers to being fluent and expressive in speech, making 'Expressive' the correct synonym."
+                },
+                {
+                "question": "Pick the antonym for 'Flexible'.",
+                "answer": 4,
+                "choices": {
+                    "1": "Adaptable",
+                    "2": "Pliable",
+                    "3": "Supple",
+                    "4": "Rigid"
+                },
+                "explanation": "Flexible means capable of bending easily, while rigid means inflexible and stiff."
+                },
+                {
+                "question": "Choose the synonym for 'Ponder'.",
+                "answer": 1,
+                "choices": {
+                    "1": "Contemplate",
+                    "2": "Neglect",
+                    "3": "Ignore",
+                    "4": "Disregard"
+                },
+                "explanation": "Ponder means to think deeply or consider carefully, making 'Contemplate' the correct synonym."
+                },
+                {
+                "question": "Find the antonym for 'Gloomy'.",
+                "answer": 2,
+                "choices": {
+                    "1": "Dark",
+                    "2": "Cheerful",
+                    "3": "Melancholy",
+                    "4": "Somber"
+                },
+                "explanation": "Gloomy means dark or depressing, while cheerful describes a positive and happy atmosphere."
+                },
+                {
+                "question": "Select the synonym for 'Obsolete'.",
+                "answer": 4,
+                "choices": {
+                    "1": "Current",
+                    "2": "Modern",
+                    "3": "Contemporary",
+                    "4": "Outdated"
+                },
+                "explanation": "Obsolete means no longer in use or outdated, making 'Outdated' the correct synonym."
+                },
+                {
+                "question": "Identify the antonym for 'Cautious'.",
+                "answer": 1,
+                "choices": {
+                    "1": "Reckless",
+                    "2": "Vigilant",
+                    "3": "Wary",
+                    "4": "Prudent"
+                },
+                "explanation": "Cautious means being careful and avoiding risks, while reckless means showing a lack of caution."
+                },
+                {
+                "question": "Pick the synonym for 'Serene'.",
+                "answer": 3,
+                "choices": {
+                    "1": "Stormy",
+                    "2": "Turbulent",
+                    "3": "Tranquil",
+                    "4": "Chaotic"
+                },
+                "explanation": "Serene describes a state of calm and peacefulness, making 'Tranquil' the correct synonym."
+                },
+                {
+                "question": "Choose the antonym for 'Voracious'.",
+                "answer": 2,
+                "choices": {
+                    "1": "Eager",
+                    "2": "Moderate",
+                    "3": "Insatiable",
+                    "4": "Ravenous"
+                },
+                "explanation": "Voracious means having an insatiable appetite, while moderate describes consuming in reasonable amounts."
+                },
+                {
+                "question": "Find the synonym for 'Eclectic'.",
+                "answer": 4,
+                "choices": {
+                    "1": "Narrow-minded",
+                    "2": "Selective",
+                    "3": "Exclusive",
+                    "4": "Diverse"
+                },
+                "explanation": "Eclectic refers to selecting or using elements from various sources, making 'Diverse' the correct synonym."
+                },
+                {
+                "question": "Select the antonym for 'Amiable'.",
+                "answer": 3,
+                "choices": {
+                    "1": "Friendly",
+                    "2": "Affable",
+                    "3": "Hostile",
+                    "4": "Pleasant"
+                },
+                "explanation": "Amiable means friendly and pleasant, while hostile describes an unfriendly and antagonistic attitude."
+                },
+                {
+                "question": "Identify the synonym for 'Ubiquitous'.",
+                "answer": 1,
+                "choices": {
+                    "1": "Omnipresent",
+                    "2": "Rare",
+                    "3": "Scarce",
+                    "4": "Limited"
+                },
+                "explanation": "Ubiquitous means being present everywhere, making 'Omnipresent' the correct synonym."
+                },
+                {
+                "question": "Pick the antonym for 'Vibrant'.",
+                "answer": 4,
+                "choices": {
+                    "1": "Lively",
+                    "2": "Energetic",
+                    "3": "Dynamic",
+                    "4": "Dull"
+                },
+                "explanation": "Vibrant means full of energy and life, while dull describes a lack of brightness and vitality."
+                },
+                {
+                "question": "Choose the synonym for 'Persevere'.",
+                "answer": 2,
+                "choices": {
+                    "1": "Surrender",
+                    "2": "Persist",
+                    "3": "Abandon",
+                    "4": "Relinquish"
+                },
+                "explanation": "Persevere means to persist in a task or purpose despite obstacles, making 'Persist' the correct synonym."
+                }
+            ]
+        },
+        {
+            "technical-and-specialized-vocabulary": [
+                {
+                    "question": "In the context of education terminology, what is the significance of the term \"formative assessment\"?",
+                    "answer":  4,
+                    "choices": {
+                    "1": "A type of assessment conducted at the end of a course to determine overall student performance.",
+                    "2": "An assessment method that measures a student's knowledge before the instruction begins.",
+                    "3": "A summative evaluation of a student's progress throughout a semester.",
+                    "4": "A continuous, ongoing assessment that provides feedback during the learning process."
+                    },
+                    "explanation": "Formative assessment is a type of assessment conducted during the learning process to provide ongoing feedback on a student's performance. It is not a final evaluation but aims to monitor progress and guide instructional decisions."
+                },
+                {
+                    "question": "In the context of education terminology, what is the significance of the term \"pedagogy\"?",
+                    "answer": 2,
+                    "choices": {
+                    "1": "A method of assessing student knowledge before the instruction begins.",
+                    "2": "The art and science of teaching, including instructional methods and strategies.",
+                    "3": "A form of assessment used to determine overall student performance at the end of a course.",
+                    "4": "An evaluation of a student's progress throughout a semester."
+                    },
+                    "explanation": "Pedagogy refers to the holistic approach to teaching, encompassing instructional methods, strategies, and the art and science of education."
+                },
+                {
+                    "question": "In mathematics, what does the term \"algorithm\" refer to?",
+                    "answer": 3,
+                    "choices": {
+                    "1": "A mathematical proof technique.",
+                    "2": "A type of equation used to solve complex problems.",
+                    "3": "A step-by-step procedure or set of rules for solving a problem or completing a task.",
+                    "4": "The study of shapes and properties of space."
+                    },
+                    "explanation": "An algorithm is a step-by-step procedure or set of rules for solving a problem or completing a task, often used in mathematics and computer science."
+                },
+                {
+                    "question": "In the field of environmental science, what is the primary focus of \"biodiversity\"?",
+                    "answer": 1,
+                    "choices": {
+                    "1": "The variety of living organisms in a particular habitat or ecosystem.",
+                    "2": "The study of rock formations and geological processes.",
+                    "3": "The measurement of atmospheric conditions and climate patterns.",
+                    "4": "The analysis of soil composition and fertility."
+                    },
+                    "explanation": "Biodiversity refers to the variety of living organisms in a particular habitat or ecosystem, encompassing species diversity, genetic diversity, and ecosystem diversity."
+                },
+                {
+                    "question": "In the context of language and literature, what does the term \"metaphor\" represent?",
+                    "answer": 4,
+                    "choices": {
+                    "1": "A figure of speech using exaggeration for emphasis or effect.",
+                    "2": "A comparison between two unlike things using 'like' or 'as'.",
+                    "3": "A play on words with similar sounds but different meanings.",
+                    "4": "A figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable, to suggest a resemblance."
+                    },
+                    "explanation": "A metaphor is a figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable, suggesting a resemblance and adding depth to the language."
+                },
+                {
+                    "question": "In technology and engineering, what does the term \"HTML\" stand for?",
+                    "answer": 2,
+                    "choices": {
+                    "1": "Hyper Transfer Markup Language.",
+                    "2": "Hypertext Markup Language.",
+                    "3": "High-Level Textual Modeling Language.",
+                    "4": "Human Technology Modeling and Learning."
+                    },
+                    "explanation": "HTML stands for Hypertext Markup Language, a standard markup language for creating web pages and web applications."
+                },
+                {
+                    "question": "In the social sciences, what does the term \"anthropology\" focus on?",
+                    "answer": 3,
+                    "choices": {
+                    "1": "The study of individual and collective human behavior.",
+                    "2": "The analysis of political systems and governance.",
+                    "3": "The study of human societies, cultures, and their development.",
+                    "4": "The examination of economic systems and financial structures."
+                    },
+                    "explanation": "Anthropology is the social science that focuses on the study of human societies, cultures, and their development over time."
+                },
+                {
+                    "question": "In educational psychology, what is the concept of \"scaffolding\"?",
+                    "answer": 1,
+                    "choices": {
+                    "1": "A supportive framework or structure provided by a teacher to assist students in learning a new concept.",
+                    "2": "A psychological process involving the removal of unnecessary information.",
+                    "3": "The analysis of individual learning styles and preferences.",
+                    "4": "A form of summative assessment used to evaluate overall student performance."
+                    },
+                    "explanation": "Scaffolding in educational psychology refers to a supportive framework or structure provided by a teacher to assist students in learning a new concept, gradually fading as the students gain proficiency."
+                },
+                {
+                    "question": "In the context of political science, what is the definition of a \"democracy\"?",
+                    "answer": 2,
+                    "choices": {
+                    "1": "A form of government where power is concentrated in the hands of a single leader.",
+                    "2": "A system of government in which the people have the authority to choose their leaders through voting.",
+                    "3": "A government controlled by a small group of individuals.",
+                    "4": "A political system focused on hereditary leadership."
+                    },
+                    "explanation": "Democracy is a system of government in which the people have the authority to choose their leaders through voting, ensuring a representative and participatory governance structure."
+                },
+                {
+                    "question": "In statistics, what does the term \"standard deviation\" measure?",
+                    "answer": 4,
+                    "choices": {
+                    "1": "The average of a set of values.",
+                    "2": "The highest value in a dataset.",
+                    "3": "The range of values in a dataset.",
+                    "4": "The measure of the amount of variation or dispersion of a set of values."
+                    },
+                    "explanation": "Standard deviation is a statistical measure that represents the amount of variation or dispersion of a set of values from the mean (average). A higher standard deviation indicates greater variability."
+                },
+                {
+                    "question": "In literature, what does the term \"foreshadowing\" refer to?",
+                    "answer": 3,
+                    "choices": {
+                    "1": "A poetic device involving the repetition of consonant sounds.",
+                    "2": "A type of figurative language using 'like' or 'as'.",
+                    "3": "A literary device in which the author hints at future events in the plot.",
+                    "4": "A form of irony where the opposite of what is expected occurs."
+                    },
+                    "explanation": "Foreshadowing is a literary device in which the author hints at or suggests future events in the plot, creating anticipation and adding depth to the narrative."
+                },
+                {
+                    "question": "In physics, what does the term \"gravity\" refer to?",
+                    "answer": 1,
+                    "choices": {
+                    "1": "The force that attracts two objects with mass towards each other.",
+                    "2": "The resistance of a material to flow.",
+                    "3": "The energy an object possesses due to its motion.",
+                    "4": "The force exerted by a fluid on an object placed in it."
+                    },
+                    "explanation": "Gravity is the force that attracts two objects with mass towards each other. It is responsible for phenomena such as the weight of objects and the orbits of planets around the sun."
+                },
+                {
+                    "question": "In computer science, what is the purpose of a \"firewall\"?",
+                    "answer": 2,
+                    "choices": {
+                    "1": "A software application for creating and editing documents.",
+                    "2": "A security system that monitors and controls incoming and outgoing network traffic.",
+                    "3": "A device for printing documents on paper.",
+                    "4": "A system for organizing and storing files on a computer."
+                    },
+                    "explanation": "A firewall in computer science is a security system that monitors and controls incoming and outgoing network traffic, acting as a barrier between a trusted internal network and untrusted external networks."
+                },
+                {
+                    "question": "In chemistry, what is the term for a substance that speeds up a chemical reaction without being consumed in the process?",
+                    "answer": 4,
+                    "choices": {
+                    "1": "Catalyst",
+                    "2": "Reagent",
+                    "3": "Solvent",
+                    "4": "Catalytic converter"
+                    },
+                    "explanation": "A catalyst is a substance that speeds up a chemical reaction without being consumed in the process. It facilitates the reaction but remains unchanged at the end."
+                },
+                {
+                    "question": "In economics, what does the term \"inflation\" refer to?",
+                    "answer": 3,
+                    "choices": {
+                    "1": "The total value of goods and services produced in a country.",
+                    "2": "The amount of money in circulation within an economy.",
+                    "3": "A sustained increase in the general price level of goods and services over time.",
+                    "4": "The difference between total revenue and total expenses in a business."
+                    },
+                    "explanation": "Inflation in economics refers to a sustained increase in the general price level of goods and services over time, leading to a decrease in the purchasing power of a currency."
+                },
+                {
+                    "question": "In psychology, what is the term for a type of learning that occurs through rewards and punishments?",
+                    "answer": 1,
+                    "choices": {
+                    "1": "Operant conditioning",
+                    "2": "Classical conditioning",
+                    "3": "Observational learning",
+                    "4": "Cognitive learning"
+                    },
+                    "explanation": "Operant conditioning is a type of learning in psychology that occurs through rewards and punishments, where behavior is strengthened or weakened based on its consequences."
+                }
+            ]
+        },
+        {
+            "types-of-phrases": [
+                {
+                    "question": "She danced gracefully, capturing the audience's attention. Identify which type of phrase is used in the sentence.",
+                    "choices": {
+                    "1": "Adverb Phrase",
+                    "2": "Noun Phrase",
+                    "3": "Prepositional Phrase"
+                    },
+                    "answer": 1,
+                    "explanation": "In this sentence, the phrase 'gracefully' is an adverb that modifies the verb 'danced,' and the additional phrase 'capturing the audience's attention' functions as an adverbial phrase, providing more information about the dance."
+                },
+                {
+                    "question": "The mysterious old house at the end of the street is rumored to be haunted. What type of phrase is 'mysterious old'?",
+                    "choices": {
+                    "1": "Adjective Phrase",
+                    "2": "Verb Phrase",
+                    "3": "Infinitive Phrase"
+                    },
+                    "answer": 1,
+                    "explanation": "'Mysterious old' is an adjective phrase describing the noun 'house,' providing details about its age and nature."
+                },
+                {
+                    "question": "What type of phrase is 'to travel the world' in the sentence 'To travel the world is her ultimate dream.'?",
+                    "choices": {
+                    "1": "Adverb Phrase",
+                    "2": "Infinitive Phrase",
+                    "3": "Participial Phrase"
+                    },
+                    "answer": 2,
+                    "explanation": "'To travel the world' is an infinitive phrase, serving as the main verb expressing the action and purpose in the sentence."
+                },
+                {
+                    "question": "She sang beautifully, captivating everyone in the room. Identify which type of phrase is used in the sentence.",
+                    "choices": {
+                    "1": "Adverb Phrase",
+                    "2": "Noun Phrase",
+                    "3": "Participial Phrase"
+                    },
+                    "answer": 1,
+                    "explanation": "In this sentence, the phrase 'beautifully' is an adverb modifying the verb 'sang,' and the additional phrase 'captivating everyone in the room' acts as an adverbial phrase, providing more information about her singing."
+                },
+                {
+                    "question": "The enthusiastic crowd cheered for their favorite team. What type of phrase is 'for their favorite team'?",
+                    "choices": {
+                    "1": "Prepositional Phrase",
+                    "2": "Verb Phrase",
+                    "3": "Absolute Phrase"
+                    },
+                    "answer": 1,
+                    "explanation": "'For their favorite team' is a prepositional phrase, beginning with the preposition 'for' and providing information about the reason for the crowd's cheers."
+                },
+                {
+                    "question": "Eating ice cream on a hot day always brings joy. What type of phrase is 'on a hot day'?",
+                    "choices": {
+                    "1": "Adjective Phrase",
+                    "2": "Gerund Phrase",
+                    "3": "Infinitive Phrase"
+                    },
+                    "answer": 1,
+                    "explanation": "'On a hot day' is an adjective phrase describing the gerund 'eating,' offering more details about the conditions under which eating ice cream brings joy."
+                },
+                {
+                    "question": "The marathon runners, exhausted and drenched in sweat, crossed the finish line. Identify the type of phrase 'exhausted and drenched in sweat.'",
+                    "choices": {
+                    "1": "Participial Phrase",
+                    "2": "Adverb Phrase",
+                    "3": "Appositive Phrase"
+                    },
+                    "answer": 1,
+                    "explanation": "'Exhausted and drenched in sweat' is a participial phrase, containing the participles 'exhausted' and 'drenched,' and providing additional information about the marathon runners."
+                }
+            ]
+        },
+        {
+            "verbal-reasoning": [
+                {
+                    "question": "Tom is twice as old as Jerry. If Jerry is 10 years old, how old is Tom?",
+                    "answer": 20,
+                    "explanation": "If Jerry is 10 years old, Tom, who is twice as old, would be 20 years old."
+                },
+                {
+                    "question": "Alice is three years older than Bob. Bob is half the age of Carol. If Carol is 18 years old, how old is Alice?",
+                    "answer": 24,
+                    "explanation": "If Carol is 18 years old, Bob would be half her age, which is 9. Alice is three years older than Bob, so she is 3 + 9 = 12 years older than Carol, making her 18 + 12 = 24 years old."
+                },
+                {
+                    "question": "Samuel is 5 years older than Emily, who is 3 years younger than Jacob. If Jacob is 20 years old, how old is Samuel?",
+                    "answer": 22,
+                    "explanation": "If Jacob is 20 years old, Emily would be 20 - 3 = 17 years old. Samuel is 5 years older than Emily, making him 17 + 5 = 22 years old."
+                },
+                {
+                    "question": "Liam is 8 years older than Mia, but 4 years younger than Ethan. If Mia is 16 years old, how old is Ethan?",
+                    "answer": 28,
+                    "explanation": "If Mia is 16 years old, Liam would be 16 + 8 = 24 years old. Since Liam is 4 years younger than Ethan, Ethan would be 24 + 4 = 28 years old."
+                },
+                {
+                    "question": "Sophie is half the age of Olivia. If Olivia is 30 years old, how old is Sophie?",
+                    "answer": 15,
+                    "explanation": "If Olivia is 30 years old, Sophie, who is half Olivia's age, would be 30 / 2 = 15 years old."
+                },
+                {
+                    "question": "Ava is 4 years younger than Benjamin, who is 10 years older than Chloe. If Chloe is 25 years old, how old is Ava?",
+                    "answer": 31,
+                    "explanation": "If Chloe is 25 years old, Benjamin would be 25 + 10 = 35 years old. Ava is 4 years younger than Benjamin, so she would be 35 - 4 = 31 years old."
+                },
+                {
+                    "question": "Lucas is 7 years older than Lily. If Lily is 14 years old, how old is Lucas?",
+                    "answer": 21,
+                    "explanation": "If Lily is 14 years old, Lucas, who is 7 years older, would be 14 + 7 = 21 years old."
+                },
+                {
+                    "question": "Noah is 3 years younger than Emma, who is twice the age of Ethan. If Ethan is 12 years old, how old is Noah?",
+                    "answer": 21,
+                    "explanation": "If Ethan is 12 years old, Emma, who is twice his age, would be 12 * 2 = 24 years old. Noah is 3 years younger than Emma, making him 24 - 3 = 21 years old."
+                },
+                {
+                    "question": "Grace is 6 years older than Ava, but 4 years younger than Logan. If Ava is 18 years old, how old is Grace?",
+                    "answer": 28,
+                    "explanation": "If Ava is 18 years old, Grace would be 18 + 6 = 24 years old. Logan is 4 years older than Grace, so he would be 24 + 4 = 28 years old."
+                },
+                {
+                    "question": "Ella is 9 years younger than Samuel, who is 5 years older than Mia. If Mia is 20 years old, how old is Ella?",
+                    "answer": 26,
+                    "explanation": "If Mia is 20 years old, Samuel would be 20 + 5 = 25 years old. Ella is 9 years younger than Samuel, so she would be 25 - 9 = 16 years old. However, this is a mistake. Let's recalculate. Mia is 20 years old, so Samuel is 20 + 5 = 25 years old. Ella is 9 years younger than Samuel, making her 25 - 9 = 16 years old."
+                },
+                {
+                    "question": "Liam is 4 years older than Emma, but half the age of Noah. If Noah is 30 years old, how old is Liam?",
+                    "answer": 15,
+                    "explanation": "If Noah is 30 years old, Liam, who is half Noah's age, would be 30 / 2 = 15 years old."
+                },
+                {
+                    "question": "Sophia is 7 years younger than Jacob, who is 4 years older than Ava. If Ava is 22 years old, how old is Sophia?",
+                    "answer": 15,
+                    "explanation": "If Ava is 22 years old, Jacob would be 22 + 4 = 26 years old. Sophia is 7 years younger than Jacob, so she would be 26 - 7 = 19 years old. However, this is a mistake. Let's recalculate. Ava is 22 years old, so Jacob is 22 + 4 = 26 years old. Sophia is 7 years younger than Jacob, making her 26 - 7 = 19 years old."
+                },
+                {
+                    "question": "Oliver is 10 years older than Mia, who is half the age of Ethan. If Ethan is 40 years old, how old is Oliver?",
+                    "answer": 30,
+                    "explanation": "If Ethan is 40 years old, Mia, who is half Ethan's age, would be 40 / 2 = 20 years old. Oliver is 10 years older than Mia, so he would be 20 + 10 = 30 years old."
+                },
+                {
+                    "question": "Ella is 4 years older than Liam, who is 6 years older than Ava. If Ava is 16 years old, how old is Ella?",
+                    "answer": 26,
+                    "explanation": "If Ava is 16 years old, Liam would be 16 + 6 = 22 years old. Ella is 4 years older than Liam, so she would be 22 + 4 = 26 years old."
+                },
+                {
+                    "question": "Grace is 3 years younger than Mia, who is twice the age of Noah. If Noah is 18 years old, how old is Grace?",
+                    "answer": 33,
+                    "explanation": "If Noah is 18 years old, Mia, who is twice his age, would be 18 * 2 = 36 years old. Grace is 3 years younger than Mia, making her 36 - 3 = 33 years old."
+                }
+            ]
+        },
+        {
+            "verb-tenses": [
+                {
+                    "question": "We _______ a movie when Mom arrived home last night.",
+                    "answer": 1,
+                    "choices": {
+                    "1": "were watching",
+                    "2": "will watch",
+                    "3": "have watched",
+                    "4": "are watching"
+                    },
+                    "explanation": "The use of 'last night' indicates that the action occurred in the past, requiring the past continuous tense. The correct answer is 'were watching.'"
+                },
+                {
+                    "question": "She _______ a new song every week.",
+                    "answer": 3,
+                    "choices": {
+                    "1": "is singing",
+                    "2": "sang",
+                    "3": "has sung",
+                    "4": "will sing"
+                    },
+                    "explanation": "The ongoing action of singing a new song every week suggests a habitual action. The correct answer is 'has sung,' indicating a present perfect tense."
+                },
+                {
+                    "question": "I think they _______ the game by the time we get there.",
+                    "answer": 4,
+                    "choices": {
+                    "1": "will finish",
+                    "2": "finish",
+                    "3": "have finished",
+                    "4": "will have finished"
+                    },
+                    "explanation": "The phrase 'by the time we get there' implies a future completion before another future event, requiring the future perfect tense. The correct answer is 'will have finished.'"
+                },
+                {
+                    "question": "My grandparents _______ married for 50 years.",
+                    "answer": 3,
+                    "choices": {
+                    "1": "were",
+                    "2": "are",
+                    "3": "have been",
+                    "4": "will be"
+                    },
+                    "explanation": "The duration of 50 years indicates an action that started in the past and continues into the present. The correct answer is 'have been.'"
+                },
+                {
+                    "question": "They usually _______ to the beach in the summer.",
+                    "answer": 2,
+                    "choices": {
+                    "1": "are going",
+                    "2": "go",
+                    "3": "will go",
+                    "4": "have gone"
+                    },
+                    "explanation": "The adverb 'usually' suggests a habitual action in the present. The correct answer is 'go.'"
+                },
+                {
+                    "question": "She _______ her homework when the power went out.",
+                    "answer": 1,
+                    "choices": {
+                    "1": "was doing",
+                    "2": "does",
+                    "3": "had done",
+                    "4": "will do"
+                    },
+                    "explanation": "The past continuous tense is suitable for describing an action in progress at a specific time in the past. The correct answer is 'was doing.'"
+                },
+                {
+                    "question": "By this time tomorrow, they _______ their journey.",
+                    "answer": 3,
+                    "choices": {
+                    "1": "will start",
+                    "2": "start",
+                    "3": "will have started",
+                    "4": "started"
+                    },
+                    "explanation": "The phrase 'By this time tomorrow' indicates a future completion before a specific future time, requiring the future perfect tense. The correct answer is 'will have started.'"
+                },
+                {
+                    "question": "I _______ this book already, so you can borrow it.",
+                    "answer": 4,
+                    "choices": {
+                    "1": "am reading",
+                    "2": "read",
+                    "3": "will read",
+                    "4": "have read"
+                    },
+                    "explanation": "The action of having read the book is completed before the present moment. The correct answer is 'have read,' indicating a present perfect tense."
+                },
+                {
+                    "question": "They _______ the city before they move to the countryside.",
+                    "answer": 2,
+                    "choices": {
+                    "1": "will explore",
+                    "2": "have explored",
+                    "3": "are exploring",
+                    "4": "explore"
+                    },
+                    "explanation": "The use of 'before they move' indicates a completed action before another future action, requiring the future perfect tense. The correct answer is 'have explored.'"
+                },
+                {
+                    "question": "Next week, I _______ my driving test.",
+                    "answer": 3,
+                    "choices": {
+                    "1": "will take",
+                    "2": "take",
+                    "3": "will have taken",
+                    "4": "took"
+                    },
+                    "explanation": "The future perfect tense is used to indicate the completion of an action before a specific time in the future. The correct answer is 'will have taken.'"
+                },
+                {
+                    "question": "She _______ a cake for the party yesterday.",
+                    "answer": 4,
+                    "choices": {
+                    "1": "bakes",
+                    "2": "will bake",
+                    "3": "is baking",
+                    "4": "baked"
+                    },
+                    "explanation": "The indication of 'yesterday' makes it clear that the action occurred in the past. The correct answer is 'baked,' which is the simple past tense."
+                },
+                {
+                    "question": "We _______ this city many times before deciding to move here.",
+                    "answer": 3,
+                    "choices": {
+                    "1": "visit",
+                    "2": "are visiting",
+                    "3": "had visited",
+                    "4": "will visit"
+                    },
+                    "explanation": "The use of 'before deciding to move here' indicates a completed action before another past action, requiring the past perfect tense. The correct answer is 'had visited.'"
+                },
+                {
+                    "question": "She _______ in Paris for two years before coming to New York.",
+                    "answer": 1,
+                    "choices": {
+                    "1": "lived",
+                    "2": "will live",
+                    "3": "is living",
+                    "4": "lives"
+                    },
+                    "explanation": "The duration of 'for two years' indicates an action that occurred in the past and continued for a specific period. The correct answer is 'lived,' which is the simple past tense."
+                },
+                {
+                    "question": "They _______ on this project since the beginning of the year.",
+                    "answer": 3,
+                    "choices": {
+                    "1": "are working",
+                    "2": "work",
+                    "3": "have been working",
+                    "4": "will work"
+                    },
+                    "explanation": "The continuous action 'since the beginning of the year' suggests an ongoing action from the past into the present. The correct answer is 'have been working,' indicating a present perfect continuous tense."
+                },
+                {
+                    "question": "Next month, they _______ their anniversary.",
+                    "answer": 4,
+                    "choices": {
+                    "1": "celebrate",
+                    "2": "will celebrate",
+                    "3": "are celebrating",
+                    "4": "will have celebrated"
+                    },
+                    "explanation": "The indication of 'Next month' suggests a future completion before a specific future time, requiring the future perfect tense. The correct answer is 'will have celebrated.'"
+                },
+                {
+                    "question": "I _______ the news when he called me.",
+                    "answer": 1,
+                    "choices": {
+                    "1": "was reading",
+                    "2": "read",
+                    "3": "have read",
+                    "4": "will read"
+                    },
+                    "explanation": "The past continuous tense is suitable for describing an action in progress at a specific time in the past. The correct answer is 'was reading.'"
+                },
+                {
+                    "question": "By the end of the month, we _______ all the requirements.",
+                    "answer": 3,
+                    "choices": {
+                    "1": "meet",
+                    "2": "will meet",
+                    "3": "will have met",
+                    "4": "met"
+                    },
+                    "explanation": "The phrase 'By the end of the month' indicates a future completion before a specific future time, requiring the future perfect tense. The correct answer is 'will have met.'"
+                },
+                {
+                    "question": "They _______ at this company since 2010.",
+                    "answer": 3,
+                    "choices": {
+                    "1": "work",
+                    "2": "are working",
+                    "3": "have worked",
+                    "4": "will work"
+                    },
+                    "explanation": "The duration of 'since 2010' indicates an action that started in the past and continues into the present. The correct answer is 'have worked.'"
+                }
+            ]
+        },
+        {
+            "word-forms": [
+                {
+                    "question": "The children ___________ loudly during the birthday party.",
+                    "answer": 2,
+                    "choices": {
+                    "1": "cries",
+                    "2": "laughed",
+                    "3": "cry",
+                    "4": "laughing"
+                    },
+                    "explanation": "In this context, we need the past tense to describe an action that occurred in the past. The correct answer is 'laughed.'"
+                },
+                {
+                    "question": "The flowers in the garden ___________ a beautiful fragrance.",
+                    "answer": 4,
+                    "choices": {
+                    "1": "smells",
+                    "2": "smell",
+                    "3": "smelling",
+                    "4": "smelled"
+                    },
+                    "explanation": "We need the past tense to describe the action of emitting fragrance. The correct answer is 'smelled.'"
+                },
+                {
+                    "question": "My dog enjoys ___________ in the backyard every morning.",
+                    "answer": 3,
+                    "choices": {
+                    "1": "run",
+                    "2": "running",
+                    "3": "running",
+                    "4": "ran"
+                    },
+                    "explanation": "The correct answer is 'running' as it represents the gerund form, indicating an ongoing, habitual action."
+                },
+                {
+                    "question": "He ___________ to the gym three times a week.",
+                    "answer": 1,
+                    "choices": {
+                    "1": "goes",
+                    "2": "going",
+                    "3": "went",
+                    "4": "gone"
+                    },
+                    "explanation": "The correct answer is 'goes' as it represents the present simple tense, suitable for a habitual action in the present."
+                },
+                {
+                    "question": "The baby has been ___________ for hours; it's time for a nap.",
+                    "answer": 2,
+                    "choices": {
+                    "1": "cry",
+                    "2": "crying",
+                    "3": "cries",
+                    "4": "cried"
+                    },
+                    "explanation": "In this context, the present perfect continuous tense is appropriate. The correct answer is 'crying.'"
+                },
+                {
+                    "question": "She ___________ the news with great excitement.",
+                    "answer": 4,
+                    "choices": {
+                    "1": "hear",
+                    "2": "hearing",
+                    "3": "heard",
+                    "4": "hears"
+                    },
+                    "explanation": "We need the past tense to describe the action of receiving the news. The correct answer is 'heard.'"
+                },
+                {
+                    "question": "The students are ___________ for the upcoming exams.",
+                    "answer": 3,
+                    "choices": {
+                    "1": "study",
+                    "2": "studying",
+                    "3": "studied",
+                    "4": "studies"
+                    },
+                    "explanation": "In this context, the present simple tense is appropriate to describe a current state of preparation. The correct answer is 'studying.'"
+                },
+                {
+                    "question": "The sun ___________ in the east every morning.",
+                    "answer": 2,
+                    "choices": {
+                    "1": "raise",
+                    "2": "rises",
+                    "3": "rising",
+                    "4": "rose"
+                    },
+                    "explanation": "We need the present simple tense to describe a habitual action. The correct answer is 'rises.'"
+                },
+                {
+                    "question": "The scientist is ___________ an experiment in the laboratory.",
+                    "answer": 1,
+                    "choices": {
+                    "1": "conducting",
+                    "2": "conducted",
+                    "3": "conduct",
+                    "4": "conducts"
+                    },
+                    "explanation": "The correct answer is 'conducting' as it represents the present participle, indicating an ongoing action in the present."
+                },
+                {
+                    "question": "The kids ___________ their toys before bedtime.",
+                    "answer": 4,
+                    "choices": {
+                    "1": "arrange",
+                    "2": "arranging",
+                    "3": "arranges",
+                    "4": "arranged"
+                    },
+                    "explanation": "In this context, the past tense is appropriate to describe an action completed before bedtime. The correct answer is 'arranged.'"
+                },
+                {
+                    "question": "The concert ___________ at 7:00 PM sharp.",
+                    "answer": 3,
+                    "choices": {
+                    "1": "starts",
+                    "2": "started",
+                    "3": "start",
+                    "4": "starting"
+                    },
+                    "explanation": "We need the present simple tense to indicate a scheduled event. The correct answer is 'starts.'"
+                },
+                {
+                    "question": "The coffee ___________ amazing; where did you get it?",
+                    "answer": 2,
+                    "choices": {
+                    "1": "taste",
+                    "2": "tastes",
+                    "3": "tasting",
+                    "4": "tasted"
+                    },
+                    "explanation": "The present simple tense is suitable for expressing general truths or facts. The correct answer is 'tastes.'"
+                },
+                {
+                    "question": "I enjoy ___________ to classical music while I work.",
+                    "answer": 1,
+                    "choices": {
+                    "1": "listening",
+                    "2": "listens",
+                    "3": "listened",
+                    "4": "listen"
+                    },
+                    "explanation": "The correct answer is 'listening' as it represents the gerund form, indicating an ongoing, enjoyable activity."
+                },
+                {
+                    "question": "The company ___________ a new product next month.",
+                    "answer": 4,
+                    "choices": {
+                    "1": "launch",
+                    "2": "launched",
+                    "3": "launches",
+                    "4": "will launch"
+                    },
+                    "explanation": "The future tense is appropriate to indicate a planned action. The correct answer is 'will launch.'"
+                },
+                {
+                    "question": "She ___________ the novel in just one sitting.",
+                    "answer": 3,
+                    "choices": {
+                    "1": "reads",
+                    "2": "read",
+                    "3": "read",
+                    "4": "reading"
+                    },
+                    "explanation": "The past tense is suitable to describe a completed action. The correct answer is 'read.'"
+                },
+                {
+                    "question": "The chef ___________ a delicious meal for the guests last night.",
+                    "answer": 3,
+                    "choices": {
+                    "1": "cooks",
+                    "2": "cooking",
+                    "3": "cooked",
+                    "4": "cook"
+                    },
+                    "explanation": "In this sentence, we need the past tense to describe an action completed in the past. Therefore, the correct answer is 'cooked.'"
+                },
+                {
+                    "question": "She enjoys __________ books in her free time.",
+                    "answer": 2,
+                    "choices": {
+                    "1": "reads",
+                    "2": "reading",
+                    "3": "read",
+                    "4": "to read"
+                    },
+                    "explanation": "The correct answer is 'reading' as it represents the gerund form, indicating an ongoing, habitual action."
+                },
+                {
+                    "question": "The cat ___________ lazily in the sun for hours.",
+                    "answer": 4,
+                    "choices": {
+                    "1": "run",
+                    "2": "running",
+                    "3": "ran",
+                    "4": "runs"
+                    },
+                    "explanation": "In this context, we need the present simple tense to describe a habitual action. The correct answer is 'runs.'"
+                },
+                {
+                    "question": "My sister and I ___________ to the market every Sunday morning.",
+                    "answer": 1,
+                    "choices": {
+                    "1": "go",
+                    "2": "going",
+                    "3": "went",
+                    "4": "gone"
+                    },
+                    "explanation": "The correct answer is 'go' as it represents the base form of the verb, suitable for a habitual action in the present."
+                }
+            ]
+        },
+        {
+            "word-usage": [
+                {
+                    "question": "The athlete was ________ after winning the marathon.",
+                    "answer":  4,
+                    "choices": {
+                    "1": "exhausted",
+                    "2": "disappointed",
+                    "3": "baffled",
+                    "4": "elated"
+                    },
+                    "explanation": "The word 'elated' best describes the athlete's emotional state after winning the marathon, indicating a feeling of joy or happiness."
+                },
+                {
+                    "question": "His behavior was utterly ________ during the important presentation.",
+                    "answer":  2,
+                    "choices": {
+                    "1": "boisterous",
+                    "2": "unacceptable",
+                    "3": "acceptable",
+                    "4": "charming"
+                    },
+                    "explanation": "'Unacceptable' is the appropriate word here, suggesting that his behavior was not suitable or appropriate for the situation."
+                },
+                {
+                    "question": "The new employee was ________ to learn the company's procedures.",
+                    "answer":  1,
+                    "choices": {
+                    "1": "eager",
+                    "2": "indifferent",
+                    "3": "apathetic",
+                    "4": "reluctant"
+                    },
+                    "explanation": "'Eager' reflects a positive attitude of enthusiasm or willingness, contrasting with the negative connotations of the other options."
+                },
+                {
+                    "question": "She expressed ________ for the support she received during tough times.",
+                    "answer":  3,
+                    "choices": {
+                    "1": "regret",
+                    "2": "disdain",
+                    "3": "gratitude",
+                    "4": "resentment"
+                    },
+                    "explanation": "'Gratitude' signifies a feeling of thankfulness, while the other options convey different emotions."
+                },
+                {
+                    "question": "The students were ________ by the teacher's unexpected kindness.",
+                    "answer":  4,
+                    "choices": {
+                    "1": "confused",
+                    "2": "embarrassed",
+                    "3": "discouraged",
+                    "4": "touched"
+                    },
+                    "explanation": "'Touched' indicates that the students were emotionally moved or affected in a positive manner."
+                },
+                {
+                    "question": "The magician's performance left the audience completely ________.",
+                    "answer":  1,
+                    "choices": {
+                    "1": "spellbound",
+                    "2": "bored",
+                    "3": "confident",
+                    "4": "satisfied"
+                    },
+                    "explanation": "'Spellbound' indicates the audience was captivated or mesmerized by the magician's performance."
+                },
+                {
+                    "question": "The hiker felt ________ when he reached the mountain's summit.",
+                    "answer":  3,
+                    "choices": {
+                    "1": "isolated",
+                    "2": "confident",
+                    "3": "accomplished",
+                    "4": "disappointed"
+                    },
+                    "explanation": "'Accomplished' reflects a sense of achievement or fulfillment, contrasting with the other options."
+                },
+                {
+                    "question": "Her contagious laughter made everyone ________.",
+                    "answer":  4,
+                    "choices": {
+                    "1": "skeptical",
+                    "2": "indifferent",
+                    "3": "aggressive",
+                    "4": "chuckle"
+                    },
+                    "explanation": "'Chuckle' means to laugh softly or to oneself, fitting the context of the sentence."
+                },
+                {
+                    "question": "The artist's masterpiece was ________ by art enthusiasts worldwide.",
+                    "answer":  2,
+                    "choices": {
+                    "1": "ignored",
+                    "2": "admired",
+                    "3": "detested",
+                    "4": "disturbed"
+                    },
+                    "explanation": "'Admired' suggests that the masterpiece received positive appreciation, unlike the negative connotations of the other options."
+                },
+                {
+                    "question": "He was ________ by the complexity of the scientific experiment.",
+                    "answer":  1,
+                    "choices": {
+                    "1": "bewildered",
+                    "2": "confident",
+                    "3": "composed",
+                    "4": "amused"
+                    },
+                    "explanation": "'Bewildered' expresses a state of confusion or puzzlement, contrasting with the other options."
+                },
+                {
+                    "question": "The baby's first steps filled the parents with ________.",
+                    "answer":  3,
+                    "choices": {
+                    "1": "sorrow",
+                    "2": "anger",
+                    "3": "pride",
+                    "4": "resentment"
+                    },
+                    "explanation": "'Pride' indicates a feeling of pleasure or satisfaction in one's achievements or the achievements of loved ones."
+                },
+                {
+                    "question": "His infectious enthusiasm was ________ among his friends.",
+                    "answer":  4,
+                    "choices": {
+                    "1": "ignored",
+                    "2": "disliked",
+                    "3": "feared",
+                    "4": "contagious"
+                    },
+                    "explanation": "'Contagious' here means spreading from person to person, especially with positive emotions or behaviors."
+                },
+                {
+                    "question": "The unexpected gift left her feeling ________.",
+                    "answer":  2,
+                    "choices": {
+                    "1": "relieved",
+                    "2": "touched",
+                    "3": "frustrated",
+                    "4": "disgusted"
+                    },
+                    "explanation": "'Touched' indicates a positive emotional response to the unexpected gift, unlike the other options."
+                },
+                {
+                    "question": "The teacher's strict demeanor made the students feel ________.",
+                    "answer":  1,
+                    "choices": {
+                    "1": "intimidated",
+                    "2": "complacent",
+                    "3": "confident",
+                    "4": "comfortable"
+                    },
+                    "explanation": "'Intimidated' means feeling frightened or discouraged by someone's authority or sternness."
+                },
+                {
+                    "question": "The thrilling movie kept the audience ________ till the end.",
+                    "answer":  3,
+                    "choices": {
+                    "1": "disinterested",
+                    "2": "disgusted",
+                    "3": "engaged",
+                    "4": "reluctant"
+                    },
+                    "explanation": "'Engaged' means captivated or involved, contrary to the disinterest or disgust implied by the other options."
+                }
+            ]
         }
     ]
-}  
+}
