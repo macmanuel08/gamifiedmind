@@ -170,23 +170,23 @@
               },
               {
                 "question": "They live in ___ apartment on the 15th floor.",
-                "answer": 1,
+                "answer": 2,
                 "choices": {
                   "1": "a",
                   "2": "an",
                   "3": "the"
                 },
-                "explanation": "Use 'a' before words that begin with a consonant sound. In this case, 'apartment' starts with a vowel sound, but the emphasis is on the 'a' sound."
+                "explanation": "Use 'an' before words that begin with a vowel. In this case, 'apartment' starts with a vowel sound"
               },
               {
                 "question": "She bought ___ expensive necklace for her birthday.",
-                "answer": 1,
+                "answer": 2,
                 "choices": {
                   "1": "a",
                   "2": "an",
                   "3": "the"
                 },
-                "explanation": "Use 'a' before words that begin with a consonant sound. In this case, 'expensive' starts with a vowel sound, but the emphasis is on the 'e' sound."
+                "explanation": "'Expensive' starts with a vowel."
               },
               {
                 "question": "I'd like to visit ___ Eiffel Tower someday.",
@@ -210,13 +210,13 @@
               },
               {
                 "question": "They saw ___ amazing performance at the theater last night.",
-                "answer": 1,
+                "answer": 2,
                 "choices": {
                   "1": "a",
                   "2": "an",
                   "3": "the"
                 },
-                "explanation": "Use 'a' before words that begin with a consonant sound. In this case, 'amazing' starts with a vowel sound, but the emphasis is on the 'a' sound."
+                "explanation": "We use 'an' before the words that start in a vowel."
               },
               {
                 "question": "___ sunsets in Hawaii are breathtaking.",
@@ -242,109 +242,111 @@
         },
         {
             "clauses1": [
-                    {
-                    "question": "After the storm, they found their lost dog.",
-                    "choices": {
-                        "1": "Adverbial Clause",
-                        "2": "Adjectival Clause",
-                        "3": "Noun Clause"
-                    },
-                    "answer": 1,
-                    "explanation": "The correct choice identifies the clause as an adverbial clause, as it answers the question 'when.'"
-                    },
-                    {
-                    "question": "The person who called you is waiting outside.",
-                    "choices": {
-                        "1": "Adverbial Clause",
-                        "2": "Adjectival Clause",
-                        "3": "Noun Clause"
-                    },
-                    "answer": 2,
-                    "explanation": "The correct choice recognizes the clause as an adjectival clause (relative clause), as it describes the noun 'person.'"
-                    },
-                    {
-                    "question": "What you said surprised me.",
-                    "choices": {
-                        "1": "Adverbial Clause",
-                        "2": "Adjectival Clause",
-                        "3": "Noun Clause"
-                    },
-                    "answer": 3,
-                    "explanation": "The correct choice identifies the clause as a noun clause, as it acts as the object of the verb 'surprised.'"
-                    },
-                    {
-                    "question": "Because it was late, they decided to postpone the meeting.",
-                    "choices": {
-                        "1": "Adverbial Clause",
-                        "2": "Adjectival Clause",
-                        "3": "Noun Clause"
-                    },
-                    "answer": 1,
-                    "explanation": "The correct choice recognizes the clause as an adverbial clause, answering the question 'why.'"
-                    },
-                    {
-                    "question": "The book is so interesting that I couldn't put it down.",
-                    "choices": {
-                        "1": "Adverbial Clause",
-                        "2": "Adjectival Clause",
-                        "3": "Noun Clause"
-                    },
-                    "answer": 2,
-                    "explanation": "The correct choice identifies the clause as an adjectival clause (relative clause), as it describes the noun 'book.'"
-                    }
-                ],
-                "cluses2": [
-                    {
-                    "question": "She likes dancing, she dislikes singing.",
-                    "choices": {
-                        "1": "She likes dancing, but she dislikes singing.",
-                        "2": "She likes dancing and she dislikes singing.",
-                        "3": "She likes dancing, she dislikes singing."
-                    },
-                    "answer": 1,
-                    "explanation": "The correct choice uses the coordinating conjunction 'but' to join the two independent clauses, creating a balanced sentence."
-                    },
-                    {
-                    "question": "After he finished his homework, he played video games.",
-                    "choices": {
-                        "1": "After he finished his homework and he played video games.",
-                        "2": "After he finished his homework, he played video games.",
-                        "3": "After he finished his homework; he played video games."
-                    },
-                    "answer": 2,
-                    "explanation": "The correct choice uses a comma to appropriately join the dependent adverbial clause to the independent clause."
-                    },
-                    {
-                    "question": "She enjoys hiking, she doesn't like camping.",
-                    "choices": {
-                        "1": "She enjoys hiking, but she doesn't like camping.",
-                        "2": "She enjoys hiking and she doesn't like camping.",
-                        "3": "She enjoys hiking, she doesn't like camping."
-                    },
-                    "answer": 1,
-                    "explanation": "The correct choice uses the coordinating conjunction 'but' to connect the two independent clauses, enhancing the sentence's coherence."
-                    },
-                    {
-                    "question": "The cat is cute, it often sleeps on the windowsill.",
-                    "choices": {
-                        "1": "The cat is cute, and it often sleeps on the windowsill.",
-                        "2": "The cat is cute and it often sleeps on the windowsill.",
-                        "3": "The cat is cute it often sleeps on the windowsill."
-                    },
-                    "answer": 1,
-                    "explanation": "The correct choice uses the coordinating conjunction 'and' to appropriately join the two independent clauses."
-                    },
-                    {
-                    "question": "Since it was raining, we stayed indoors.",
-                    "choices": {
-                        "1": "Since it was raining and we stayed indoors.",
-                        "2": "Since it was raining, we stayed indoors.",
-                        "3": "Since it was raining; we stayed indoors."
-                    },
-                    "answer": 2,
-                    "explanation": "The correct choice uses a comma to correctly connect the dependent adverbial clause to the independent clause."
-                    }
-                ]
+                {
+                "question": "After the storm, they found their lost dog.",
+                "choices": {
+                    "1": "Adverbial Clause",
+                    "2": "Adjectival Clause",
+                    "3": "Noun Clause"
+                },
+                "answer": 1,
+                "explanation": "The correct choice identifies the clause as an adverbial clause, as it answers the question 'when.'"
+                },
+                {
+                "question": "The person who called you is waiting outside.",
+                "choices": {
+                    "1": "Adverbial Clause",
+                    "2": "Adjectival Clause",
+                    "3": "Noun Clause"
+                },
+                "answer": 2,
+                "explanation": "The correct choice recognizes the clause as an adjectival clause (relative clause), as it describes the noun 'person.'"
+                },
+                {
+                "question": "What you said surprised me.",
+                "choices": {
+                    "1": "Adverbial Clause",
+                    "2": "Adjectival Clause",
+                    "3": "Noun Clause"
+                },
+                "answer": 3,
+                "explanation": "The correct choice identifies the clause as a noun clause, as it acts as the object of the verb 'surprised.'"
+                },
+                {
+                "question": "Because it was late, they decided to postpone the meeting.",
+                "choices": {
+                    "1": "Adverbial Clause",
+                    "2": "Adjectival Clause",
+                    "3": "Noun Clause"
+                },
+                "answer": 1,
+                "explanation": "The correct choice recognizes the clause as an adverbial clause, answering the question 'why.'"
+                },
+                {
+                "question": "The book is so interesting that I couldn't put it down.",
+                "choices": {
+                    "1": "Adverbial Clause",
+                    "2": "Adjectival Clause",
+                    "3": "Noun Clause"
+                },
+                "answer": 2,
+                "explanation": "The correct choice identifies the clause as an adjectival clause (relative clause), as it describes the noun 'book.'"
+                }
+            ]
+        },
+        {
+            "clauses2": [
+                {
+                "question": "She likes dancing, she dislikes singing.",
+                "choices": {
+                    "1": "She likes dancing, but she dislikes singing.",
+                    "2": "She likes dancing and she dislikes singing.",
+                    "3": "She likes dancing, she dislikes singing."
+                },
+                "answer": 1,
+                "explanation": "The correct choice uses the coordinating conjunction 'but' to join the two independent clauses, creating a balanced sentence."
+                },
+                {
+                "question": "After he finished his homework, he played video games.",
+                "choices": {
+                    "1": "After he finished his homework and he played video games.",
+                    "2": "After he finished his homework, he played video games.",
+                    "3": "After he finished his homework; he played video games."
+                },
+                "answer": 2,
+                "explanation": "The correct choice uses a comma to appropriately join the dependent adverbial clause to the independent clause."
+                },
+                {
+                "question": "She enjoys hiking, she doesn't like camping.",
+                "choices": {
+                    "1": "She enjoys hiking, but she doesn't like camping.",
+                    "2": "She enjoys hiking and she doesn't like camping.",
+                    "3": "She enjoys hiking, she doesn't like camping."
+                },
+                "answer": 1,
+                "explanation": "The correct choice uses the coordinating conjunction 'but' to connect the two independent clauses, enhancing the sentence's coherence."
+                },
+                {
+                "question": "The cat is cute, it often sleeps on the windowsill.",
+                "choices": {
+                    "1": "The cat is cute, and it often sleeps on the windowsill.",
+                    "2": "The cat is cute and it often sleeps on the windowsill.",
+                    "3": "The cat is cute it often sleeps on the windowsill."
+                },
+                "answer": 1,
+                "explanation": "The correct choice uses the coordinating conjunction 'and' to appropriately join the two independent clauses."
+                },
+                {
+                "question": "Since it was raining, we stayed indoors.",
+                "choices": {
+                    "1": "Since it was raining and we stayed indoors.",
+                    "2": "Since it was raining, we stayed indoors.",
+                    "3": "Since it was raining; we stayed indoors."
+                },
+                "answer": 2,
+                "explanation": "The correct choice uses a comma to correctly connect the dependent adverbial clause to the independent clause."
+                }
+            ]
         },
         {
             "common-grammar-mistakes": [
@@ -635,37 +637,180 @@
         {
             "compound-sentences": [
                 {
-                "question": "She enjoys playing the piano. Identify the coordinating conjunction.",
-                "choices": {
-                    "1": "She",
-                    "2": "Playing",
-                    "3": "Enjoys",
-                    "4": "and"
-                },
-                "answer": "4",
-                "explanation": "In the sentence 'She enjoys playing the piano,' the coordinating conjunction is 'and' because it connects the two independent clauses 'She enjoys playing' and 'the piano.'"
-                },
-                {
-                "question": "He worked hard, yet he didn't succeed. Identify the coordinating conjunction.",
-                "choices": {
-                    "1": "He worked hard",
-                    "2": "Yet",
-                    "3": "He didn't succeed",
-                    "4": "Hard, yet"
-                },
-                "answer": "2",
-                "explanation": "In the sentence 'He worked hard, yet he didn't succeed,' the coordinating conjunction is 'yet' because it connects the two independent clauses 'He worked hard' and 'he didn't succeed.'"
+                    "question": "She enjoys playing the piano. Identify the coordinating conjunction.",
+                    "choices": {
+                        "1": "She",
+                        "2": "Playing",
+                        "3": "Enjoys",
+                        "4": "and"
+                    },
+                    "answer": "4",
+                    "explanation": "In the sentence 'She enjoys playing the piano,' the coordinating conjunction is 'and' because it connects the two independent clauses 'She enjoys playing' and 'the piano.'"
                 },
                 {
-                "question": "They visited the museum, and they learned a lot. Identify the coordinating conjunction.",
-                "choices": {
-                    "1": "They visited the museum",
-                    "2": "And",
-                    "3": "They learned a lot",
-                    "4": "Museum, and"
+                    "question": "He worked hard, yet he didn't succeed. Identify the coordinating conjunction.",
+                    "choices": {
+                        "1": "He worked hard",
+                        "2": "Yet",
+                        "3": "He didn't succeed",
+                        "4": "Hard, yet"
+                    },
+                    "answer": "2",
+                    "explanation": "In the sentence 'He worked hard, yet he didn't succeed,' the coordinating conjunction is 'yet' because it connects the two independent clauses 'He worked hard' and 'he didn't succeed.'"
                 },
-                "answer": "2",
-                "explanation": "In the sentence 'They visited the museum, and they learned a lot,' the coordinating conjunction is 'and' because it connects the two independent clauses 'They visited the museum' and 'they learned a lot.'"
+                {
+                    "question": "They visited the museum, and they learned a lot. Identify the coordinating conjunction.",
+                    "choices": {
+                        "1": "They visited the museum",
+                        "2": "And",
+                        "3": "They learned a lot",
+                        "4": "Museum, and"
+                    },
+                    "answer": "2",
+                    "explanation": "In the sentence 'They visited the museum, and they learned a lot,' the coordinating conjunction is 'and' because it connects the two independent clauses 'They visited the museum' and 'they learned a lot.'"
+                },
+                {
+                    "question": "I wanted to go for a walk, but it was raining. Identify the coordinating conjunction.",
+                    "choices": {
+                        "1": "I wanted to go for a walk",
+                        "2": "But",
+                        "3": "It was raining",
+                        "4": "Walk, but"
+                    },
+                    "answer": "2",
+                    "explanation": "In the sentence 'I wanted to go for a walk, but it was raining,' the coordinating conjunction is 'but' because it connects the two independent clauses 'I wanted to go for a walk' and 'it was raining.'"
+                },
+                {
+                    "question": "She can join us for dinner, or she can meet us later. Identify the coordinating conjunction.",
+                    "choices": {
+                        "1": "She can join us for dinner",
+                        "2": "Or",
+                        "3": "She can meet us later",
+                        "4": "Dinner, or"
+                    },
+                    "answer": "2",
+                    "explanation": "In the sentence 'She can join us for dinner, or she can meet us later,' the coordinating conjunction is 'or' because it offers a choice between 'she can join us for dinner' and 'she can meet us later.'"
+                },
+                {
+                    "question": "He must finish his work, or he will not be allowed to go out. Identify the coordinating conjunction.",
+                    "choices": {
+                        "1": "He must finish his work",
+                        "2": "Or",
+                        "3": "He will not be allowed to go out",
+                        "4": "Work, or"
+                    },
+                    "answer": "2",
+                    "explanation": "In the sentence 'He must finish his work, or he will not be allowed to go out,' the coordinating conjunction is 'or' because it connects the two independent clauses 'He must finish his work' and 'he will not be allowed to go out,' offering a condition."
+                },
+                {
+                    "question": "We could watch a movie, or we could go out for dinner. Identify the coordinating conjunction.",
+                    "choices": {
+                        "1": "We could watch a movie",
+                        "2": "Or",
+                        "3": "We could go out for dinner",
+                        "4": "Movie, or"
+                    },
+                    "answer": "2",
+                    "explanation": "In the sentence 'We could watch a movie, or we could go out for dinner,' the coordinating conjunction is 'or' because it offers a choice between 'we could watch a movie' and 'we could go out for dinner.'"
+                },
+                {
+                    "question": "She did not complain, nor did she quit. Identify the coordinating conjunction.",
+                    "choices": {
+                        "1": "She did not complain",
+                        "2": "Nor",
+                        "3": "Did she quit",
+                        "4": "Complain, nor"
+                    },
+                    "answer": "2",
+                    "explanation": "In the sentence 'She did not complain, nor did she quit,' the coordinating conjunction is 'nor' because it connects two negative ideas 'she did not complain' and 'did she quit' without using a conjunction like 'and' or 'but.'"
+                },
+                {
+                    "question": "You can either stay here, or you can come with us. Identify the coordinating conjunction.",
+                    "choices": {
+                        "1": "You can either stay here",
+                        "2": "Or",
+                        "3": "You can come with us",
+                        "4": "Here, or"
+                    },
+                    "answer": "2",
+                    "explanation": "In the sentence 'You can either stay here, or you can come with us,' the coordinating conjunction is 'or' because it provides a choice between 'you can either stay here' and 'you can come with us.'"
+                },
+                {
+                    "question": "They neither called us, nor did they send a message. Identify the coordinating conjunction.",
+                    "choices": {
+                        "1": "They neither called us",
+                        "2": "Nor",
+                        "3": "Did they send a message",
+                        "4": "Us, nor"
+                    },
+                    "answer": "2",
+                    "explanation": "In the sentence 'They neither called us, nor did they send a message,' the coordinating conjunction is 'nor' because it connects two actions that did not happen, 'they neither called us' and 'did they send a message,' without using 'and' or 'but.'"
+                },
+                {
+                    "question": "It was early, yet the city was already bustling. Identify the coordinating conjunction.",
+                    "choices": {
+                        "1": "It was early",
+                        "2": "Yet",
+                        "3": "The city was already bustling",
+                        "4": "Early, yet"
+                    },
+                    "answer": "2",
+                    "explanation": "In the sentence 'It was early, yet the city was already bustling,' the coordinating conjunction is 'yet' because it connects two independent clauses 'It was early' and 'the city was already bustling,' indicating a contrast."
+                },
+                {
+                    "question": "He likes coffee, but his wife prefers tea. Identify the coordinating conjunction.",
+                    "choices": {
+                        "1": "He likes coffee",
+                        "2": "But",
+                        "3": "His wife prefers tea",
+                        "4": "Coffee, but"
+                    },
+                    "answer": "2",
+                    "explanation": "In the sentence 'He likes coffee, but his wife prefers tea,' the coordinating conjunction is 'but' because it connects the two independent clauses 'He likes coffee' and 'his wife prefers tea,' showing a contrast."
+                },
+                {
+                    "question": "They will attend the meeting, or they will send a representative. Identify the coordinating conjunction.",
+                    "choices": {
+                        "1": "They will attend the meeting",
+                        "2": "Or",
+                        "3": "They will send a representative",
+                        "4": "Meeting, or"
+                    },
+                    "answer": "2",
+                    "explanation": "In the sentence 'They will attend the meeting, or they will send a representative,' the coordinating conjunction is 'or' because it connects the two independent clauses 'They will attend the meeting' and 'they will send a representative,' offering alternatives."
+                },
+                {
+                    "question": "You need to hurry, or you will miss the bus. Identify the coordinating conjunction.",
+                    "choices": {
+                        "1": "You need to hurry",
+                        "2": "Or",
+                        "3": "You will miss the bus",
+                        "4": "Hurry, or"
+                    },
+                    "answer": "2",
+                    "explanation": "In the sentence 'You need to hurry, or you will miss the bus,' the coordinating conjunction is 'or' because it connects the two independent clauses 'You need to hurry' and 'you will miss the bus,' indicating a consequence of not hurrying."
+                },
+                {
+                    "question": "She tried to call you, but your phone was off. Identify the coordinating conjunction.",
+                    "choices": {
+                        "1": "She tried to call you",
+                        "2": "But",
+                        "3": "Your phone was off",
+                        "4": "Call you, but"
+                    },
+                    "answer": "2",
+                    "explanation": "In the sentence 'She tried to call you, but your phone was off,' the coordinating conjunction is 'but' because it connects the two independent clauses 'She tried to call you' and 'your phone was off,' showing a contrast."
+                },
+                {
+                    "question": "They wanted to buy a new car, so they started saving money. Identify the coordinating conjunction.",
+                    "choices": {
+                        "1": "They wanted to buy a new car",
+                        "2": "So",
+                        "3": "They started saving money",
+                        "4": "Car, so"
+                    },
+                    "answer": "2",
+                    "explanation": "In the sentence 'They wanted to buy a new car, so they started saving money,' the coordinating conjunction is 'so' because it connects the two independent clauses 'They wanted to buy a new car' and 'they started saving money,' indicating a cause and effect."
                 }
             ]
         },
@@ -867,7 +1012,7 @@
                     "2": "She finished her exam after, she went out with her friends.",
                     "3": "She finished her exam, she went out with her friends."
                 },
-                "answer": 3,
+                "answer": 1,
                 "explanation": "The sentence is already correct; it uses the subordinating conjunction 'after' appropriately to show the sequence of events."
                 },
                 {
@@ -877,7 +1022,7 @@
                     "2": "They were hungry, and they decided to order pizza.",
                     "3": "They were hungry they decided to order pizza."
                 },
-                "answer": 1,
+                "answer": 2,
                 "explanation": "The correct choice employs the coordinating conjunction 'and' to connect the related actions in the sentence."
                 },
                 {
@@ -1804,205 +1949,194 @@
         {
             "phrasal-verbs": [
                 {
-                "question": "In the bustling city, Carlos always made an effort to turn up early for work. What does the phrasal verb 'turn up' mean in the context of the sentence?",
-                "answer": 2,
-                "choices": {
-                    "1": "Turn up: to decrease, Go on: to stop",
-                    "2": "Turn up: to arrive, Go on: to continue",
-                    "3": "Turn up: to cook, Go on: to dance",
-                    "4": "Turn up: to forget, Go on: to remember"
-                },
-                "explanation": "The correct answer is 2. 'Turn up' in this context means to arrive or appear, often referring to punctuality. The opposite, 'Go on,' means to continue."
-                },
-                {
-                "question": "As the rain started, the students decided to call off the outdoor event. What does the phrasal verb 'call off' mean in the context of the sentence?",
-                "answer": 3,
-                "choices": {
-                    "1": "Call off: to invite, Set up: to cancel",
-                    "2": "Call off: to attend, Set up: to arrange",
-                    "3": "Call off: to cancel, Set up: to organize",
-                    "4": "Call off: to delay, Set up: to hurry"
-                },
-                "explanation": "The correct answer is 3. 'Call off' means to cancel or abort. 'Set up' means to organize or arrange, but it is not applicable in this context."
+                    "question": "In the bustling city, Carlos always made an effort to turn up early for work. What does the phrasal verb 'turn up' mean in the context of the sentence?",
+                    "answer": 2,
+                    "choices": {
+                        "1": "Turn up: to decrease",
+                        "2": "Turn up: to arrive",
+                        "3": "Turn up: to cook",
+                        "4": "Turn up: to forget"
+                    },
+                    "explanation": "The correct answer is 'b'. 'Turn up' in this context means to arrive or appear."
                 },
                 {
-                "question": "During the camping trip, the group decided to put off the hike until the weather improved. What does the phrasal verb 'put off' mean in the context of the sentence?",
-                "answer": 4,
-                "choices": {
-                    "1": "Put off: to start, Bring up: to finish",
-                    "2": "Put off: to postpone, Bring up: to introduce",
-                    "3": "Put off: to avoid, Bring up: to confront",
-                    "4": "Put off: to postpone, Bring up: to mention"
-                },
-                "explanation": "The correct answer is 4. 'Put off' means to postpone or delay. 'Bring up' means to mention, which is not suitable in this context."
-                },
-                {
-                "question": "As the musician continued to play, the audience began to join in and sing along. What does the phrasal verb 'sing along' mean in the context of the sentence?",
-                "answer": 2,
-                "choices": {
-                    "1": "Sing along: to stop singing, Dance off: to dance alone",
-                    "2": "Sing along: to join in singing, Dance off: to stop dancing",
-                    "3": "Sing along: to sing loudly, Dance off: to dance together",
-                    "4": "Sing along: to sing silently, Dance off: to dance slowly"
-                },
-                "explanation": "The correct answer is 2. 'Sing along' means to join in singing with others. 'Dance off' means to have a dance competition, which is not applicable here."
+                    "question": "As the rain started, the students decided to call off the outdoor event. What does the phrasal verb 'call off' mean in the context of the sentence?",
+                    "answer": 3,
+                    "choices": {
+                        "1": "Call off: to invite",
+                        "2": "Call off: to attend",
+                        "3": "Call off: to cancel",
+                        "4": "Call off: to delay"
+                    },
+                    "explanation": "The correct answer is 'c'. 'Call off' means to cancel or abort."
                 },
                 {
-                "question": "After the long journey, Sarah needed to rest, so she decided to lie down for a while. What does the phrasal verb 'lie down' mean in the context of the sentence?",
-                "answer": 1,
-                "choices": {
-                    "1": "Lie down: to recline, Stand up: to remain standing",
-                    "2": "Lie down: to get up, Stand up: to sit down",
-                    "3": "Lie down: to sleep, Stand up: to jump",
-                    "4": "Lie down: to run, Stand up: to walk"
-                },
-                "explanation": "The correct answer is 1. 'Lie down' means to recline or rest. 'Stand up' means to remain standing, which is the opposite."
-                },
-                {
-                "question": "Despite the disagreement, the team decided to work out a compromise for the project. What does the phrasal verb 'work out' mean in the context of the sentence?",
-                "answer": 3,
-                "choices": {
-                    "1": "Work out: to argue, Break up: to end",
-                    "2": "Work out: to rest, Break up: to begin",
-                    "3": "Work out: to find a solution, Break up: to divide",
-                    "4": "Work out: to relax, Break up: to assemble"
-                },
-                "explanation": "The correct answer is 3. 'Work out' means to find a solution or reach an agreement. 'Break up' means to end or disassemble."
+                    "question": "During the camping trip, the group decided to put off the hike until the weather improved. What does the phrasal verb 'put off' mean in the context of the sentence?",
+                    "answer": 4,
+                    "choices": {
+                        "1": "Put off: to start",
+                        "2": "Put off: to postpone",
+                        "3": "Put off: to avoid",
+                        "4": "Put off: to postpone"
+                    },
+                    "explanation": "The correct answer is 'd'. 'Put off' means to postpone or delay."
                 },
                 {
-                "question": "During the interview, Maria decided to bring up her previous work experience. What does the phrasal verb 'bring up' mean in the context of the sentence?",
-                "answer": 2,
-                "choices": {
-                    "1": "Bring up: to forget, Hold on: to remember",
-                    "2": "Bring up: to mention, Hold on: to wait",
-                    "3": "Bring up: to avoid, Hold on: to confront",
-                    "4": "Bring up: to delay, Hold on: to hurry"
-                },
-                "explanation": "The correct answer is 2. 'Bring up' means to mention or introduce a topic. 'Hold on' means to wait, which is not suitable in this context."
-                },
-                {
-                "question": "As the party continued, they decided to turn down the music to avoid disturbing the neighbors. What does the phrasal verb 'turn down' mean in the context of the sentence?",
-                "answer": 1,
-                "choices": {
-                    "1": "Turn down: to decrease the volume, Join in: to increase the noise",
-                    "2": "Turn down: to increase the volume, Join in: to decrease the noise",
-                    "3": "Turn down: to play louder, Join in: to ignore",
-                    "4": "Turn down: to stop, Join in: to start"
-                },
-                "explanation": "The correct answer is 1. 'Turn down' means to decrease the volume, especially in the context of music. 'Join in' means to participate or contribute."
+                    "question": "As the musician continued to play, the audience began to join in and sing along. What does the phrasal verb 'sing along' mean in the context of the sentence?",
+                    "answer": 2,
+                    "choices": {
+                        "1": "Sing along: to stop singing",
+                        "2": "Sing along: to join in singing",
+                        "3": "Sing along: to sing loudly",
+                        "4": "Sing along: to sing silently"
+                    },
+                    "explanation": "The correct answer is 'b'. 'Sing along' means to join in singing with others."
                 },
                 {
-                "question": "Despite the difficulties, the group decided to carry on with their plan. What does the phrasal verb 'carry on' mean in the context of the sentence?",
-                "answer": 3,
-                "choices": {
-                    "1": "Carry on: to stop, Give up: to continue",
-                    "2": "Carry on: to rest, Give up: to persist",
-                    "3": "Carry on: to continue, Give up: to abandon",
-                    "4": "Carry on: to delay, Give up: to hurry"
-                },
-                "explanation": "The correct answer is 3. 'Carry on' means to continue with an activity or plan. 'Give up' means to abandon or surrender."
-                },
-                {
-                "question": "As the sun set, the friends decided to hang out at the beach for a while. What does the phrasal verb 'hang out' mean in the context of the sentence?",
-                "answer": 2,
-                "choices": {
-                    "1": "Hang out: to leave, Chill out: to stay",
-                    "2": "Hang out: to spend time together, Chill out: to relax",
-                    "3": "Hang out: to argue, Chill out: to dance",
-                    "4": "Hang out: to sleep, Chill out: to wake up"
-                },
-                "explanation": "The correct answer is 2. 'Hang out' means to spend time together casually. 'Chill out' means to relax, but it is not applicable in this context."
+                    "question": "After the long journey, Sarah needed to rest, so she decided to lie down for a while. What does the phrasal verb 'lie down' mean in the context of the sentence?",
+                    "answer": 1,
+                    "choices": {
+                        "1": "Lie down: to recline",
+                        "2": "Lie down: to get up",
+                        "3": "Lie down: to sleep",
+                        "4": "Lie down: to run"
+                    },
+                    "explanation": "The correct answer is 'a'. 'Lie down' means to recline or rest."
                 },
                 {
-                "question": "Despite the challenges, the team decided to go through with the project. What does the phrasal verb 'go through with' mean in the context of the sentence?",
-                "answer": 3,
-                "choices": {
-                    "1": "Go through with: to avoid, Back out: to proceed",
-                    "2": "Go through with: to delay, Back out: to advance",
-                    "3": "Go through with: to proceed, Back out: to withdraw",
-                    "4": "Go through with: to stop, Back out: to continue"
-                },
-                "explanation": "The correct answer is 3. 'Go through with' means to proceed with a plan or action despite challenges. 'Back out' means to withdraw or retract."
-                },
-                {
-                "question": "During the",
-                "answer": 1,
-                "choices": {
-                    "1": "",
-                    "2": "",
-                    "3": "",
-                    "4": ""
-                },
-                "explanation": ""
+                    "question": "Despite the disagreement, the team decided to work out a compromise for the project. What does the phrasal verb 'work out' mean in the context of the sentence?",
+                    "answer": 3,
+                    "choices": {
+                        "1": "Work out: to argue",
+                        "2": "Work out: to rest",
+                        "3": "Work out: to find a solution",
+                        "4": "Work out: to relax"
+                    },
+                    "explanation": "The correct answer is 'c'. 'Work out' means to find a solution or reach an agreement."
                 },
                 {
-                "question": "The teacher encouraged the students to look up the unfamiliar words in the dictionary. What does the phrasal verb 'look up' mean in the context of the sentence?",
-                "answer": 2,
-                "choices": {
-                    "1": "Look up: to ignore, Write down: to remember",
-                    "2": "Look up: to search for information, Write down: to forget",
-                    "3": "Look up: to find, Write down: to lose",
-                    "4": "Look up: to understand, Write down: to confuse"
-                },
-                "explanation": "The correct answer is 2. 'Look up' means to search for information or find in a reference source. 'Write down' means to make a note of, but it is not applicable in this context."
-                },
-                {
-                "question": "Despite the tight schedule, the team decided to go ahead with the project presentation. What does the phrasal verb 'go ahead' mean in the context of the sentence?",
-                "answer": 1,
-                "choices": {
-                    "1": "Go ahead: to proceed, Hold back: to delay",
-                    "2": "Go ahead: to stop, Hold back: to advance",
-                    "3": "Go ahead: to avoid, Hold back: to withdraw",
-                    "4": "Go ahead: to pause, Hold back: to continue"
-                },
-                "explanation": "The correct answer is 1. 'Go ahead' means to proceed with a plan or action. 'Hold back' means to delay or restrain, but it is not applicable in this context."
+                    "question": "During the interview, Maria decided to bring up her previous work experience. What does the phrasal verb 'bring up' mean in the context of the sentence?",
+                    "answer": 2,
+                    "choices": {
+                        "1": "Bring up: to forget",
+                        "2": "Bring up: to mention",
+                        "3": "Bring up: to avoid",
+                        "4": "Bring up: to delay"
+                    },
+                    "explanation": "The correct answer is 'b'. 'Bring up' means to mention or introduce a topic."
                 },
                 {
-                "question": "During the family reunion, they decided to catch up on each other's lives. What does the phrasal verb 'catch up' mean in the context of the sentence?",
-                "answer": 3,
-                "choices": {
-                    "1": "Catch up: to ignore, Look down: to acknowledge",
-                    "2": "Catch up: to pass, Look down: to climb",
-                    "3": "Catch up: to update, Look down: to despise",
-                    "4": "Catch up: to forget, Look down: to remember"
-                },
-                "explanation": "The correct answer is 3. 'Catch up' means to update each other on what has happened since the last meeting. 'Look down' means to despise, which is not applicable here."
-                },
-                {
-                "question": "Despite the setbacks, the team decided to carry on with the research project. What does the phrasal verb 'carry on' mean in the context of the sentence?",
-                "answer": 4,
-                "choices": {
-                    "1": "Carry on: to stop, Give up: to continue",
-                    "2": "Carry on: to rest, Give up: to persist",
-                    "3": "Carry on: to delay, Give up: to hurry",
-                    "4": "Carry on: to continue, Give up: to abandon"
-                },
-                "explanation": "The correct answer is 4. 'Carry on' means to continue with an activity or plan. 'Give up' means to abandon or surrender, which is the opposite."
+                    "question": "As the party continued, they decided to turn down the music to avoid disturbing the neighbors. What does the phrasal verb 'turn down' mean in the context of the sentence?",
+                    "answer": 1,
+                    "choices": {
+                        "1": "Turn down: to decrease the volume",
+                        "2": "Turn down: to increase the volume",
+                        "3": "Turn down: to play louder",
+                        "4": "Turn down: to stop"
+                    },
+                    "explanation": "The correct answer is 'a'. 'Turn down' means to decrease the volume, especially in the context of music."
                 },
                 {
-                "question": "As the day progressed, the weather started to clear up, and they decided to go out for a picnic. What does the phrasal verb 'clear up' mean in the context of the sentence?",
-                "answer": 2,
-                "choices": {
-                    "1": "Clear up: to become cloudy, Go out: to stay indoors",
-                    "2": "Clear up: to become clearer, Go out: to leave home",
-                    "3": "Clear up: to rain heavily, Go out: to dance",
-                    "4": "Clear up: to get dark, Go out: to sleep"
-                },
-                "explanation": "The correct answer is 2. 'Clear up' means to become clearer or improve. 'Go out' means to leave home for entertainment, which fits the context."
+                    "question": "Despite the difficulties, the group decided to carry on with their plan. What does the phrasal verb 'carry on' mean in the context of the sentence?",
+                    "answer": 3,
+                    "choices": {
+                        "1": "Carry on: to stop",
+                        "2": "Carry on: to rest",
+                        "3": "Carry on: to continue",
+                        "4": "Carry on: to delay"
+                    },
+                    "explanation": "The correct answer is 'c'. 'Carry on' means to continue with an activity or plan."
                 },
                 {
-                "question": "During the meeting, they decided to break up into smaller groups for a more focused discussion. What does the phrasal verb 'break up' mean in the context of the sentence?",
-                "answer": 3,
-                "choices": {
-                    "1": "Break up: to unite, Work out: to divide",
-                    "2": "Break up: to rest, Work out: to persist",
-                    "3": "Break up: to divide, Work out: to find a solution",
-                    "4": "Break up: to assemble, Work out: to relax"
+                    "question": "As the sun set, the friends decided to hang out at the beach for a while. What does the phrasal verb 'hang out' mean in the context of the sentence?",
+                    "answer": 2,
+                    "choices": {
+                        "1": "Hang out: to leave",
+                        "2": "Hang out: to spend time together",
+                        "3": "Hang out: to argue",
+                        "4": "Hang out: to sleep"
+                    },
+                    "explanation": "The correct answer is 'b'. 'Hang out' means to spend time together casually."
                 },
-                "explanation": "The correct answer is 3. 'Break up' means to divide into smaller parts. 'Work out' means to find a solution, but it is not applicable in this context."
+                {
+                    "question": "Despite the challenges, the team decided to go through with the project. What does the phrasal verb 'go through with' mean in the context of the sentence?",
+                    "answer": 3,
+                    "choices": {
+                        "1": "Go through with: to avoid",
+                        "2": "Go through with: to delay",
+                        "3": "Go through with: to proceed",
+                        "4": "Go through with: to stop"
+                    },
+                    "explanation": "The correct answer is 'c'. 'Go through with' means to proceed with a plan or action despite challenges."
+                },
+                {
+                    "question": "The teacher encouraged the students to look up the unfamiliar words in the dictionary. What does the phrasal verb 'look up' mean in the context of the sentence?",
+                    "answer": 2,
+                    "choices": {
+                        "1": "Look up: to ignore",
+                        "2": "Look up: to search for information",
+                        "3": "Look up: to find",
+                        "4": "Look up: to understand"
+                    },
+                    "explanation": "The correct answer is 'b'. 'Look up' means to search for information or find in a reference source."
+                },
+                {
+                    "question": "Despite the tight schedule, the team decided to go ahead with the project presentation. What does the phrasal verb 'go ahead' mean in the context of the sentence?",
+                    "answer": 1,
+                    "choices": {
+                        "1": "Go ahead: to proceed",
+                        "2": "Go ahead: to stop",
+                        "3": "Go ahead: to avoid",
+                        "4": "Go ahead: to pause"
+                    },
+                    "explanation": "The correct answer is 'a'. 'Go ahead' means to proceed with a plan or action."
+                },
+                {
+                    "question": "During the family reunion, they decided to catch up on each other's lives. What does the phrasal verb 'catch up' mean in the context of the sentence?",
+                    "answer": 3,
+                    "choices": {
+                        "1": "Catch up: to ignore",
+                        "2": "Catch up: to pass",
+                        "3": "Catch up: to update",
+                        "4": "Catch up: to forget"
+                    },
+                    "explanation": "The correct answer is 'c'. 'Catch up' means to update each other on what has happened since the last meeting."
+                },
+                {
+                    "question": "Despite the setbacks, the team decided to carry on with the research project. What does the phrasal verb 'carry on' mean in the context of the sentence?",
+                    "answer": 4,
+                    "choices": {
+                        "1": "Carry on: to stop",
+                        "2": "Carry on: to rest",
+                        "3": "Carry on: to delay",
+                        "4": "Carry on: to continue"
+                    },
+                    "explanation": "The correct answer is 'd'. 'Carry on' means to continue with an activity or plan."
+                },
+                {
+                    "question": "As the day progressed, the weather started to clear up, and they decided to go out for a picnic. What does the phrasal verb 'clear up' mean in the context of the sentence?",
+                    "answer": 2,
+                    "choices": {
+                        "1": "Clear up: to become cloudy",
+                        "2": "Clear up: to become clearer",
+                        "3": "Clear up: to rain heavily",
+                        "4": "Clear up: to get dark"
+                    },
+                    "explanation": "The correct answer is 'b'. 'Clear up' means to become clearer or improve."
+                },
+                {
+                    "question": "During the meeting, they decided to break up into smaller groups for a more focused discussion. What does the phrasal verb 'break up' mean in the context of the sentence?",
+                    "answer": 3,
+                    "choices": {
+                        "1": "Break up: to unite",
+                        "2": "Break up: to rest",
+                        "3": "Break up: to divide",
+                        "4": "Break up: to assemble"
+                    },
+                    "explanation": "The correct answer is 'c'. 'Break up' means to divide into smaller parts."
                 }
             ]
-        },
+        },        
         {
             "prefixes-suffixes": [
                 {
@@ -2124,7 +2258,7 @@
                 },
                 {
                     "question": "Joyful",
-                    "answer": 2,
+                    "answer": 1,
                     "choices": {
                     "1": "Joy",
                     "2": "Ful"
@@ -2515,7 +2649,7 @@
                     "3": "The car is fast reliable and fuel-efficient.",
                     "4": "The car is fast, reliable and, fuel-efficient."
                 },
-                "explanation": "The correct answer is 1. Commas should be used to separate items in a list for clarity."
+                "explanation": "The correct answer is 'a'. Commas should be used to separate items in a list for clarity."
                 },
                 {
                 "question": "The dogs toy is missing.",
@@ -2526,7 +2660,7 @@
                     "3": "The dogs toy: is missing.",
                     "4": "The dogs, toy is missing."
                 },
-                "explanation": "The correct answer is 2. The apostrophe in 'dog's' indicates possession, and 'toy is missing' is the correct structure for the sentence."
+                "explanation": "The correct answer is 'b'. The apostrophe in 'dog's' indicates possession, and 'toy is missing' is the correct structure for the sentence."
                 },
                 {
                 "question": "My favorite colors are blue green and red.",
@@ -2537,7 +2671,7 @@
                     "3": "My favorite colors are blue green and red.",
                     "4": "My favorite colors are blue, green, and red"
                 },
-                "explanation": "The correct answer is 4. Commas are needed to separate items in a list, ensuring clarity and proper punctuation."
+                "explanation": "The correct answer is 'd'. Commas are needed to separate items in a list, ensuring clarity and proper punctuation."
                 },
                 {
                 "question": "She said, I will meet you there.",
@@ -2548,7 +2682,7 @@
                     "3": "She said, \"I will meet you there.\"",
                     "4": "She said: I will meet you there."
                 },
-                "explanation": "The correct answer is 3. Quotation marks should be used to indicate direct speech, as shown in the corrected option."
+                "explanation": "The correct answer is 'c'. Quotation marks should be used to indicate direct speech, as shown in the corrected option."
                 },
                 {
                 "question": "They went to the store and bought milk bread and eggs.",
@@ -2559,18 +2693,18 @@
                     "3": "They went to the store and bought milk bread and eggs.",
                     "4": "They went to the store and bought milk, bread, and, eggs."
                 },
-                "explanation": "The correct answer is 2. Commas should be used consistently to separate items in a list. In this case, the last comma is optional, but it maintains consistency."
+                "explanation": "The correct answer is 'b'. Commas should be used consistently to separate items in a list. In this case, the last comma is optional, but it maintains consistency."
                 },
                 {
                 "question": "The students were tired yet they continued to work on their project.",
                 "answer": 4,
                 "choices": {
                     "1": "The students were tired yet, they continued to work on their project.",
-                    "2": "The students were tired, yet they continued to work on their project",
+                    "2": "The students were, tired, yet they continued to work on their project",
                     "3": "The students were tired, yet, they continued to work on their project.",
                     "4": "The students were tired, yet they continued to work on their project."
                 },
-                "explanation": "The correct answer is 4. A comma should be used before 'yet' to separate the independent clauses in a compound sentence."
+                "explanation": "The correct answer is 'b'. A comma should be used before 'yet' to separate the independent clauses in a compound sentence."
                 },
                 {
                 "question": "The scientist conducted the experiment it was successful.",
@@ -2581,18 +2715,18 @@
                     "3": "The scientist conducted the experiment, it was successful.",
                     "4": "The scientist conducted the experiment, and, it was successful."
                 },
-                "explanation": "The correct answer is 1. A comma and a coordinating conjunction 'and' should be used to join independent clauses in a compound sentence."
+                "explanation": "The correct answer is 'a'. A comma and a coordinating conjunction 'and' should be used to join independent clauses in a compound sentence."
                 },
                 {
                 "question": "The weather was cold snowy and windy.",
                 "answer": 3,
                 "choices": {
-                    "1": "The weather was cold, snowy, and windy.",
+                    "1": "The weather was cold, snowy and windy.",
                     "2": "The weather was cold snowy, and windy.",
                     "3": "The weather was cold, snowy, and windy.",
-                    "4": "The weather was cold, snowy, and windy."
+                    "4": "The weather, was cold, snowy, and windy."
                 },
-                "explanation": "The correct answer is 3. Commas should be used to separate items in a list, especially when describing different aspects of the weather."
+                "explanation": "The correct answer is 'c'. Commas should be used to separate items in a list, especially when describing different aspects of the weather."
                 },
                 {
                 "question": "They took a break for lunch however they returned to work promptly.",
@@ -2603,7 +2737,7 @@
                     "3": "They took a break for lunch, however, they returned to work promptly.",
                     "4": "They took a break for lunch however, they returned to work promptly."
                 },
-                "explanation": "The correct answer is 2. A semicolon should be used to connect closely related independent clauses without a coordinating conjunction."
+                "explanation": "The correct answer is 'b'. A semicolon should be used to connect closely related independent clauses without a coordinating conjunction."
                 },
                 {
                 "question": "The book was interesting it kept my attention from the beginning to the end.",
@@ -2614,7 +2748,7 @@
                     "3": "The book was interesting, it kept my attention from the beginning to the end.",
                     "4": "The book was interesting; it kept my attention from the beginning to the end."
                 },
-                "explanation": "The correct answer is 4. A semicolon should be used to connect closely related independent clauses without a coordinating conjunction."
+                "explanation": "The correct answer is 'b'. A semicolon should be used to connect closely related independent clauses without a coordinating conjunction."
                 },
                 {
                 "question": "The concert starts at 7 pm; make sure to arrive on time.",
@@ -2625,7 +2759,7 @@
                     "3": "The concert starts at 7 pm, make sure to arrive on time.",
                     "4": "The concert starts at 7 pm make sure to arrive on time."
                 },
-                "explanation": "The correct answer is 1. A semicolon should be used to connect closely related independent clauses without a coordinating conjunction."
+                "explanation": "The correct answer is 'a'. A semicolon should be used to connect closely related independent clauses without a coordinating conjunction."
                 },
                 {
                 "question": "He had three goals in mind: to learn, to grow, and to succeed.",
@@ -2636,7 +2770,7 @@
                     "3": "He had three goals in mind: to learn to grow, and to succeed.",
                     "4": "He had three goals in mind: to learn, to grow and to succeed."
                 },
-                "explanation": "The correct answer is 1. A colon should be used to introduce a list, providing clarity and structure to the sentence."
+                "explanation": "The correct answer is 'a'. A colon should be used to introduce a list, providing clarity and structure to the sentence."
                 },
                 {
                 "question": "She said, This is the best day of my life.",
@@ -2647,7 +2781,7 @@
                     "3": "She said, \"This is the best day of my life.\"",
                     "4": "She said, 'This is the best day of my life."
                 },
-                "explanation": "The correct answer is 3. Quotation marks should be closed after the quoted material to properly punctuate the sentence."
+                "explanation": "The correct answer is 'c'. Quotation marks should be closed after the quoted material to properly punctuate the sentence."
                 },
                 {
                 "question": "The meeting is scheduled for 2 pm are you prepared?",
@@ -2658,7 +2792,7 @@
                     "3": "The meeting is scheduled for 2 pm: are you prepared?",
                     "4": "The meeting is scheduled for 2 pm. are you prepared?"
                 },
-                "explanation": "The correct answer is 1. A semicolon should be used to connect closely related independent clauses without a coordinating conjunction."
+                "explanation": "The correct answer is 'a'. A semicolon should be used to connect closely related independent clauses without a coordinating conjunction."
                 },
                 {
                 "question": "They explored the ancient ruins in Greece it was a breathtaking experience.",
@@ -2669,7 +2803,7 @@
                     "3": "They explored the ancient ruins in Greece: it was a breathtaking experience.",
                     "4": "They explored the ancient ruins in Greece. It was a, breathtaking experience."
                 },
-                "explanation": "The correct answer is 2. A semicolon should be used to connect closely related independent clauses without a coordinating conjunction."
+                "explanation": "The correct answer is 'b'. A semicolon should be used to connect closely related independent clauses without a coordinating conjunction."
                 },
                 {
                 "question": "The concert was canceled due to bad weather a heavy rainstorm.",
@@ -2680,7 +2814,7 @@
                     "3": "The concert was canceled due to bad weather. a heavy rainstorm.",
                     "4": "The concert was canceled due to bad weather. (a heavy rainstorm)"
                 },
-                "explanation": "The correct answer is 1. Parentheses are correctly used to enclose supplementary information within a sentence."
+                "explanation": "The correct answer is 'a'. Parentheses are correctly used to enclose supplementary information within a sentence."
                 },
                 {
                 "question": "\"The result of the experiment was unexpected (it challenged previous assumptions).\"",
@@ -2691,7 +2825,7 @@
                     "3": "The result of the experiment was unexpected; [it challenged previous assumptions].",
                     "4": "The result of the experiment was unexpected: [it challenged previous assumptions]."
                 },
-                "explanation": "The correct answer is 1. Brackets are correctly used to insert clarifying information within a quotation."
+                "explanation": "The correct answer is 'a'. Brackets are correctly used to insert clarifying information within a quotation."
                 },
                 {
                 "question": "He paused for a moment. then continued with his speech.",
@@ -2702,7 +2836,7 @@
                     "3": "He paused for a moment; ... then continued with his speech.",
                     "4": "He paused for a moment: then continued with his speech"
                 },
-                "explanation": "The correct answer is 1. Ellipses are correctly used to indicate a pause in thought."
+                "explanation": "The correct answer is 'a'. Ellipses are correctly used to indicate a pause in thought."
                 },
                 {
                 "question": "The instructions were simple follow the steps in the manual.",
@@ -2713,7 +2847,7 @@
                     "3": "The instructions were simple' follow the steps in the manual.",
                     "4": "The instructions were simple; follow the steps in the manual."
                 },
-                "explanation": "The correct answer is 1. A colon is correctly used to introduce a list or explanation."
+                "explanation": "The correct answer is 'a'. A colon is correctly used to introduce a list or explanation."
                 },
                 {
                 "question": "The sun was setting, the sky turned a beautiful shade of pink.",
@@ -2724,7 +2858,7 @@
                     "3": "The sun was setting: the sky turned a beautiful shade of pink.",
                     "4": "The sun was setting, the sky turned a beautiful shade of pink."
                 },
-                "explanation": "The correct answer is 1. A semicolon is correctly used to connect closely related independent clauses without a coordinating conjunction."
+                "explanation": "The correct answer is 'a'. A semicolon is correctly used to connect closely related independent clauses without a coordinating conjunction."
                 },
                 {
                 "question": "He said, I'll be there at 3 pm; make sure to wait for him.",
@@ -2735,7 +2869,7 @@
                     "3": "He said: \"I'll be there at 3 pm,\" make sure to wait for him.",
                     "4": "He said, \"I'll be there at 3 pm\", make sure to wait for him."
                 },
-                "explanation": "The correct answer is 1. Quotation marks are correctly used to indicate direct speech, and a semicolon is used to separate related clauses."
+                "explanation": "The correct answer is 'a'. Quotation marks are correctly used to indicate direct speech, and a semicolon is used to separate related clauses."
                 },
                 {
                 "question": "The project was challenging nevertheless they completed it successfully.",
@@ -2746,7 +2880,7 @@
                     "3": "The project was challenging, nevertheless; they completed it successfully.",
                     "4": "The project was challenging, nevertheless they completed it successfully."
                 },
-                "explanation": "The correct answer is 1. A semicolon is correctly used to connect closely related independent clauses without a coordinating conjunction, and a comma is used after 'nevertheless.'"
+                "explanation": "The correct answer is 'a'. A semicolon is correctly used to connect closely related independent clauses without a coordinating conjunction, and a comma is used after 'nevertheless.'"
                 }
             ]
         },
@@ -2763,7 +2897,7 @@
                 },
                 {
                 "question": "Telepathy",
-                "answer": 1,
+                "answer": 2,
                 "choices": {
                     "1": "Tele",
                     "2": "Pathy"
@@ -2790,7 +2924,7 @@
                 },
                 {
                 "question": "Misunderstand",
-                "answer": 1,
+                "answer": 2,
                 "choices": {
                     "1": "Mis",
                     "2": "Understand"
@@ -2799,7 +2933,7 @@
                 },
                 {
                 "question": "Antisocial",
-                "answer": 1,
+                "answer": 2,
                 "choices": {
                     "1": "Anti",
                     "2": "Social"
@@ -2817,7 +2951,7 @@
                 },
                 {
                 "question": "Artist",
-                "answer": 2,
+                "answer": 1,
                 "choices": {
                     "1": "Art",
                     "2": "Ist"
@@ -2826,7 +2960,7 @@
                 },
                 {
                 "question": "Joyful",
-                "answer": 2,
+                "answer": 1,
                 "choices": {
                     "1": "Joy",
                     "2": "Ful"
@@ -2862,7 +2996,7 @@
                 },
                 {
                 "question": "Illuminate",
-                "answer": 1,
+                "answer": 2,
                 "choices": {
                     "1": "Il",
                     "2": "Luminate"
@@ -4493,7 +4627,7 @@
                     "answer": 3,
                     "choices": {
                     "1": "run",
-                    "2": "running",
+                    "2": "runner",
                     "3": "running",
                     "4": "ran"
                     },

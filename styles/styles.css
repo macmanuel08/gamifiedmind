@@ -307,6 +307,57 @@ h1 {font-family: 'RocaOne-Rg';}
 
 .inside-pg em {font-weight: 600;}
 
+.quiz-instructions {margin-bottom: 60px;}
+
+.cta-container.flex {
+  gap: 10px;
+  margin-top: 60px;
+  transition: all 300ms ease-in-out;
+}
+
+.hidden-animate {
+  transition: all 300ms ease-in-out;
+  opacity: 0;
+}
+
+.hidden-animate.show {opacity: 1;}
+
+.question-block {
+  padding: 30px;
+  border: 2px solid #1B335F;
+  margin-bottom: 30px;
+}
+
+.question-block p {color: #1B335F;}
+
+.question-block .option {
+  padding: 10px;
+  background: #1B335F;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.question-block .option:not(:last-child) {margin-bottom: 15px;}
+
+.question-block .option:hover {
+  background: #96ADCF;
+  color: #1B335F;
+}
+
+.question-block .option.selected {
+  outline: 3px solid #1B335F;
+  outline-offset: 5px;
+}
+
+.question-block .explanation {margin-top: 30px;}
+
+.question-block.correct {background: #caffd0;}
+
+.question-block.incorrect {background: #fd6c9c;}
+
+.question-block.incorrect p {color: #fff;}
+
 @media (min-width: 40em) {
   div a, div p, div li {font-size: 1.2rem;}
   div p {line-height: 28px;}
