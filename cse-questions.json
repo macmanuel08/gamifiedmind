@@ -1206,7 +1206,7 @@
     "synonyms": [
       {
         "Id": 93,
-        "question": "How can we win against  <em>incontestable</em>  evidence?",
+        "question": "How can we win against  <u>incontestable</u>  evidence?",
         "answer": "d",
         "choices": {
           "a": "controversial",
@@ -1219,7 +1219,7 @@
       },
       {
          "Id": 94,
-         "question": "In the face of a <em>plethora</em> of choices, she struggled to make a decision.",
+         "question": "In the face of a <u>plethora</u> of choices, she struggled to make a decision.",
          "answer": "b",
          "choices": {
             "a": "Exiguous",
@@ -1232,7 +1232,7 @@
       },
       {
          "Id": 95,
-         "question": "The internet has made information <em>ubiquitous</em> across the globe.",
+         "question": "The internet has made information <u>ubiquitous</u> across the globe.",
          "answer": "b",
          "choices": {
             "a": "Scarce",
@@ -1245,7 +1245,7 @@
       },
       {
          "Id": 96,
-         "question": "The professor's <em>verbose</em> explanations often left his students confused.",
+         "question": "The professor's <u>verbose</u> explanations often left his students confused.",
          "answer": "b",
          "choices": {
             "a": "Succinct",
@@ -1258,7 +1258,7 @@
       },
       {
          "Id": 97,
-         "question": "The beauty of cherry blossoms lies in their <em>ephemeral</em> nature, lasting only a few weeks each spring.",
+         "question": "The beauty of cherry blossoms lies in their <u>ephemeral</u> nature, lasting only a few weeks each spring.",
          "answer": "b",
          "choices": {
             "a": "Permanent",
@@ -1271,7 +1271,7 @@
       },
       {
          "Id": 98,
-         "question": "His constant complaints only served to <em>exacerbate</em> the situation, making it even more difficult to resolve.",
+         "question": "His constant complaints only served to <u>exacerbate</u> the situation, making it even more difficult to resolve.",
          "answer": "b",
          "choices": {
             "a": "Alleviate",
@@ -1284,7 +1284,7 @@
       },
       {
          "Id": 99,
-         "question": "After losing his job, he found himself <em>destitute</em> and unable to afford basic necessities.",
+         "question": "After losing his job, he found himself <u>destitute</u> and unable to afford basic necessities.",
          "answer": "c",
          "choices": {
             "a": "Wealthy",
@@ -1310,7 +1310,7 @@
       },
       {
          "Id": 101,
-         "question": "Their friendship was <em>ephemeral</em>, lasting only through the summer months.",
+         "question": "Their friendship was <u>ephemeral</u>, lasting only through the summer months.",
          "answer": "b",
          "choices": {
             "a": "Enduring",
@@ -1323,7 +1323,7 @@
       },
       {
          "Id": 102,
-         "question": "The instructions were <em>lucid</em> and easy to follow, even for beginners.",
+         "question": "The instructions were <u>lucid</u> and easy to follow, even for beginners.",
          "answer": "b",
          "choices": {
             "a": "Confusing",
@@ -1336,7 +1336,7 @@
       },
       {
          "Id": 103,
-         "question": "His <em>sagacious</em> advice guided me through some of the toughest decisions of my life.",
+         "question": "His <u>sagacious</u> advice guided me through some of the toughest decisions of my life.",
          "answer": "b",
          "choices": {
             "a": "Foolish",
@@ -1349,7 +1349,7 @@
       },
       {
          "Id": 104,
-         "question": "The politician's attempts to <em>obfuscate</em> the issue only served to confuse the public further.",
+         "question": "The politician's attempts to <u>obfuscate</u> the issue only served to confuse the public further.",
          "answer": "b",
          "choices": {
             "a": "Clarify",
@@ -1362,7 +1362,7 @@
       },
       {
          "Id": 105,
-         "question": "The use of pesticides can have <em>deleterious</em> effects on the environment.",
+         "question": "The use of pesticides can have <u>deleterious</u> effects on the environment.",
          "answer": "b",
          "choices": {
             "a": "Beneficial",
@@ -1375,7 +1375,7 @@
       },
       {
          "Id": 106,
-         "question": "Despite their efforts to <em>ameliorate</em> the situation, conditions in the refugee camps continued to deteriorate.",
+         "question": "Despite their efforts to <u>ameliorate</u> the situation, conditions in the refugee camps continued to deteriorate.",
          "answer": "e",
          "choices": {
             "a": "Worsen",
@@ -1388,7 +1388,7 @@
       },
       {
          "Id": 107,
-         "question": "Living a <em>frugal</em> lifestyle allowed her to save money for future endeavors.",
+         "question": "Living a <u>frugal</u> lifestyle allowed her to save money for future endeavors.",
          "answer": "c",
          "choices": {
             "a": "Wasteful",
@@ -1401,7 +1401,7 @@
       },
       {
          "Id": 108,
-         "question": "The rubber material used in the construction of the tire made it highly <em>resilient</em> to punctures and wear.",
+         "question": "The rubber material used in the construction of the tire made it highly <u>resilient</u> to punctures and wear.",
          "answer": "c",
          "choices": {
             "a": "Fragile",
@@ -1416,7 +1416,7 @@
    "antonyms": [
       {
         "Id": 109,
-        "question": "Despite his best efforts, he could not <em>diminish</em> the impact of his mistakes.",
+        "question": "Despite his best efforts, he could not <u>diminish</u> the impact of his mistakes.",
         "answer": "a",
         "choices": {
           "a": "Increase",
@@ -1429,7 +1429,7 @@
       },
       {
         "Id": 110,
-        "question": "Her cheerful demeanor helped <em>alleviate</em> the sadness of those around her.",
+        "question": "Her cheerful demeanor helped <u>alleviate</u> the sadness of those around her.",
         "answer": "a",
         "choices": {
           "a": "Aggravate",
@@ -1442,7 +1442,7 @@
       },
       {
         "Id": 111,
-        "question": "The candidate's stance on the issue was <em>unambiguous</em>.",
+        "question": "The candidate's stance on the issue was <u>unambiguous</u>.",
         "answer": "c",
         "choices": {
           "a": "Clear",
@@ -1455,7 +1455,7 @@
       },
       {
         "Id": 112,
-        "question": "The company's profits continued to <em>decline</em> despite efforts to boost sales.",
+        "question": "The company's profits continued to <u>decline</u> despite efforts to boost sales.",
         "answer": "a",
         "choices": {
           "a": "Increase",
@@ -1468,7 +1468,7 @@
       },
       {
         "Id": 113,
-        "question": "The coach's harsh criticism only served to <em>weaken</em> the team's morale.",
+        "question": "The coach's harsh criticism only served to <u>weaken</u> the team's morale.",
         "answer": "b",
         "choices": {
           "a": "Strengthen",
@@ -1481,7 +1481,7 @@
       },
       {
         "Id": 114,
-        "question": "The artist's latest work is a <em>departure</em> from her usual style.",
+        "question": "The artist's latest work is a <u>departure</u> from her usual style.",
         "answer": "c",
         "choices": {
           "a": "Journey",
@@ -1494,7 +1494,7 @@
       },
       {
         "Id": 115,
-        "question": "The teacher's explanation was <em>confusing</em>, leaving the students uncertain about the topic.",
+        "question": "The teacher's explanation was <u>confusing</u>, leaving the students uncertain about the topic.",
         "answer": "a",
         "choices": {
           "a": "Clear",
@@ -1507,7 +1507,7 @@
       },
       {
         "Id": 116,
-        "question": "The government's decision to increase taxes will <em>benefit</em> the economy in the long run.",
+        "question": "The government's decision to increase taxes will <u>benefit</u> the economy in the long run.",
         "answer": "b",
         "choices": {
           "a": "Aid",
@@ -1520,7 +1520,7 @@
       },
       {
         "Id": 117,
-        "question": "Her remarks were <em>relevant</em> to the discussion at hand.",
+        "question": "Her remarks were <u>relevant</u> to the discussion at hand.",
         "answer": "d",
         "choices": {
           "a": "Appropriate",
@@ -1533,7 +1533,7 @@
       },
       {
         "Id": 118,
-        "question": "The company's decision to downsize will <em>expand</em> its profit margins.",
+        "question": "The company's decision to downsize will <u>expand</u> its profit margins.",
         "answer": "b",
         "choices": {
           "a": "Contract",
@@ -1546,7 +1546,7 @@
       },
       {
         "Id": 119,
-        "question": "The professor's lecture was <em>superficial</em>, lacking depth and insight.",
+        "question": "The professor's lecture was <u>superficial</u>, lacking depth and insight.",
         "answer": "b",
         "choices": {
           "a": "Comprehensive",
@@ -1559,7 +1559,7 @@
       },
       {
         "Id": 120,
-        "question": "His constant interruptions only served to <em>enhance</em> the confusion in the room.",
+        "question": "His constant interruptions only served to <u>enhance</u> the confusion in the room.",
         "answer": "a",
         "choices": {
           "a": "Diminish",
@@ -1572,7 +1572,7 @@
       },
       {
         "Id": 121,
-        "question": "The government's new policies will <em>restrict</em> individual freedoms.",
+        "question": "The government's new policies will <u>restrict</u> individual freedoms.",
         "answer": "b",
         "choices": {
           "a": "Liberate",
@@ -1585,7 +1585,7 @@
       },
       {
         "Id": 122,
-        "question": "The athlete's performance was <em>mediocre</em>, failing to meet expectations.",
+        "question": "The athlete's performance was <u>mediocre</u>, failing to meet expectations.",
         "answer": "c",
         "choices": {
           "a": "Excellent",
@@ -1598,7 +1598,7 @@
       },
       {
         "Id": 123,
-        "question": "The charity's efforts to help the homeless will <em>worsen</em> the situation.",
+        "question": "The charity's efforts to help the homeless will <u>worsen</u> the situation.",
         "answer": "a",
         "choices": {
           "a": "Improve",
@@ -1611,7 +1611,7 @@
       },
       {
         "Id": 124,
-        "question": "His actions were <em>reckless</em>, endangering both himself and others.",
+        "question": "His actions were <u>reckless</u>, endangering both himself and others.",
         "answer": "c",
         "choices": {
           "a": "Cautious",

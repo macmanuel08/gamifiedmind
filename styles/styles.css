@@ -98,6 +98,7 @@ nav li {list-style: none;}
   background: #96ADCF;
   color: #1B335F;
   border-color: #96ADCF;
+  cursor: pointer;
 }
 
 .btn.secondary-btn {

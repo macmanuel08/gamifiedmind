@@ -14,7 +14,7 @@ function getParent(childElement, parentClass) {
   
     while (parent) {
       if (parent.classList.contains(parentClass)) {
-        console.log(parent)
+        //console.log(parent)
         return parent;
       }
       parent = parent.parentElement;
@@ -113,7 +113,7 @@ class QuizView {
         question.classList.add('question-paragraph');
         const optionContainer = document.createElement('div');
         optionContainer.classList.add('options-block');
-        question.textContent = quiz["question"];
+        question.innerHTML = quiz["question"];
         const letters = ['a.', 'b.', 'c.', 'd.', 'e.', 'f.'];
         let i = 0;
 
