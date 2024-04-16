@@ -189,6 +189,12 @@ body footer {
   left: 30px;
 }
 
+.score-container {
+  padding: 10px;
+  border: 2px solid #1B335F;
+  width: fit-content;
+}
+
 @media (max-width: 1366px) {
   .hero-title {
     bottom: 15vh;
@@ -198,6 +204,10 @@ body footer {
 
 @media (max-width: 991px) {
   .section-title h2 span {font-size: 16px;}
+}
+
+@media (max-width: 600px) {
+  .inside-pg {grid-template-columns: 1fr;}
 }
 
 @media (max-width: 550px) {

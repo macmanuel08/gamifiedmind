@@ -669,7 +669,7 @@
     "error-identification": [
         {
             "id": 51,
-            "question": "The <u class='a'>company</u> <u class='b'>have</u> recently <u class='c'>launched its new product line to great success.<u class='d'>NO ERROR</u>",
+            "question": "The <u data-letter='a'>company</u> <u data-letter='b'>have</u> recently <u data-letter='c'>launched</u> its new product line to great success.<u data-letter='d'>NO ERROR</u>",
             "choices": {
                 "a": "company",
                 "b": "have",
@@ -681,7 +681,7 @@
         },
         {
             "id": 52,
-            "question": "<u class='a'>John</u> <u class='b'>have</u> been studying French <u class='c'>since</u> he was a child. <u class='d'>NO ERROR</u>",
+            "question": "<u data-letter='a'>John</u> <u data-letter='b'>have</u> been studying French <u data-letter='c'>since</u> he was a child. <u data-letter='d'>NO ERROR</u>",
             "choices": {
                 "a": "John",
                 "b": "have",
@@ -693,7 +693,7 @@
         },
         {
             "id": 53,
-            "question": "The <u class='a'>government</u> <u class='b'>are</u> <u class='c'>planning</u> to implement new policies next year. <u class='d'>NO ERROR</u>",
+            "question": "The <u data-letter='a'>government</u> <u data-letter='b'>are</u> <u data-letter='c'>planning</u> to implement new policies next year. <u data-letter='d'>NO ERROR</u>",
             "choices": {
                 "a": "government",
                 "b": "are",
@@ -705,7 +705,7 @@
         },
         {
             "id": 54,
-            "question": "She<u class='a'>was</u> very <u class='b'>hungry</u> and ate <u class='c'>a</u> large meal quickly. <u class='d'>NO ERROR</u>",
+            "question": "She<u data-letter='a'>was</u> very <u data-letter='b'>hungry</u> and ate <u data-letter='c'>a</u> large meal quickly. <u data-letter='d'>NO ERROR</u>",
             "choices": {
                 "a": "was",
                 "b": "hungry",
@@ -717,7 +717,7 @@
         },
         {
             "id": 55,
-            "question": "My <u class='a'>sister</u> <u class='b'>is</u> studying <u class='c'>in</u> the university to become a doctor. <u class='d'>NO ERROR</u>",
+            "question": "My <u data-letter='a'>sister</u> <u data-letter='b'>is</u> studying <u data-letter='c'>in</u> the university to become a doctor. <u data-letter='d'>NO ERROR</u>",
             "choices": {
                 "a": "sister",
                 "b": "is",
@@ -729,7 +729,7 @@
         },
         {
             "id": 56,
-            "question": "The <u class='a'>book</u> <u class='b'>was</u> written by Mark Twain, <u class='c'>a</u> famous American author. <u class='d'>NO ERROR</u>",
+            "question": "The <u data-letter='a'>book</u> <u data-letter='b'>was</u> written by Mark Twain, <u data-letter='c'>a</u> famous American author. <u data-letter='d'>NO ERROR</u>",
             "choices": {
                 "a": "book",
                 "b": "was",
@@ -741,7 +741,7 @@
         },
         {
             "id": 57,
-            "question": "The <u class='a'>students</a> <u class='b'>were</u> asked to write an essay about <u class='c'>there</u> favorite book. <u class='d'>NO ERROR</u>",
+            "question": "The <u data-letter='a'>students</u> <u data-letter='b'>were</u> asked to write an essay about <u data-letter='c'>there</u> favorite book. <u data-letter='d'>NO ERROR</u>",
             "choices": {
                 "a": "students",
                 "b": "were",
@@ -753,7 +753,7 @@
         },
         {
             "id": 58,
-            "question": "He <u class='a'>didn't</a> know <u class='b'>weather</u> he <u class='c'>should attend the meeting or not. <u class='d'>NO ERROR</u>",
+            "question": "He <u data-letter='a'>didn't</u> know <u data-letter='b'>weather</u> he <u data-letter='c'>should attend the meeting or not. <u data-letter='d'>NO ERROR</u>",
             "choices": {
                 "a": "didn't",
                 "b": "weather",
@@ -765,7 +765,7 @@
         },
         {
             "id": 59,
-            "question": "The <u class='a'>dog</u> <u class='b'>ate</u> <u class='c'>its</u> food quickly then lay down to sleep. <u class='d'>NO ERROR</u>",
+            "question": "The <u data-letter='a'>dog</u> <u data-letter='b'>ate</u> <u data-letter='c'>its</u> food quickly then lay down to sleep. <u data-letter='d'>NO ERROR</u>",
             "choices": {
                 "a": "dog",
                 "b": "ate",
@@ -777,7 +777,7 @@
         },
         {
             "id": 60,
-            "question": "She <u class='a'>want</u> to buy a new car, but she <u class='b'>don't</u> <u class='c'>have</u> enough money. <u class='d'>NO ERROR</u>",
+            "question": "She <u data-letter='a'>want</u> to buy a new car, but she <u data-letter='b'>don't</u> <u data-letter='c'>have</u> enough money. <u data-letter='d'>NO ERROR</u>",
             "choices": {
                 "a": "want",
                 "b": "don't",
@@ -789,7 +789,7 @@
         },
         {
             "id": 61,
-            "question": "My <u class='a'>parents</u> <u class='b'>has</u> been married for <u class='c'>thirty years now. <u class='d'>NO ERROR</u>",
+            "question": "My <u data-letter='a'>parents</u> <u data-letter='b'>has</u> been married for <u data-letter='c'>thirty years now. <u data-letter='d'>NO ERROR</u>",
             "choices": {
                 "a": "parents",
                 "b": "has",
@@ -801,7 +801,7 @@
         },
         {
             "id": 62,
-            "question": "We<u class='a'>will</u> <u class='b'>go</u> to the beach if the weather <u class='c'>are</u> nice. <u class='d'>NO ERROR</u>",
+            "question": "We<u data-letter='a'>will</u> <u data-letter='b'>go</u> to the beach if the weather <u data-letter='c'>are</u> nice. <u data-letter='d'>NO ERROR</u>",
             "choices": {
                 "a": "will",
                 "b": "go",
@@ -813,7 +813,7 @@
         },
         {
             "id": 63,
-            "question": "The <u class='a'>children</u> <u class='b'>have</u> <u class='c'>eaten</u> all of their lunch. <u class='d'>NO ERROR</u>",
+            "question": "The <u data-letter='a'>children</u> <u data-letter='b'>have</u> <u data-letter='c'>eaten</u> all of their lunch. <u data-letter='d'>NO ERROR</u>",
             "choices": {
                 "a": "children",
                 "b": "have",
@@ -825,7 +825,7 @@
         },
         {
             "id": 64,
-            "question": "<u class='a'>She</u> <u class='b'>have</u> been to Paris <u class='c'>last</u> summer. <u class='d'>NO ERROR</u>",
+            "question": "<u data-letter='a'>She</u> <u data-letter='b'>have</u> been to Paris <u data-letter='c'>last</u> summer. <u data-letter='d'>NO ERROR</u>",
             "choices": {
                 "a": "She",
                 "b": "have",
@@ -837,7 +837,7 @@
         },
         {
             "id": 65,
-            "question": "The <u class='a'>student</u> <u class='b'>is</u> expected to <u class='c'>hand-in</u> his assignment by next Friday. <u class='d'>NO ERROR</u>",
+            "question": "The <u data-letter='a'>student</u> <u data-letter='b'>is</u> expected to <u data-letter='c'>hand-in</u> his assignment by next Friday. <u data-letter='d'>NO ERROR</u>",
             "choices": {
                 "a": "student",
                 "b": "is",
