@@ -2,7 +2,11 @@
 
 html * {box-sizing: border-box;}
 
-body {overflow-x: hidden;}
+body {
+  overflow-x: hidden;
+  width: 100vw;
+  width: 100svw;
+}
 
 header {position: relative;}
 
@@ -87,6 +91,7 @@ nav li {list-style: none;}
   border: 2px solid #1B335F;
   display: block;
   width: fit-content;
+  text-align: center;
 }
 
 .btn.primary-btn {
