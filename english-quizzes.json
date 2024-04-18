@@ -5655,7 +5655,7 @@
             "error-identification": [
                 {
                     "id": 51,
-                    "question": "The <u data-letter='a'>company</u> <u data-letter='b'>have</u> recently <u data-letter='c'>launched its new product line to great success.<u data-letter='d'>NO ERROR</u>",
+                    "question": "The <u data-letter='a'>company</u> <u data-letter='b'>have</u> recently <u data-letter='c'>launched</u> its new product line to great success.<u data-letter='d'>NO ERROR</u>",
                     "choices": {
                         "a": "company",
                         "b": "have",
@@ -5727,7 +5727,7 @@
                 },
                 {
                     "id": 57,
-                    "question": "The <u data-letter='a'>students</a> <u data-letter='b'>were</u> asked to write an essay about <u data-letter='c'>there</u> favorite book. <u data-letter='d'>NO ERROR</u>",
+                    "question": "The <u data-letter='a'>students</u> <u data-letter='b'>were</u> asked to write an essay about <u data-letter='c'>there</u> favorite book. <u data-letter='d'>NO ERROR</u>",
                     "choices": {
                         "a": "students",
                         "b": "were",
@@ -5739,7 +5739,7 @@
                 },
                 {
                     "id": 58,
-                    "question": "He <u data-letter='a'>didn't</a> know <u data-letter='b'>weather</u> he <u data-letter='c'>should attend the meeting or not. <u data-letter='d'>NO ERROR</u>",
+                    "question": "He <u data-letter='a'>didn't</u> know <u data-letter='b'>weather</u> he <u data-letter='c'>should</u> attend the meeting or not. <u data-letter='d'>NO ERROR</u>",
                     "choices": {
                         "a": "didn't",
                         "b": "weather",
@@ -5787,7 +5787,7 @@
                 },
                 {
                     "id": 62,
-                    "question": "We<u data-letter='a'>will</u> <u data-letter='b'>go</u> to the beach if the weather <u data-letter='c'>are</u> nice. <u data-letter='d'>NO ERROR</u>",
+                    "question": "We <u data-letter='a'>will</u> <u data-letter='b'>go</u> to the beach if the weather <u data-letter='c'>are</u> nice. <u data-letter='d'>NO ERROR</u>",
                     "choices": {
                         "a": "will",
                         "b": "go",
@@ -5811,7 +5811,7 @@
                 },
                 {
                     "id": 64,
-                    "question": "<u data-letter='a'>She </u><u data-letter='b'>have</u> been to Paris <u data-letter='c'>last</u> summer. <u data-letter='d'>NO ERROR</u>",
+                    "question": "<u data-letter='a'>She</u> <u data-letter='b'>have</u> been to Paris <u data-letter='c'>last</u> summer. <u data-letter='d'>NO ERROR</u>",
                     "choices": {
                         "a": "She",
                         "b": "have",
