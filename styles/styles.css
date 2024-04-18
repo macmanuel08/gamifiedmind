@@ -334,9 +334,13 @@ h1 {font-family: 'RocaOne-Rg';}
 .hidden-animate {
   transition: all 300ms ease-in-out;
   opacity: 0;
+  pointer-events: none;
 }
 
-.hidden-animate.show {opacity: 1;}
+.hidden-animate.show {
+  opacity: 1;
+  pointer-events: unset;
+}
 
 .question-block {
   padding: 30px;
