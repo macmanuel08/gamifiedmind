@@ -383,7 +383,23 @@ header {
   background-color: #96ADCF;
 }
 
-nav a {color: #000;}
+nav a {
+  color: #000;
+  position: relative;
+}
+
+nav a:before {
+  content: '';
+  display: block;
+  position: absolute;
+  bottom: -2px;
+  height: 1px;
+  width: 0;
+  background: #000;
+  transition: all 300ms ease-in-out;
+}
+
+nav a:hover::before {width: 100%;}
 
 .hero-title h1, .hero-title p {color: #1B335F;}
 
