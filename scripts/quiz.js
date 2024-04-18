@@ -61,25 +61,6 @@ class QuizModel {
         return document.querySelectorAll('.option.selected');
     }
 
-    // displayAnswers() {
-    //     const answers = this.getCorrectAnswers();
-    //     const userAnswerElements = document.querySelectorAll('.option.selected');
-
-    //     userAnswerElements.forEach((userAnswerElement, i) => {
-    //         const parentElement = getParent(userAnswerElement, "question-block");
-
-    //         if (userAnswerElement.dataset.value != answers[i]) {
-    //             parentElement.classList.add('incorrect');
-    //             const explanationParagraph = document.createElement('p');
-    //             explanationParagraph.classList.add('explanation');
-    //             explanationParagraph.textContent = this.randomQuestions[i].explanation;
-    //             parentElement.appendChild(explanationParagraph);
-    //         } else {
-    //             parentElement.classList.add('correct');
-    //         }
-    //     });
-    // }
-
     displayAnswers() {
         const answers = this.getCorrectAnswers();
         const questionBlocks = document.querySelectorAll('.question-block');
