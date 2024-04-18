@@ -378,6 +378,10 @@ h1 {font-family: 'RocaOne-Rg';}
 
 .question-block.incorrect p {color: #fff;}
 
+.question-block.correct .option, .question-block.incorrect .option {
+  pointer-events: none;
+}
+
 @media (min-width: 40em) {
   div a, div p, div li {font-size: 1.2rem;}
   div p {line-height: 28px;}
