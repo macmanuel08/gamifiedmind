@@ -57,6 +57,8 @@ td strong {
   font-weight: 700;
 }
 
+.mt-60 {margin-top: 60px;}
+
 /* Default */
 nav li {list-style: none;}
 
@@ -138,6 +140,8 @@ body footer {
   font-family: Helvitica, sans-serif;
   letter-spacing: 1px;
 }
+
+body footer a {color: #fff;}
 
 .photo img {
   width: 100%;
