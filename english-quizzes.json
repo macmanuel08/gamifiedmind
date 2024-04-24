@@ -1463,7 +1463,7 @@
         {
             "modal-auxiliary-verbs": [
                 {
-                "question": "She can speak French. Modify this sentence in its Past Modal Form.",
+                "question": "She can speak French.<br><br>Modify this sentence in its Past Modal Form.",
                 "choices": {
                     "1": "She shall speak French",
                     "2": "She would speak French",
@@ -1473,7 +1473,7 @@
                 "explanation": "In its Past Modal Form, the correct modification is 'She could speak French,' indicating the ability in the past."
                 },
                 {
-                "question": "He may join us later. Change this sentence to its Future Modal Form.",
+                "question": "He may join us later.<br><br>Change this sentence to its Future Modal Form.",
                 "choices": {
                     "1": "He will join us later",
                     "2": "He should join us later",
@@ -1483,7 +1483,7 @@
                 "explanation": "In its Future Modal Form, the correct modification is 'He might join us later,' indicating the possibility in the future."
                 },
                 {
-                "question": "You must complete the assignment. Convert this sentence to its Present Modal Form.",
+                "question": "You must complete the assignment.<br><br>Convert this sentence to its Present Modal Form.",
                 "choices": {
                     "1": "You can complete the assignment",
                     "2": "You will complete the assignment",
@@ -1493,7 +1493,7 @@
                 "explanation": "In its Present Modal Form, the correct modification is 'You must complete the assignment,' indicating a strong obligation in the present."
                 },
                 {
-                "question": "We should go to the museum. Change this sentence to its Past Modal Form.",
+                "question": "We should go to the museum.<br><br>Change this sentence to its Past Modal Form.",
                 "choices": {
                     "1": "We would go to the museum",
                     "2": "We will go to the museum",
@@ -1503,7 +1503,7 @@
                 "explanation": "In its Past Modal Form, the correct modification is 'We would go to the museum,' indicating a suggestion or intention in the past."
                 },
                 {
-                "question": "I will help you with the project. Transform this sentence to its Present Modal Form.",
+                "question": "I will help you with the project.<br><br>Transform this sentence to its Present Modal Form.",
                 "choices": {
                     "1": "I shall help you with the project",
                     "2": "I can help you with the project",
@@ -1513,7 +1513,7 @@
                 "explanation": "In its Present Modal Form, the correct modification is 'I can help you with the project,' indicating the ability in the present."
                 },
                 {
-                "question": "You would enjoy the movie. Adjust this sentence to its Future Modal Form.",
+                "question": "You would enjoy the movie.<br><br>Adjust this sentence to its Future Modal Form.",
                 "choices": {
                     "1": "You may enjoy the movie",
                     "2": "You will enjoy the movie",
@@ -1523,7 +1523,7 @@
                 "explanation": "In its Future Modal Form, the correct modification is 'You would enjoy the movie,' indicating a hypothetical enjoyment in the future."
                 },
                 {
-                "question": "She shall visit her grandparents. Modify this sentence to its Present Modal Form.",
+                "question": "She shall visit her grandparents.<br><br>Modify this sentence to its Present Modal Form.",
                 "choices": {
                     "1": "She may visit her grandparents",
                     "2": "She will visit her grandparents",
@@ -1533,7 +1533,7 @@
                 "explanation": "In its Present Modal Form, the correct modification is 'She may visit her grandparents,' indicating a possibility in the present."
                 },
                 {
-                "question": "They should attend the conference. Transform this sentence to its Past Modal Form.",
+                "question": "They should attend the conference.<br><br>Transform this sentence to its Past Modal Form.",
                 "choices": {
                     "1": "They should have attended the conference",
                     "2": "They will attend the conference",
@@ -1543,7 +1543,7 @@
                 "explanation": "In its Past Modal Form, the correct modification is 'They should have attended the conference,' indicating a suggestion or obligation in the past."
                 },
                 {
-                "question": "I might travel to Europe next year. Change this sentence to its Present Modal Form.",
+                "question": "I might travel to Europe next year.<br><br>Change this sentence to its Present Modal Form.",
                 "choices": {
                     "1": "I might be traveling to Europe next year",
                     "2": "I may travel to Europe next year",
@@ -1553,7 +1553,7 @@
                 "explanation": "In its Present Modal Form, the correct modification is 'I may travel to Europe next year,' indicating a possibility in the present."
                 },
                 {
-                "question": "He shall complete the project on time. Adjust this sentence to its Past Modal Form.",
+                "question": "He shall complete the project on time.<br><br>Adjust this sentence to its Past Modal Form.",
                 "choices": {
                     "1": "He should have completed the project on time",
                     "2": "He will complete the project on time",
@@ -1563,7 +1563,7 @@
                 "explanation": "In its Past Modal Form, the correct modification is 'He should have completed the project on time,' indicating a strong suggestion or obligation in the past."
                 },
                 {
-                "question": "You should visit the doctor regularly. Convert this sentence to its Future Modal Form.",
+                "question": "You should visit the doctor regularly.<br><br>Convert this sentence to its Future Modal Form.",
                 "choices": {
                     "1": "You will visit the doctor regularly",
                     "2": "You may visit the doctor regularly",
@@ -1573,7 +1573,7 @@
                 "explanation": "In its Future Modal Form, the correct modification is 'You will visit the doctor regularly,' indicating a suggestion or recommendation in the future."
                 },
                 {
-                "question": "We can solve the problem together. Change this sentence to its Present Modal Form.",
+                "question": "We can solve the problem together.<br><br>Change this sentence to its Present Modal Form.",
                 "choices": {
                     "1": "We will solve the problem together",
                     "2": "We may solve the problem together",
@@ -1583,7 +1583,7 @@
                 "explanation": "In its Present Modal Form, the correct modification is 'We can solve the problem together,' indicating the ability in the present."
                 },
                 {
-                "question": "She must finish her homework before going out. Modify this sentence to its Past Modal Form.",
+                "question": "She must finish her homework before going out.<br><br>Modify this sentence to its Past Modal Form.",
                 "choices": {
                     "1": "She must have finished her homework before going out",
                     "2": "She will finish her homework before going out",
@@ -1593,7 +1593,7 @@
                 "explanation": "In its Past Modal Form, the correct modification is 'She must have finished her homework before going out,' indicating a strong obligation or necessity in the past."
                 },
                 {
-                "question": "You will succeed with hard work. Transform this sentence to its Present Modal Form.",
+                "question": "You will succeed with hard work.<br><br>Transform this sentence to its Present Modal Form.",
                 "choices": {
                     "1": "You can succeed with hard work",
                     "2": "You may succeed with hard work",
@@ -1603,7 +1603,7 @@
                 "explanation": "In its Present Modal Form, the correct modification is 'You can succeed with hard work,' indicating the ability in the present."
                 },
                 {
-                "question": "They could have solved the puzzle. Adjust this sentence to its Future Modal Form.",
+                "question": "They could have solved the puzzle.<br><br>Adjust this sentence to its Future Modal Form.",
                 "choices": {
                     "1": "They could solve the puzzle",
                     "2": "They will solve the puzzle",
