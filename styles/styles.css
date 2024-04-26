@@ -160,7 +160,7 @@ body footer a {color: #fff;}
   min-height: 87vh;
   min-height: 87svh;
   display: grid;
-  grid-template-columns: 1fr minmax(256px, 30%);
+  grid-template-columns: 1fr minmax(300px, 30%);
 }
 
 .inside-pg .left {
