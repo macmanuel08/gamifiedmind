@@ -160,7 +160,7 @@ body footer a {color: #fff;}
   min-height: 87vh;
   min-height: 87svh;
   display: grid;
-  grid-template-columns: 1fr minmax(150px, 25%);
+  grid-template-columns: 1fr minmax(256px, 30%);
 }
 
 .inside-pg .left {
@@ -203,6 +203,12 @@ body footer a {color: #fff;}
   border: 2px solid #1B335F;
   width: fit-content;
 }
+
+.sidebar-ads {
+  padding: 30px 5px;
+}
+
+.sidebar-ads .ad {margin: 0 auto;}
 
 @media (max-width: 1366px) {
   .hero-title {
