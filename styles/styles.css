@@ -208,7 +208,11 @@ body footer a {color: #fff;}
   padding: 30px 5px;
 }
 
-.sidebar-ads .ad {margin: 0 auto;}
+.sidebar-ads .ad {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 @media (max-width: 1366px) {
   .hero-title {
