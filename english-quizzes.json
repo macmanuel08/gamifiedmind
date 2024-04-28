@@ -4657,7 +4657,7 @@
                 },
                 {
                     "question": "She ___________ the news with great excitement.",
-                    "answer": 4,
+                    "answer": 3,
                     "choices": {
                     "1": "hear",
                     "2": "hearing",
@@ -4668,7 +4668,7 @@
                 },
                 {
                     "question": "The students are ___________ for the upcoming exams.",
-                    "answer": 3,
+                    "answer": 2,
                     "choices": {
                     "1": "study",
                     "2": "studying",
@@ -4712,7 +4712,7 @@
                 },
                 {
                     "question": "The concert ___________ at 7:00 PM sharp.",
-                    "answer": 3,
+                    "answer": 1,
                     "choices": {
                     "1": "starts",
                     "2": "started",
@@ -4759,7 +4759,7 @@
                     "answer": 3,
                     "choices": {
                     "1": "reads",
-                    "2": "read",
+                    "2": "readed",
                     "3": "read",
                     "4": "reading"
                     },
