@@ -139,7 +139,7 @@
         {
             "articles": [
               {
-                "question": "We went to ___ zoo yesterday.",
+                "question": "We went to ___ Manila zoo yesterday.",
                 "answer": 3,
                 "choices": {
                   "1": "a",
@@ -2664,14 +2664,14 @@
                 },
                 {
                 "question": "My favorite colors are blue green and red.",
-                "answer": 4,
+                "answer": 1,
                 "choices": {
                     "1": "My favorite colors are blue, green, and red.",
                     "2": "My favorite colors are blue green, and red.",
                     "3": "My favorite colors are blue green and red.",
                     "4": "My favorite colors are blue, green, and red"
                 },
-                "explanation": "The correct answer is 'd'. Commas are needed to separate items in a list, ensuring clarity and proper punctuation."
+                "explanation": "The correct answer is 'a'. Commas are needed to separate items in a list, ensuring clarity and proper punctuation. Period at the end is needed."
                 },
                 {
                 "question": "She said, I will meet you there.",
@@ -2700,9 +2700,9 @@
                 "answer": 4,
                 "choices": {
                     "1": "The students were tired yet, they continued to work on their project.",
-                    "2": "The students were, tired, yet they continued to work on their project",
+                    "2": "The students were tired, yet they continued to work on their project",
                     "3": "The students were tired, yet, they continued to work on their project.",
-                    "4": "The students were tired, yet they continued to work on their project."
+                    "4": "The students, were tired, yet they continued to work on their project."
                 },
                 "explanation": "The correct answer is 'b'. A comma should be used before 'yet' to separate the independent clauses in a compound sentence."
                 },
