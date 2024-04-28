@@ -462,7 +462,7 @@
                 },
                 {
                 "question": "I have a lot (alot, a lot) of homework to complete tonight.",
-                "answer": 3,
+                "answer": 2,
                 "choices": {
                     "1": "alot",
                     "2": "a lot"
