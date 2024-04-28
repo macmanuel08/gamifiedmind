@@ -1029,7 +1029,7 @@
                 "question": "She forgot her umbrella, it started raining.",
                 "choices": {
                     "1": "She forgot her umbrella, it started raining.",
-                    "2": "She forgot her umbrella; it started raining.",
+                    "2": "She forgot her umbrella but it started raining.",
                     "3": "She forgot her umbrella so it started raining."
                 },
                 "answer": 2,
@@ -2425,8 +2425,8 @@
                     "2": "during",
                     "3": "against"
                 },
-                "answer": 1,
-                "explanation": "The correct preposition is 'with' because it indicates accompaniment or assistance during difficult times."
+                "answer": 2,
+                "explanation": "The correct preposition is 'during' because it indicates accompaniment or assistance during difficult times."
                 },
                 {
                 "question": "I'm good ____ playing the piano.",
