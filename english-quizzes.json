@@ -637,7 +637,7 @@
         {
             "compound-sentences": [
                 {
-                    "question": "She enjoys playing the piano. Identify the coordinating conjunction.",
+                    "question": "She enjoys eating fruits and playing the piano.",
                     "choices": {
                         "1": "She",
                         "2": "Playing",
@@ -645,10 +645,10 @@
                         "4": "and"
                     },
                     "answer": "4",
-                    "explanation": "In the sentence 'She enjoys playing the piano,' the coordinating conjunction is 'and' because it connects the two independent clauses 'She enjoys playing' and 'the piano.'"
+                    "explanation": "In the sentence 'She enjoys eating playing the piano,' the coordinating conjunction is 'and' because it connects the two independent clauses 'She enjoys eating fruits' and 'playing the piano.'"
                 },
                 {
-                    "question": "He worked hard, yet he didn't succeed. Identify the coordinating conjunction.",
+                    "question": "He worked hard, yet he didn't succeed.",
                     "choices": {
                         "1": "He worked hard",
                         "2": "Yet",
@@ -659,7 +659,7 @@
                     "explanation": "In the sentence 'He worked hard, yet he didn't succeed,' the coordinating conjunction is 'yet' because it connects the two independent clauses 'He worked hard' and 'he didn't succeed.'"
                 },
                 {
-                    "question": "They visited the museum, and they learned a lot. Identify the coordinating conjunction.",
+                    "question": "They visited the museum, and they learned a lot.",
                     "choices": {
                         "1": "They visited the museum",
                         "2": "And",
@@ -670,7 +670,7 @@
                     "explanation": "In the sentence 'They visited the museum, and they learned a lot,' the coordinating conjunction is 'and' because it connects the two independent clauses 'They visited the museum' and 'they learned a lot.'"
                 },
                 {
-                    "question": "I wanted to go for a walk, but it was raining. Identify the coordinating conjunction.",
+                    "question": "I wanted to go for a walk, but it was raining.",
                     "choices": {
                         "1": "I wanted to go for a walk",
                         "2": "But",
@@ -681,7 +681,7 @@
                     "explanation": "In the sentence 'I wanted to go for a walk, but it was raining,' the coordinating conjunction is 'but' because it connects the two independent clauses 'I wanted to go for a walk' and 'it was raining.'"
                 },
                 {
-                    "question": "She can join us for dinner, or she can meet us later. Identify the coordinating conjunction.",
+                    "question": "She can join us for dinner, or she can meet us later.",
                     "choices": {
                         "1": "She can join us for dinner",
                         "2": "Or",
@@ -692,7 +692,7 @@
                     "explanation": "In the sentence 'She can join us for dinner, or she can meet us later,' the coordinating conjunction is 'or' because it offers a choice between 'she can join us for dinner' and 'she can meet us later.'"
                 },
                 {
-                    "question": "He must finish his work, or he will not be allowed to go out. Identify the coordinating conjunction.",
+                    "question": "He must finish his work, or he will not be allowed to go out.",
                     "choices": {
                         "1": "He must finish his work",
                         "2": "Or",
@@ -703,7 +703,7 @@
                     "explanation": "In the sentence 'He must finish his work, or he will not be allowed to go out,' the coordinating conjunction is 'or' because it connects the two independent clauses 'He must finish his work' and 'he will not be allowed to go out,' offering a condition."
                 },
                 {
-                    "question": "We could watch a movie, or we could go out for dinner. Identify the coordinating conjunction.",
+                    "question": "We could watch a movie, or we could go out for dinner.",
                     "choices": {
                         "1": "We could watch a movie",
                         "2": "Or",
@@ -714,7 +714,7 @@
                     "explanation": "In the sentence 'We could watch a movie, or we could go out for dinner,' the coordinating conjunction is 'or' because it offers a choice between 'we could watch a movie' and 'we could go out for dinner.'"
                 },
                 {
-                    "question": "She did not complain, nor did she quit. Identify the coordinating conjunction.",
+                    "question": "She did not complain, nor did she quit.",
                     "choices": {
                         "1": "She did not complain",
                         "2": "Nor",
@@ -725,7 +725,7 @@
                     "explanation": "In the sentence 'She did not complain, nor did she quit,' the coordinating conjunction is 'nor' because it connects two negative ideas 'she did not complain' and 'did she quit' without using a conjunction like 'and' or 'but.'"
                 },
                 {
-                    "question": "You can either stay here, or you can come with us. Identify the coordinating conjunction.",
+                    "question": "You can either stay here, or you can come with us.",
                     "choices": {
                         "1": "You can either stay here",
                         "2": "Or",
@@ -736,7 +736,7 @@
                     "explanation": "In the sentence 'You can either stay here, or you can come with us,' the coordinating conjunction is 'or' because it provides a choice between 'you can either stay here' and 'you can come with us.'"
                 },
                 {
-                    "question": "They neither called us, nor did they send a message. Identify the coordinating conjunction.",
+                    "question": "They neither called us, nor did they send a message.",
                     "choices": {
                         "1": "They neither called us",
                         "2": "Nor",
@@ -747,7 +747,7 @@
                     "explanation": "In the sentence 'They neither called us, nor did they send a message,' the coordinating conjunction is 'nor' because it connects two actions that did not happen, 'they neither called us' and 'did they send a message,' without using 'and' or 'but.'"
                 },
                 {
-                    "question": "It was early, yet the city was already bustling. Identify the coordinating conjunction.",
+                    "question": "It was early, yet the city was already bustling.",
                     "choices": {
                         "1": "It was early",
                         "2": "Yet",
@@ -758,7 +758,7 @@
                     "explanation": "In the sentence 'It was early, yet the city was already bustling,' the coordinating conjunction is 'yet' because it connects two independent clauses 'It was early' and 'the city was already bustling,' indicating a contrast."
                 },
                 {
-                    "question": "He likes coffee, but his wife prefers tea. Identify the coordinating conjunction.",
+                    "question": "He likes coffee, but his wife prefers tea.",
                     "choices": {
                         "1": "He likes coffee",
                         "2": "But",
@@ -769,7 +769,7 @@
                     "explanation": "In the sentence 'He likes coffee, but his wife prefers tea,' the coordinating conjunction is 'but' because it connects the two independent clauses 'He likes coffee' and 'his wife prefers tea,' showing a contrast."
                 },
                 {
-                    "question": "They will attend the meeting, or they will send a representative. Identify the coordinating conjunction.",
+                    "question": "They will attend the meeting, or they will send a representative.",
                     "choices": {
                         "1": "They will attend the meeting",
                         "2": "Or",
@@ -780,7 +780,7 @@
                     "explanation": "In the sentence 'They will attend the meeting, or they will send a representative,' the coordinating conjunction is 'or' because it connects the two independent clauses 'They will attend the meeting' and 'they will send a representative,' offering alternatives."
                 },
                 {
-                    "question": "You need to hurry, or you will miss the bus. Identify the coordinating conjunction.",
+                    "question": "You need to hurry, or you will miss the bus.",
                     "choices": {
                         "1": "You need to hurry",
                         "2": "Or",
@@ -791,7 +791,7 @@
                     "explanation": "In the sentence 'You need to hurry, or you will miss the bus,' the coordinating conjunction is 'or' because it connects the two independent clauses 'You need to hurry' and 'you will miss the bus,' indicating a consequence of not hurrying."
                 },
                 {
-                    "question": "She tried to call you, but your phone was off. Identify the coordinating conjunction.",
+                    "question": "She tried to call you, but your phone was off.",
                     "choices": {
                         "1": "She tried to call you",
                         "2": "But",
@@ -802,7 +802,7 @@
                     "explanation": "In the sentence 'She tried to call you, but your phone was off,' the coordinating conjunction is 'but' because it connects the two independent clauses 'She tried to call you' and 'your phone was off,' showing a contrast."
                 },
                 {
-                    "question": "They wanted to buy a new car, so they started saving money. Identify the coordinating conjunction.",
+                    "question": "They wanted to buy a new car, so they started saving money.",
                     "choices": {
                         "1": "They wanted to buy a new car",
                         "2": "So",
