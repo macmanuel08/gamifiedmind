@@ -616,7 +616,7 @@
                 "question": "She visited the museum where she learned about ancient civilizations. Identify the relative pronoun.",
                 "choices": {
                     "1": "She visited the museum",
-                    "2": "Where she learned about ancient civilizations",
+                    "2": "where",
                     "3": "She learned about ancient civilizations"
                 },
                 "answer": "2",
