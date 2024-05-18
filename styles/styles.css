@@ -214,6 +214,10 @@ body footer a {color: #fff;}
   align-items: center;
 }
 
+.inside-pg.flex {align-items: flex-start;}
+
+.ad {margin-top: 60px;}
+
 @media (max-width: 1366px) {
   .hero-title {
     bottom: 15vh;
@@ -227,6 +231,8 @@ body footer a {color: #fff;}
 
 @media (max-width: 600px) {
   .inside-pg {grid-template-columns: 1fr;}
+  .ad:first-child {margin-top: 10px;}
+  .inside-pg .left {padding-bottom: 10px;}
 }
 
 @media (max-width: 550px) {
