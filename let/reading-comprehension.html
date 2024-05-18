@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="A learning app that provides practice tests for Licensure Examination for Teachers and Civil Service Exam">
+  <meta name="description" content="A learning app that provides practice tests for Licensure Examination for Teachers (LET)">
 
   <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
   <link rel="stylesheet" href="/styles/styles.css">
@@ -18,17 +18,17 @@
   </script>
   <!-- End Google Tag Manager -->
 
-  <title>GamifiedMind | English Tests</title>
+  <title>LET Reading Comprehension Quiz</title>
 </head>
 <body>
   <header>
     <div class="container">
       <div class="content flex">
-        <img class="header-logo" alt="GamifiED Mind logo" alt="GamifiED Mind logo" src="/assets/gamifiedmin-logo.jpg">
+        <img class="header-logo" alt="GamifiED Mind logo" src="/assets/gamifiedmin-logo.jpg">
         <nav>
           <ul class="flex">
             <li class="hamburger"><div class="bar bar1"></div><div class="bar bar2"></div><div class="bar bar3"></div></li>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="../index.html">Home</a></li>
             <li><a href="/reviewers.html">Reviewers</a></li>
             <li><a href="/tests.html">Tests</a></li>
             <li><a href="/about.html">About</a></li>
@@ -37,19 +37,15 @@
       </div>
     </div>
   </header>
-  <div class="inside-pg reviewers flex">
+  <div class="inside-pg flex">
     <div class="left">
-        <section>
-        <p>Welcome to our English Quiz! Whether you're looking to sharpen your language skills or preparing for a Civil Service Exam, you've come to the right place. Dive into a variety of English quizzes designed to challenge and improve your comprehension, grammar, and vocabulary. Test your knowledge with our curated selection of quizzes and Civil Service Exam simulation tests, and elevate your English proficiency to new heights. Let's embark on a journey of learning and mastery together!</p>
-            <div class="menu-list">
-                <a href="english-quizzes.html" class="menu-item">General English Quizzes</a>
-                <a href="cse-tests.html" class="menu-item">CSE Simulation English Tests</a>
-                <a href="let-tests.html" class="menu-item">LET English Tests</a>
-            </div>
-            <div class="mt-60">
-              <p>Stay tuned for more topics such as math problems!</p>
-            </div>
-        </section>       
+        <div class="quiz-instructions">
+          <p>Read the given passages and select the best answer for the questions that follow.</p>
+        </div>
+        <div class="quiz-container" data-topic="reading-comprehension"></div>
+        <div class="cta-container hidden-animate flex">
+          <a href="../let-tests.html" class="btn primary-btn">Check More Quizzes</a>
+         </div>
     </div>
     <aside>
       <div class="sidebar-ads">
@@ -81,9 +77,10 @@
     </aside>
   </div>
   <footer>
-    <p>© <span class="current-year"></span> GamifiED Mind. All rights Reserved. <a href="sitemap.html">Sitemap</a></p>
+    <p>© <span class="current-year"></span> GamifiED Mind. All rights Reserved. <a href="../sitemap.html">Sitemap</a></p>
   </footer>
-  <script src="scripts/main.js"></script>
+  <script src="../scripts/main.js"></script>
+  <script src="../scripts/quiz.js"></script>
 
   <!-- Google Tag Manager (noscript) -->
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P5ZTNVR3"

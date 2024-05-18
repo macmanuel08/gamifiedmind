@@ -6881,6 +6881,130 @@
                 "explanation": "The correct answer is 'a' because 'into' indicates movement towards the interior or inside of something, in this case, the sky."
                 }
             ]
+        },
+        {
+            "reading-comprehension": [
+                {
+                    "Id": 145,
+                    "question": "I am silver and exact. I have no preconceptions. Whatever I see I swallow immediately just as it is, unmisted by love or dislike.<br><br>This line from a poem suggests that:",
+                    "answer": "b",
+                    "choices": {
+                        "a": "The speaker is biased",
+                        "b": "The speaker is impartial",
+                        "c": "The speaker is imaginative",
+                        "d": "The speaker is deceitful"
+                    },
+                    "explanation": "The speaker is impartial. The description of being 'silver and exact' and swallowing things 'just as it is' indicates impartiality."
+                },
+                {
+                    "Id": 146,
+                    "question": "Do not go gentle into that good night, Old age should burn and rave at close of day; Rage, rage against the dying of the light.<br><br>This line from a poem suggests that:",
+                    "answer": "b",
+                    "choices": {
+                        "a": "Life should be accepted passively",
+                        "b": "Life should be fought for passionately",
+                        "c": "Life is meaningless",
+                        "d": "Life is short and unremarkable"
+                    },
+                    "explanation": "Life should be fought for passionately. The repetition of 'Rage, rage against the dying of the light' urges a passionate fight against death."
+                },
+                {
+                    "Id": 147,
+                    "question": "Two roads diverged in a yellow wood, And sorry I could not travel both And be one traveler, long I stood.<br><br>This line from a poem suggests that:",
+                    "answer": "b",
+                    "choices": {
+                        "a": "Choices are insignificant",
+                        "b": "Choices define our journey",
+                        "c": "Choices are easy to make",
+                        "d": "Choices are predetermined"
+                    },
+                    "explanation": "Choices define our journey. The imagery of diverging roads and the speaker's contemplation highlight the significance of choices."
+                },
+                {
+                    "Id": 148,
+                    "question": "I wandered lonely as a cloud That floats on high o'er vales and hills, When all at once I saw a crowd, A host, of golden daffodils.<br><br>This line from a poem suggests that:",
+                    "answer": "c",
+                    "choices": {
+                        "a": "Nature is solitary",
+                        "b": "Nature is uninteresting",
+                        "c": "Nature is joyful and uplifting",
+                        "d": "Nature is harsh and unwelcoming"
+                    },
+                    "explanation": "Nature is joyful and uplifting. The sight of golden daffodils lifts the speaker's spirits, suggesting joy and upliftment from nature."
+                },
+                {
+                    "Id": 149,
+                    "question": "Hope is the thing with feathers That perches in the soul, And sings the tune without the words, And never stops at all.<br><br>This line from a poem suggests that:",
+                    "answer": "d",
+                    "choices": {
+                        "a": "Hope is fleeting",
+                        "b": "Hope is fragile",
+                        "c": "Hope is unnecessary",
+                        "d": "Hope is constant and enduring"
+                    },
+                    "explanation": "Hope is constant and enduring. The description of hope as never stopping indicates its constant and enduring nature."
+                },
+                {
+                    "Id": 150,
+                    "question": "What happens to a dream deferred? Does it dry up Like a raisin in the sun? Or fester like a sore— And then run?<br><br>This line from a poem suggests that:",
+                    "answer": "c",
+                    "choices": {
+                        "a": "Deferred dreams are inconsequential",
+                        "b": "Deferred dreams are forgotten",
+                        "c": "Deferred dreams deteriorate",
+                        "d": "Deferred dreams are beneficial"
+                    },
+                    "explanation": "Deferred dreams deteriorate. The imagery of a dream drying up or festering suggests deterioration and negative consequences."
+                },
+                {
+                    "Id": 151,
+                    "question": "Because I could not stop for Death - He kindly stopped for me- The Carriage held but just Ourselves- And Immortality.<br><br>This line from a poem suggests that:",
+                    "answer": "c",
+                    "choices": {
+                        "a": "Death is frightening",
+                        "b": "Death is a rude interruption",
+                        "c": "Death is a gentle transition",
+                        "d": "Death is avoidable"
+                    },
+                    "explanation": "Death is a gentle transition. The description of Death kindly stopping and the carriage holding Immortality suggests a gentle transition."
+                },
+                {
+                    "Id": 152,
+                    "question": "Shall I compare thee to a summer's day? Thou art more lovely and more temperate: Rough winds do shake the darling buds of May, And summer's lease hath all too short a date.<br><br>This line from a poem suggests that:",
+                    "answer": "b",
+                    "choices": {
+                        "a": "The subject is fleeting like summer",
+                        "b": "The subject is more enduring than summer",
+                        "c": "The subject is temperamental like the weather",
+                        "d": "The subject is insignificant"
+                    },
+                    "explanation": "The subject is more enduring than summer. The comparison to summer highlights the subject's greater loveliness and temperance, implying more endurance."
+                },
+                {
+                    "Id": 153,
+                    "question": "I hear America singing, the varied carols I hear; Those of mechanics, each one singing his as it should be blithe and strong.<br><br>This line from a poem suggests that:",
+                    "answer": "a",
+                    "choices": {
+                        "a": "America is full of diverse and strong individuals",
+                        "b": "America is silent",
+                        "c": "America is monotonous",
+                        "d": "America is weak and divided"
+                    },
+                    "explanation": "America is full of diverse and strong individuals. The mention of varied carols and individuals singing blithely and strongly indicates diversity and strength."
+                },
+                {
+                    "Id": 154,
+                    "question": "Water, water, everywhere, And all the boards did shrink; Water, water, everywhere, Nor any drop to drink.<br><br>This line from a poem suggests that:",
+                    "answer": "a",
+                    "choices": {
+                        "a": "Abundance can sometimes lack utility",
+                        "b": "Water is always plentiful and useful",
+                        "c": "There is no water around",
+                        "d": "The speaker is satisfied"
+                    },
+                    "explanation": "Abundance can sometimes lack utility. The presence of water everywhere but none to drink highlights the irony of abundance without utility."
+                }
+            ]
         }
     ]
 }
